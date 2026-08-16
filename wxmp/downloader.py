@@ -12,6 +12,7 @@ from .article import (Article, ArticleError, fetch_article_html, normalize_url, 
 from .comments import CommentError, comments_to_json, fetch_comments
 from .config import Credentials, Settings
 from .http import make_session, sleep_jitter
+from .render_comments import attach_comments_to_files
 from .storage import Store
 
 _UNSAFE = re.compile(r'[\\/:*?"<>|\r\n\t]+')
@@ -110,6 +111,7 @@ class Downloader:
             comments_to_json(comments, {"url": art.canonical_url, "title": art.title,
                                         "elected_total": last.get("elected_comment_total_cnt")}), "utf-8")
         self.store.replace_comments(article_id, comments)
+        attach_comments_to_files(out_dir, comments)
         res.comment_count = len(comments)
         return res
 

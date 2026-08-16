@@ -331,6 +331,24 @@ def comments(c: Ctx, urls: tuple[str, ...], pending: bool, biz: str, force: bool
                 sleep_jitter(c.settings.delay)
 
 
+@main.command("render-comments")
+@click.option("--biz", default="", help="只处理某个公众号")
+@pass_ctx
+def render_comments_cmd(c: Ctx, biz: str) -> None:
+    """把已抓取的评论渲染进每篇文章的 article.html / article.md（留言区），可重复执行。"""
+    from .render_comments import attach_comments_to_files, load_comments_json
+
+    rows = [r for r in c.store.list_articles(biz=biz, status="ok", limit=10 ** 9) if r["comments_fetched_at"]]
+    n = 0
+    for r in rows:
+        d = Path(r["dir_path"]) if r["dir_path"] else None
+        if not d or not (d / "comments.json").exists():
+            continue
+        attach_comments_to_files(d, load_comments_json(d / "comments.json"))
+        n += 1
+    console.print(f"已为 {n} 篇文章写入留言区")
+
+
 @main.command("list")
 @click.option("--biz", default="")
 @click.option("--status", default="", help="ok / deleted / blocked / captcha / error ...")

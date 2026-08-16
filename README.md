@@ -4,7 +4,7 @@
 
 - 正文：`article.md`（Markdown，含 front-matter）、`article.html`（可离线打开）、`raw.html`（原始页面，便于重新解析）
 - 图片：`images/001.jpg ...`，Markdown/HTML 中已改为相对路径
-- 评论：`comments.json`
+- 评论：`comments.json`；同时会把留言区渲染进 `article.html` / `article.md` 末尾（老文章可用 `wxmp render-comments` 补渲染）
 - 元数据：`meta.json`
 - 全部元数据 + 正文 + 评论 + 图片索引同时写入 SQLite（`data/wxmp.db`），可用 `wxmp export` 导出 JSON/CSV
 
