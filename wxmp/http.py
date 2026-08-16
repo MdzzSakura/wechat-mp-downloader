@@ -33,8 +33,9 @@ def make_session(settings: Settings, cred: Credentials | None = None) -> request
 
 
 def sleep_jitter(base: float) -> None:
+    """按基准秒数睡眠，附加 0.8~1.6 倍随机抖动（偏向更慢，避免规律性请求）。"""
     if base > 0:
-        time.sleep(base * random.uniform(0.6, 1.4))
+        time.sleep(base * random.uniform(0.8, 1.6))
 
 
 def request_with_retry(session: requests.Session, method: str, url: str, *, retries: int = 3,

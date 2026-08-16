@@ -119,7 +119,7 @@ def iter_history_wechat(session: requests.Session, cred: Credentials, biz: str, 
         if not data.get("can_msg_continue") or not msgs:
             return
         offset = int(data.get("next_offset") or (offset + count))
-        sleep_jitter(delay)
+        sleep_jitter(delay * 1.5)   # 历史列表接口带登录态且风控最严，翻页放慢
 
 
 # ---------------------------------------------------------------------------

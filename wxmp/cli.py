@@ -12,6 +12,7 @@ from rich.table import Table
 from . import __version__
 from .config import Credentials, Settings
 from .downloader import Downloader, DownloadResult, fmt_ts
+from .http import sleep_jitter
 from .storage import Store
 
 console = Console()
@@ -46,13 +47,18 @@ pass_ctx = click.make_pass_decorator(Ctx)
 @click.version_option(__version__, prog_name="wxmp")
 @click.option("--data-dir", type=click.Path(path_type=Path), default=None,
               help="数据目录（默认 ./data 或环境变量 WXMP_DATA_DIR）")
-@click.option("--delay", type=float, default=2.0, show_default=True, help="请求间隔基准秒数")
+@click.option("--delay", type=float, default=6.0, show_default=True,
+              help="请求间隔基准秒数（实际 0.8~1.6 倍随机抖动；历史翻页再 x1.5）")
+@click.option("--rest-every", type=int, default=15, show_default=True,
+              help="批量下载时每连续下载 N 篇长休息一次（0=不休息）")
+@click.option("--rest-seconds", type=float, default=120.0, show_default=True, help="长休息基准秒数")
 @click.option("--timeout", type=float, default=20.0, show_default=True)
 @click.option("--proxy", default=None, help="下载流量使用的 HTTP 代理，如 http://127.0.0.1:8080")
 @click.pass_context
-def main(ctx: click.Context, data_dir: Path | None, delay: float, timeout: float, proxy: str | None) -> None:
+def main(ctx: click.Context, data_dir: Path | None, delay: float, rest_every: int, rest_seconds: float,
+         timeout: float, proxy: str | None) -> None:
     """微信公众号文章 / 评论下载器：正文存 Markdown+HTML+图片，元数据与评论存 SQLite。"""
-    s = Settings(delay=delay, timeout=timeout, proxy=proxy)
+    s = Settings(delay=delay, rest_every=rest_every, rest_seconds=rest_seconds, timeout=timeout, proxy=proxy)
     if data_dir:
         s.data_dir = data_dir
     ctx.obj = Ctx(s)
@@ -318,7 +324,11 @@ def comments(c: Ctx, urls: tuple[str, ...], pending: bool, biz: str, force: bool
         else:
             console.print(f"[green][{i}/{len(rows)}] {title}: 评论 {r.comment_count}[/]")
         if i < len(rows):
-            time.sleep(c.settings.delay / 2)
+            if c.settings.rest_every and i % c.settings.rest_every == 0:
+                console.print(f"[dim]已连续抓取 {i} 篇评论，长休息约 {c.settings.rest_seconds:.0f} 秒……[/]")
+                sleep_jitter(c.settings.rest_seconds)
+            else:
+                sleep_jitter(c.settings.delay)
 
 
 @main.command("list")

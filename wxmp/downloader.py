@@ -74,7 +74,7 @@ class Downloader:
 
         out_dir = self.article_dir(art)
         process_content(art, html, out_dir, self.session, download_images=with_images,
-                        delay=min(self.settings.delay / 4, 0.5), timeout=self.settings.timeout)
+                        delay=min(self.settings.delay / 4, 1.0), timeout=self.settings.timeout)
         write_article_files(art, out_dir, raw_html=html)
         article_id = self.store.upsert_article(art, out_dir)
         res = DownloadResult(url=url, ok=True, article=art, article_id=article_id, dir_path=out_dir)
@@ -95,7 +95,7 @@ class Downloader:
             comments, last = fetch_comments(
                 self.session, self.cred, biz=art.biz, mid=art.mid, idx=art.idx,
                 comment_id=art.comment_id, appmsg_token=art.appmsg_token,
-                delay=self.settings.delay / 2, timeout=self.settings.timeout)
+                delay=self.settings.delay, timeout=self.settings.timeout)
         except CommentError as e:
             self.store.set_comment_error(article_id, f"[{e.kind}] {e}")
             res.comment_error = f"[{e.kind}] {e}"
@@ -127,16 +127,23 @@ class Downloader:
                       ) -> list[DownloadResult]:
         results: list[DownloadResult] = []
         total = len(urls)
+        fetched = 0  # 本轮真正发起过请求的篇数（跳过的不计）
         for i, url in enumerate(urls, 1):
             res = self.download(url, with_comments=with_comments, with_images=with_images, force=force)
             results.append(res)
             if on_result:
                 on_result(i, total, res)
-            if not res.skipped and i < total:
-                sleep_jitter(self.settings.delay)
             if res.error and "[captcha]" in res.error:
-                self.log("检测到微信验证码页面（环境异常），已停止后续下载，请稍后再试或降低频率（--delay）")
+                self.log("检测到微信验证码页面（环境异常），已停止后续下载，请等待 1~2 小时后再试，或调大 --delay")
                 break
+            if res.skipped or i >= total:
+                continue
+            fetched += 1
+            if self.settings.rest_every and fetched % self.settings.rest_every == 0:
+                self.log(f"已连续下载 {fetched} 篇，长休息约 {self.settings.rest_seconds:.0f} 秒……")
+                sleep_jitter(self.settings.rest_seconds)
+            else:
+                sleep_jitter(self.settings.delay)
         return results
 
 

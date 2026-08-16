@@ -19,7 +19,9 @@ class Settings:
     """命令行 / 环境变量给出的运行参数（不含凭证）。"""
 
     data_dir: Path = field(default_factory=lambda: Path(os.environ.get("WXMP_DATA_DIR", "data")))
-    delay: float = 2.0      # 请求间隔基准（秒），实际会附加随机抖动
+    delay: float = 6.0      # 请求间隔基准（秒），实际会附加随机抖动（0.8~1.6 倍）
+    rest_every: int = 15    # 每连续下载多少篇文章后长休息一次（0=不休息）
+    rest_seconds: float = 120.0  # 长休息基准秒数（同样带随机抖动）
     timeout: float = 20.0
     proxy: str | None = None  # 例如 http://127.0.0.1:8080，可让下载流量也经过 mitmproxy 便于调试
 
