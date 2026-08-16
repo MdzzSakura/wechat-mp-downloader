@@ -124,20 +124,47 @@ def js_var(html: str, name: str) -> str:
     return ""
 
 
-def detect_error(html: str) -> None:
+def _page_hint(html: str, final_url: str = "") -> str:
+    """失败时给出页面标题 / 可见文字片段，便于判断是验证码、跳转还是结构变化。"""
+    m = re.search(r"<title[^>]*>(.*?)</title>", html, re.S | re.I)
+    title = htmlmod.unescape(m.group(1)).strip() if m else ""
+    text = re.sub(r"<(script|style)[^>]*>.*?</\1>", " ", html, flags=re.S | re.I)
+    text = re.sub(r"<[^>]+>", " ", text)
+    text = re.sub(r"\s+", " ", htmlmod.unescape(text)).strip()
+    parts = []
+    if final_url:
+        parts.append(f"url={final_url}")
+    if title:
+        parts.append(f"title={title[:60]}")
+    if text:
+        parts.append(f"text={text[:120]}")
+    return "；".join(parts)
+
+
+def detect_error(html: str, final_url: str = "") -> None:
     if 'id="js_content"' in html:
         return
     for marker, kind in ERROR_MARKERS:
         if marker in html:
             raise ArticleError(kind, f"页面提示：{marker}")
-    raise ArticleError("unknown", "未找到正文节点 #js_content（页面结构变化或非文章页）")
+    hint = _page_hint(html, final_url)
+    raise ArticleError("unknown", "未找到正文节点 #js_content（页面结构变化或非文章页）"
+                       + (f"。响应摘要：{hint}" if hint else ""))
 
 
-def fetch_article_html(session: requests.Session, url: str, timeout: float = 20.0) -> str:
+def fetch_article_html(session: requests.Session, url: str, timeout: float = 20.0,
+                       debug_dir: Path | None = None) -> str:
     resp = request_with_retry(session, "GET", url, timeout=timeout)
     resp.encoding = "utf-8"
     html = resp.text
-    detect_error(html)
+    try:
+        detect_error(html, resp.url)
+    except ArticleError:
+        if debug_dir is not None:
+            debug_dir.mkdir(parents=True, exist_ok=True)
+            name = re.sub(r"[^A-Za-z0-9_-]+", "_", url.rsplit("/", 1)[-1])[:60] or "page"
+            (debug_dir / f"{int(time.time())}_{name}.html").write_text(html, "utf-8")
+        raise
     return html
 
 

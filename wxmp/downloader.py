@@ -63,7 +63,8 @@ class Downloader:
                 return res
 
         try:
-            html = fetch_article_html(self.session, url, timeout=self.settings.timeout)
+            html = fetch_article_html(self.session, url, timeout=self.settings.timeout,
+                                      debug_dir=self.settings.data_dir / "debug")
             art = parse_article(html, url)
         except ArticleError as e:
             self.store.mark_failed(url, e.kind, str(e))
