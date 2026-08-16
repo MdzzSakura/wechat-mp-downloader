@@ -1,0 +1,27 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "wxmp-downloader"
+version = "0.1.0"
+description = "下载微信公众号文章与评论，结构化存储到本地（SQLite + Markdown + 图片）"
+requires-python = ">=3.10"
+dependencies = [
+    "requests>=2.31",
+    "beautifulsoup4>=4.12",
+    "lxml>=5.0",
+    "markdownify>=0.12",
+    "click>=8.1",
+    "rich>=13.0",
+    "mitmproxy>=10.0",
+]
+
+[project.optional-dependencies]
+dev = ["pytest>=8"]
+
+[project.scripts]
+wxmp = "wxmp.cli:main"
+
+[tool.setuptools.packages.find]
+include = ["wxmp*"]
