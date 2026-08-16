@@ -1,0 +1,1035 @@
+{
+  "fetched_at": 1786893599,
+  "count": 15,
+  "meta": {
+    "url": "https://mp.weixin.qq.com/s?__biz=MzkyMzQ3MDc3Mw==&mid=2247485880&idx=1&sn=ad7d037743fde67c4b21ba3f224cc1b3",
+    "title": "CXO，强劲的基本面能否对冲医药的蹲狗",
+    "elected_total": 9
+  },
+  "comments": [
+    {
+      "content_id": "601541093569331703",
+      "parent_content_id": "",
+      "nick_name": "1little0",
+      "logo_url": "https://wx.qlogo.cn/mmopen/AbruuZ3ILCleicSticInPRR1ljSzQlic3kDicSc77ibHbUB0rJAvE9oic6aicFvwrY6ECjtsEN6Ou4CbKJ1xMHe0lVGZg/64",
+      "content": "对比科技，医药真的是狗都不理哎。那批人科技里面的一坨屎都觉得香",
+      "create_time": 1775618605,
+      "like_num": 2,
+      "is_elected": true,
+      "is_author": false,
+      "raw": {
+        "author_like_status": 0,
+        "bizattr_servicetype": 0,
+        "can_share": true,
+        "content": "对比科技，医药真的是狗都不理哎。那批人科技里面的一坨屎都觉得香",
+        "content_id": "601541093569331703",
+        "create_time": 1775618605,
+        "dislike_status": 0,
+        "id": 1,
+        "identity_name": "otWnb6X9mBUkEAeMwKZQOKq4NQ7o",
+        "identity_type": 0,
+        "ip_wording": {
+          "city_id": "",
+          "city_name": "",
+          "country_id": "156",
+          "country_name": "中国",
+          "province_id": "",
+          "province_name": "浙江"
+        },
+        "is_can_delete": false,
+        "is_elected": 1,
+        "is_first_comment": true,
+        "is_from": 0,
+        "is_from_friend": 0,
+        "is_from_me": 0,
+        "is_reward": 0,
+        "is_top": 0,
+        "like_num": 2,
+        "like_status": 0,
+        "logo_url": "https://wx.qlogo.cn/mmopen/AbruuZ3ILCleicSticInPRR1ljSzQlic3kDicSc77ibHbUB0rJAvE9oic6aicFvwrY6ECjtsEN6Ou4CbKJ1xMHe0lVGZg/64",
+        "multi_info": {
+          "emojis": [],
+          "pictures": [],
+          "voices": []
+        },
+        "my_id": 503,
+        "need_show_publish_tips": false,
+        "nick_name": "1little0",
+        "openid": "otWnb6X9mBUkEAeMwKZQOKq4NQ7o",
+        "party_flag": 0,
+        "reply_new": {
+          "max_reply_id": 2,
+          "reply_list": [
+            {
+              "author_like_status": 0,
+              "bizattr_servicetype": 1,
+              "can_share": true,
+              "content": "科技的一些细分领域确实是产业逻辑强、有业绩，咱们也不可否认的。但还是那句话，创新药及其产业链的基本面在全市场比较来说肯定不算差的，应该说是比较靠前的几个细分行业之一，是不容忽视的。",
+              "create_time": 1775618720,
+              "from_ai": false,
+              "highlight": {
+                "highlight_pos": [
+                  38
+                ],
+                "s1s_context_info": [
+                  "%7B%22mixerCommonContext%22%3A%22%7B%5C%22mixerrank_list%5C%22%3A%5B%7B%5C%22client_type%5C%22%3A2%2C%5C%22sub_type%5C%22%3A0%2C%5C%22rank_pos%5C%22%3A20%2C%5C%22docid%5C%22%3A%5C%222239401578798981245%5C%22%7D%5D%2C%5C%22scene%5C%22%3A205%7D%22%7D"
+                ],
+                "s1s_jsapi_name": [
+                  "openWXSearchHalfPage"
+                ],
+                "s1s_jsapi_paras": [
+                  "{\"scene\":205,\"isAutoShowUnitInHalfScreen\":1,\"hiddenSearchHeader\":0,\"parentType\":135,\"webviewHeightRatio\":0.699999989, \"kvItems\":[], \"sessionKvItems\":[] }"
+                ],
+                "s1s_stat_info": [
+                  "%7B%22bizuin%22%3A3923470773%2C%22appmsgid%22%3A2247485880%2C%22itemidx%22%3A1%2C%22comment_id%22%3A%224463176121500712967%22%2C%22content_id%22%3A%22601541093569331703%22%2C%22reply_id%22%3A1%2C%22docid%22%3A%222239401578798981245%22%2C%22pos%22%3A38%2C%22request_type%22%3A1%2C%22request_id%22%3A%2215821463170961149298%22%2C%22query%22%3A%22%E5%88%9B%E6%96%B0%E8%8D%AF%22%2C%22search_id%22%3A%2215821463170961149298%22%7D"
+                ],
+                "word": [
+                  "创新药"
+                ]
+              },
+              "identity_name": "gh_9a9c8e147c7e",
+              "identity_type": 1,
+              "is_deleted": 0,
+              "is_from": 2,
+              "is_from_friend": 0,
+              "is_reward": 0,
+              "logo_url": "https://wx.qlogo.cn/mmhead/Q3auHgzwzM45AZYW3xRiaOnSUEiaOn6AkrVeQPptZPQQkZ15Beb16x1A/64",
+              "multi_info": {
+                "emojis": [],
+                "pictures": [],
+                "voices": []
+              },
+              "nick_name": "龙谈价值2023",
+              "openid": "",
+              "reply_del_flag": 0,
+              "reply_dislike_status": 0,
+              "reply_id": 1,
+              "reply_is_elected": 1,
+              "reply_like_num": 15,
+              "reply_like_status": 0,
+              "rich_content": {
+                "subcontent_list": []
+              }
+            }
+          ],
+          "reply_total_cnt": 1
+        },
+        "rich_content": {
+          "subcontent_list": []
+        }
+      }
+    },
+    {
+      "content_id": "1",
+      "parent_content_id": "601541093569331703",
+      "nick_name": "龙谈价值2023",
+      "logo_url": "https://wx.qlogo.cn/mmhead/Q3auHgzwzM45AZYW3xRiaOnSUEiaOn6AkrVeQPptZPQQkZ15Beb16x1A/64",
+      "content": "科技的一些细分领域确实是产业逻辑强、有业绩，咱们也不可否认的。但还是那句话，创新药及其产业链的基本面在全市场比较来说肯定不算差的，应该说是比较靠前的几个细分行业之一，是不容忽视的。",
+      "create_time": 1775618720,
+      "like_num": 15,
+      "is_elected": true,
+      "is_author": true,
+      "raw": {
+        "author_like_status": 0,
+        "bizattr_servicetype": 1,
+        "can_share": true,
+        "content": "科技的一些细分领域确实是产业逻辑强、有业绩，咱们也不可否认的。但还是那句话，创新药及其产业链的基本面在全市场比较来说肯定不算差的，应该说是比较靠前的几个细分行业之一，是不容忽视的。",
+        "create_time": 1775618720,
+        "from_ai": false,
+        "highlight": {
+          "highlight_pos": [
+            38
+          ],
+          "s1s_context_info": [
+            "%7B%22mixerCommonContext%22%3A%22%7B%5C%22mixerrank_list%5C%22%3A%5B%7B%5C%22client_type%5C%22%3A2%2C%5C%22sub_type%5C%22%3A0%2C%5C%22rank_pos%5C%22%3A20%2C%5C%22docid%5C%22%3A%5C%222239401578798981245%5C%22%7D%5D%2C%5C%22scene%5C%22%3A205%7D%22%7D"
+          ],
+          "s1s_jsapi_name": [
+            "openWXSearchHalfPage"
+          ],
+          "s1s_jsapi_paras": [
+            "{\"scene\":205,\"isAutoShowUnitInHalfScreen\":1,\"hiddenSearchHeader\":0,\"parentType\":135,\"webviewHeightRatio\":0.699999989, \"kvItems\":[], \"sessionKvItems\":[] }"
+          ],
+          "s1s_stat_info": [
+            "%7B%22bizuin%22%3A3923470773%2C%22appmsgid%22%3A2247485880%2C%22itemidx%22%3A1%2C%22comment_id%22%3A%224463176121500712967%22%2C%22content_id%22%3A%22601541093569331703%22%2C%22reply_id%22%3A1%2C%22docid%22%3A%222239401578798981245%22%2C%22pos%22%3A38%2C%22request_type%22%3A1%2C%22request_id%22%3A%2215821463170961149298%22%2C%22query%22%3A%22%E5%88%9B%E6%96%B0%E8%8D%AF%22%2C%22search_id%22%3A%2215821463170961149298%22%7D"
+          ],
+          "word": [
+            "创新药"
+          ]
+        },
+        "identity_name": "gh_9a9c8e147c7e",
+        "identity_type": 1,
+        "is_deleted": 0,
+        "is_from": 2,
+        "is_from_friend": 0,
+        "is_reward": 0,
+        "logo_url": "https://wx.qlogo.cn/mmhead/Q3auHgzwzM45AZYW3xRiaOnSUEiaOn6AkrVeQPptZPQQkZ15Beb16x1A/64",
+        "multi_info": {
+          "emojis": [],
+          "pictures": [],
+          "voices": []
+        },
+        "nick_name": "龙谈价值2023",
+        "openid": "",
+        "reply_del_flag": 0,
+        "reply_dislike_status": 0,
+        "reply_id": 1,
+        "reply_is_elected": 1,
+        "reply_like_num": 15,
+        "reply_like_status": 0,
+        "rich_content": {
+          "subcontent_list": []
+        }
+      }
+    },
+    {
+      "content_id": "8395963135789367338",
+      "parent_content_id": "",
+      "nick_name": "飛行艇wdl",
+      "logo_url": "https://wx.qlogo.cn/mmopen/AbruuZ3ILCkkCOqbrCbfMVOG1gnayoG5vxEzBxxOkbJW8Nn26o4mqCoIZuvMAmlXOaYheFicf1q24EyRVnQnXW3QUJjg4dqKOaA2OQnfls40S3hu70YByDWQuUwYyicBT3/64",
+      "content": "业内高度一致，但是一看股价大部分月线还在下面....相比科技的景气度，吸引不到外部的资金[捂脸]",
+      "create_time": 1775619087,
+      "like_num": 5,
+      "is_elected": true,
+      "is_author": false,
+      "raw": {
+        "author_like_status": 0,
+        "bizattr_servicetype": 0,
+        "can_share": true,
+        "content": "业内高度一致，但是一看股价大部分月线还在下面....相比科技的景气度，吸引不到外部的资金[捂脸]",
+        "content_id": "8395963135789367338",
+        "create_time": 1775619087,
+        "dislike_status": 0,
+        "id": 3,
+        "identity_name": "otWnb6f8XXbxbpxcVef8jUEziOIg",
+        "identity_type": 0,
+        "ip_wording": {
+          "city_id": "",
+          "city_name": "",
+          "country_id": "156",
+          "country_name": "中国",
+          "province_id": "",
+          "province_name": "浙江"
+        },
+        "is_can_delete": false,
+        "is_elected": 1,
+        "is_first_comment": false,
+        "is_from": 0,
+        "is_from_friend": 0,
+        "is_from_me": 0,
+        "is_reward": 0,
+        "is_top": 0,
+        "like_num": 5,
+        "like_status": 0,
+        "logo_url": "https://wx.qlogo.cn/mmopen/AbruuZ3ILCkkCOqbrCbfMVOG1gnayoG5vxEzBxxOkbJW8Nn26o4mqCoIZuvMAmlXOaYheFicf1q24EyRVnQnXW3QUJjg4dqKOaA2OQnfls40S3hu70YByDWQuUwYyicBT3/64",
+        "multi_info": {
+          "emojis": [],
+          "pictures": [],
+          "voices": []
+        },
+        "my_id": 42,
+        "need_show_publish_tips": false,
+        "nick_name": "飛行艇wdl",
+        "openid": "otWnb6f8XXbxbpxcVef8jUEziOIg",
+        "party_flag": 0,
+        "reply_new": {
+          "max_reply_id": 2,
+          "reply_list": [
+            {
+              "author_like_status": 0,
+              "bizattr_servicetype": 1,
+              "can_share": true,
+              "content": "CXO总归是比创新药，更容易被全基的资金看懂吧，哈哈",
+              "create_time": 1775619334,
+              "from_ai": false,
+              "identity_name": "gh_9a9c8e147c7e",
+              "identity_type": 1,
+              "is_deleted": 0,
+              "is_from": 2,
+              "is_from_friend": 0,
+              "is_reward": 0,
+              "logo_url": "https://wx.qlogo.cn/mmhead/Q3auHgzwzM45AZYW3xRiaOnSUEiaOn6AkrVeQPptZPQQkZ15Beb16x1A/64",
+              "multi_info": {
+                "emojis": [],
+                "pictures": [],
+                "voices": []
+              },
+              "nick_name": "龙谈价值2023",
+              "openid": "",
+              "reply_del_flag": 0,
+              "reply_dislike_status": 0,
+              "reply_id": 1,
+              "reply_is_elected": 1,
+              "reply_like_num": 12,
+              "reply_like_status": 0,
+              "rich_content": {
+                "subcontent_list": []
+              }
+            }
+          ],
+          "reply_total_cnt": 1
+        },
+        "rich_content": {
+          "subcontent_list": []
+        }
+      }
+    },
+    {
+      "content_id": "1",
+      "parent_content_id": "8395963135789367338",
+      "nick_name": "龙谈价值2023",
+      "logo_url": "https://wx.qlogo.cn/mmhead/Q3auHgzwzM45AZYW3xRiaOnSUEiaOn6AkrVeQPptZPQQkZ15Beb16x1A/64",
+      "content": "CXO总归是比创新药，更容易被全基的资金看懂吧，哈哈",
+      "create_time": 1775619334,
+      "like_num": 12,
+      "is_elected": true,
+      "is_author": true,
+      "raw": {
+        "author_like_status": 0,
+        "bizattr_servicetype": 1,
+        "can_share": true,
+        "content": "CXO总归是比创新药，更容易被全基的资金看懂吧，哈哈",
+        "create_time": 1775619334,
+        "from_ai": false,
+        "identity_name": "gh_9a9c8e147c7e",
+        "identity_type": 1,
+        "is_deleted": 0,
+        "is_from": 2,
+        "is_from_friend": 0,
+        "is_reward": 0,
+        "logo_url": "https://wx.qlogo.cn/mmhead/Q3auHgzwzM45AZYW3xRiaOnSUEiaOn6AkrVeQPptZPQQkZ15Beb16x1A/64",
+        "multi_info": {
+          "emojis": [],
+          "pictures": [],
+          "voices": []
+        },
+        "nick_name": "龙谈价值2023",
+        "openid": "",
+        "reply_del_flag": 0,
+        "reply_dislike_status": 0,
+        "reply_id": 1,
+        "reply_is_elected": 1,
+        "reply_like_num": 12,
+        "reply_like_status": 0,
+        "rich_content": {
+          "subcontent_list": []
+        }
+      }
+    },
+    {
+      "content_id": "3141212305744724390",
+      "parent_content_id": "",
+      "nick_name": "廖书豪",
+      "logo_url": "https://wx.qlogo.cn/mmopen/M5ev2aeIIdlXia6icAogH9NRgFkZX6BNuQoJIUqwIKB72ujhh80Z3vj5qRo91Eiba8XQBqDXY6w018F2Wy2m1a01cn313kUqQvI/64",
+      "content": "好骂，今天盘面就是真实写照，怒其不争[捂脸]",
+      "create_time": 1775620162,
+      "like_num": 3,
+      "is_elected": true,
+      "is_author": false,
+      "raw": {
+        "author_like_status": 0,
+        "bizattr_servicetype": 0,
+        "can_share": true,
+        "content": "好骂，今天盘面就是真实写照，怒其不争[捂脸]",
+        "content_id": "3141212305744724390",
+        "create_time": 1775620162,
+        "dislike_status": 0,
+        "id": 8,
+        "identity_name": "otWnb6UA8yVBJtbYWLvlWL_x_0Bc",
+        "identity_type": 0,
+        "ip_wording": {
+          "city_id": "",
+          "city_name": "",
+          "country_id": "156",
+          "country_name": "中国",
+          "province_id": "",
+          "province_name": "四川"
+        },
+        "is_can_delete": false,
+        "is_elected": 1,
+        "is_first_comment": false,
+        "is_from": 0,
+        "is_from_friend": 0,
+        "is_from_me": 0,
+        "is_reward": 0,
+        "is_top": 0,
+        "like_num": 3,
+        "like_status": 0,
+        "logo_url": "https://wx.qlogo.cn/mmopen/M5ev2aeIIdlXia6icAogH9NRgFkZX6BNuQoJIUqwIKB72ujhh80Z3vj5qRo91Eiba8XQBqDXY6w018F2Wy2m1a01cn313kUqQvI/64",
+        "multi_info": {
+          "emojis": [],
+          "pictures": [],
+          "voices": []
+        },
+        "my_id": 422,
+        "need_show_publish_tips": false,
+        "nick_name": "廖书豪",
+        "openid": "otWnb6UA8yVBJtbYWLvlWL_x_0Bc",
+        "party_flag": 0,
+        "reply_new": {
+          "max_reply_id": 2,
+          "reply_list": [
+            {
+              "author_like_status": 0,
+              "bizattr_servicetype": 1,
+              "can_share": true,
+              "content": "单日的盘面都还好，毕竟上周医药一把涨这么多。\n只是中长期来看医药每次都搞利好兑现猛砸的话，很打击投资人信心的，信心比黄金重要[呲牙]",
+              "create_time": 1775620259,
+              "from_ai": false,
+              "identity_name": "gh_9a9c8e147c7e",
+              "identity_type": 1,
+              "is_deleted": 0,
+              "is_from": 2,
+              "is_from_friend": 0,
+              "is_reward": 0,
+              "logo_url": "https://wx.qlogo.cn/mmhead/Q3auHgzwzM45AZYW3xRiaOnSUEiaOn6AkrVeQPptZPQQkZ15Beb16x1A/64",
+              "multi_info": {
+                "emojis": [],
+                "pictures": [],
+                "voices": []
+              },
+              "nick_name": "龙谈价值2023",
+              "openid": "",
+              "reply_del_flag": 0,
+              "reply_dislike_status": 0,
+              "reply_id": 1,
+              "reply_is_elected": 1,
+              "reply_like_num": 9,
+              "reply_like_status": 0,
+              "rich_content": {
+                "subcontent_list": []
+              }
+            }
+          ],
+          "reply_total_cnt": 1
+        },
+        "rich_content": {
+          "subcontent_list": []
+        }
+      }
+    },
+    {
+      "content_id": "1",
+      "parent_content_id": "3141212305744724390",
+      "nick_name": "龙谈价值2023",
+      "logo_url": "https://wx.qlogo.cn/mmhead/Q3auHgzwzM45AZYW3xRiaOnSUEiaOn6AkrVeQPptZPQQkZ15Beb16x1A/64",
+      "content": "单日的盘面都还好，毕竟上周医药一把涨这么多。\n只是中长期来看医药每次都搞利好兑现猛砸的话，很打击投资人信心的，信心比黄金重要[呲牙]",
+      "create_time": 1775620259,
+      "like_num": 9,
+      "is_elected": true,
+      "is_author": true,
+      "raw": {
+        "author_like_status": 0,
+        "bizattr_servicetype": 1,
+        "can_share": true,
+        "content": "单日的盘面都还好，毕竟上周医药一把涨这么多。\n只是中长期来看医药每次都搞利好兑现猛砸的话，很打击投资人信心的，信心比黄金重要[呲牙]",
+        "create_time": 1775620259,
+        "from_ai": false,
+        "identity_name": "gh_9a9c8e147c7e",
+        "identity_type": 1,
+        "is_deleted": 0,
+        "is_from": 2,
+        "is_from_friend": 0,
+        "is_reward": 0,
+        "logo_url": "https://wx.qlogo.cn/mmhead/Q3auHgzwzM45AZYW3xRiaOnSUEiaOn6AkrVeQPptZPQQkZ15Beb16x1A/64",
+        "multi_info": {
+          "emojis": [],
+          "pictures": [],
+          "voices": []
+        },
+        "nick_name": "龙谈价值2023",
+        "openid": "",
+        "reply_del_flag": 0,
+        "reply_dislike_status": 0,
+        "reply_id": 1,
+        "reply_is_elected": 1,
+        "reply_like_num": 9,
+        "reply_like_status": 0,
+        "rich_content": {
+          "subcontent_list": []
+        }
+      }
+    },
+    {
+      "content_id": "11699506440610775417",
+      "parent_content_id": "",
+      "nick_name": "奇志",
+      "logo_url": "https://wx.qlogo.cn/mmopen/YHiby9xiabHxBibpaRrSuEmYrjlNbqkkRvVCHmicrQib7Klia3PcMhcEjghSuWaQ6AX4EfpF21xkYHFhH5yYwCQd71jDqfYfiaiaquyXaIw86trzUGKSicMW0icHoXkyZawjpue2tG/64",
+      "content": "龙大，器械，迈瑞这种26年的发展怎么看",
+      "create_time": 1775619642,
+      "like_num": 1,
+      "is_elected": true,
+      "is_author": false,
+      "raw": {
+        "author_like_status": 0,
+        "bizattr_servicetype": 0,
+        "can_share": true,
+        "content": "龙大，器械，迈瑞这种26年的发展怎么看",
+        "content_id": "11699506440610775417",
+        "create_time": 1775619642,
+        "dislike_status": 0,
+        "id": 6,
+        "identity_name": "otWnb6Ug0CRJ7EnhLdU810uWGcAw",
+        "identity_type": 0,
+        "ip_wording": {
+          "city_id": "",
+          "city_name": "",
+          "country_id": "156",
+          "country_name": "中国",
+          "province_id": "",
+          "province_name": "广东"
+        },
+        "is_can_delete": false,
+        "is_elected": 1,
+        "is_first_comment": false,
+        "is_from": 0,
+        "is_from_friend": 0,
+        "is_from_me": 0,
+        "is_reward": 0,
+        "is_top": 0,
+        "like_num": 1,
+        "like_status": 0,
+        "logo_url": "https://wx.qlogo.cn/mmopen/YHiby9xiabHxBibpaRrSuEmYrjlNbqkkRvVCHmicrQib7Klia3PcMhcEjghSuWaQ6AX4EfpF21xkYHFhH5yYwCQd71jDqfYfiaiaquyXaIw86trzUGKSicMW0icHoXkyZawjpue2tG/64",
+        "multi_info": {
+          "emojis": [],
+          "pictures": [],
+          "voices": []
+        },
+        "my_id": 377,
+        "need_show_publish_tips": false,
+        "nick_name": "奇志",
+        "openid": "otWnb6Ug0CRJ7EnhLdU810uWGcAw",
+        "party_flag": 0,
+        "reply_new": {
+          "max_reply_id": 3,
+          "reply_list": [
+            {
+              "author_like_status": 0,
+              "bizattr_servicetype": 1,
+              "can_share": true,
+              "content": "迈瑞25年三季度收入增速转正，原本我们也期待那个拐点，但那时候实际来看渠道库存依然没出清，年报压力依然很大，后续年报放出来大家也都看到了。\n看今年我认为是有机会看到真正的业绩拐点的，问题在于看到拐点可能向上的业绩弹性的没有很大，迈瑞当前的体量，在没有外部事件冲击的情况下很难有大的加速。未来业绩会逐渐趋于相对的稳定，变成偏美的/格力这样的红利股，迈瑞去年的股息率不到3%，后续利润端企稳的话，还可以看看股息。",
+              "create_time": 1775620129,
+              "from_ai": false,
+              "identity_name": "gh_9a9c8e147c7e",
+              "identity_type": 1,
+              "is_deleted": 0,
+              "is_from": 2,
+              "is_from_friend": 0,
+              "is_reward": 0,
+              "logo_url": "https://wx.qlogo.cn/mmhead/Q3auHgzwzM45AZYW3xRiaOnSUEiaOn6AkrVeQPptZPQQkZ15Beb16x1A/64",
+              "multi_info": {
+                "emojis": [],
+                "pictures": [],
+                "voices": []
+              },
+              "nick_name": "龙谈价值2023",
+              "openid": "",
+              "reply_del_flag": 0,
+              "reply_dislike_status": 0,
+              "reply_id": 1,
+              "reply_is_elected": 1,
+              "reply_like_num": 9,
+              "reply_like_status": 0,
+              "rich_content": {
+                "subcontent_list": []
+              }
+            }
+          ],
+          "reply_total_cnt": 1
+        },
+        "rich_content": {
+          "subcontent_list": []
+        }
+      }
+    },
+    {
+      "content_id": "1",
+      "parent_content_id": "11699506440610775417",
+      "nick_name": "龙谈价值2023",
+      "logo_url": "https://wx.qlogo.cn/mmhead/Q3auHgzwzM45AZYW3xRiaOnSUEiaOn6AkrVeQPptZPQQkZ15Beb16x1A/64",
+      "content": "迈瑞25年三季度收入增速转正，原本我们也期待那个拐点，但那时候实际来看渠道库存依然没出清，年报压力依然很大，后续年报放出来大家也都看到了。\n看今年我认为是有机会看到真正的业绩拐点的，问题在于看到拐点可能向上的业绩弹性的没有很大，迈瑞当前的体量，在没有外部事件冲击的情况下很难有大的加速。未来业绩会逐渐趋于相对的稳定，变成偏美的/格力这样的红利股，迈瑞去年的股息率不到3%，后续利润端企稳的话，还可以看看股息。",
+      "create_time": 1775620129,
+      "like_num": 9,
+      "is_elected": true,
+      "is_author": true,
+      "raw": {
+        "author_like_status": 0,
+        "bizattr_servicetype": 1,
+        "can_share": true,
+        "content": "迈瑞25年三季度收入增速转正，原本我们也期待那个拐点，但那时候实际来看渠道库存依然没出清，年报压力依然很大，后续年报放出来大家也都看到了。\n看今年我认为是有机会看到真正的业绩拐点的，问题在于看到拐点可能向上的业绩弹性的没有很大，迈瑞当前的体量，在没有外部事件冲击的情况下很难有大的加速。未来业绩会逐渐趋于相对的稳定，变成偏美的/格力这样的红利股，迈瑞去年的股息率不到3%，后续利润端企稳的话，还可以看看股息。",
+        "create_time": 1775620129,
+        "from_ai": false,
+        "identity_name": "gh_9a9c8e147c7e",
+        "identity_type": 1,
+        "is_deleted": 0,
+        "is_from": 2,
+        "is_from_friend": 0,
+        "is_reward": 0,
+        "logo_url": "https://wx.qlogo.cn/mmhead/Q3auHgzwzM45AZYW3xRiaOnSUEiaOn6AkrVeQPptZPQQkZ15Beb16x1A/64",
+        "multi_info": {
+          "emojis": [],
+          "pictures": [],
+          "voices": []
+        },
+        "nick_name": "龙谈价值2023",
+        "openid": "",
+        "reply_del_flag": 0,
+        "reply_dislike_status": 0,
+        "reply_id": 1,
+        "reply_is_elected": 1,
+        "reply_like_num": 9,
+        "reply_like_status": 0,
+        "rich_content": {
+          "subcontent_list": []
+        }
+      }
+    },
+    {
+      "content_id": "2588966514631639864",
+      "parent_content_id": "",
+      "nick_name": "光头的复利人生",
+      "logo_url": "https://wx.qlogo.cn/mmhead/Q3auHgzwzM7OTMHibfto0610duYShiaRJ4sPKF78ibkvIb4gzhbH1lXPw/64",
+      "content": "虽然每次都被骗炮，但依然含泪高喊“这次不一样”！",
+      "create_time": 1775619468,
+      "like_num": 9,
+      "is_elected": true,
+      "is_author": false,
+      "raw": {
+        "author_like_status": 0,
+        "bizattr_servicetype": 1,
+        "can_share": true,
+        "content": "虽然每次都被骗炮，但依然含泪高喊“这次不一样”！",
+        "content_id": "2588966514631639864",
+        "create_time": 1775619468,
+        "dislike_status": 0,
+        "id": 5,
+        "identity_name": "gh_e0cfdc1cfe26",
+        "identity_type": 1,
+        "ip_wording": {
+          "city_id": "",
+          "city_name": "",
+          "country_id": "156",
+          "country_name": "中国",
+          "province_id": "",
+          "province_name": "江苏"
+        },
+        "is_can_delete": false,
+        "is_elected": 1,
+        "is_first_comment": false,
+        "is_from": 0,
+        "is_from_friend": 0,
+        "is_from_me": 0,
+        "is_reward": 0,
+        "is_top": 0,
+        "like_num": 9,
+        "like_status": 0,
+        "logo_url": "https://wx.qlogo.cn/mmhead/Q3auHgzwzM7OTMHibfto0610duYShiaRJ4sPKF78ibkvIb4gzhbH1lXPw/64",
+        "multi_info": {
+          "emojis": [],
+          "pictures": [],
+          "voices": []
+        },
+        "my_id": 824,
+        "need_show_publish_tips": false,
+        "nick_name": "光头的复利人生",
+        "openid": "otWnb6XJGRX00ObR15dVF5cTZYZk",
+        "party_flag": 0,
+        "reply_new": {
+          "max_reply_id": 2,
+          "reply_list": [],
+          "reply_total_cnt": 0
+        },
+        "rich_content": {
+          "subcontent_list": []
+        }
+      }
+    },
+    {
+      "content_id": "1867771647990169865",
+      "parent_content_id": "",
+      "nick_name": "雨化心声",
+      "logo_url": "https://wx.qlogo.cn/mmopen/ajNVdqHZLLCln2TFksVe63l6KwhT62yZhicy3ogQVicNneBENnJibsjZt92y07b3B9c2bjL6WWibRBl4892NEl1jVg/64",
+      "content": "龙大，今年的医药，BD肯定不是主角，但不会落下，cxo扛大旗，行不行，多研究研究解读，不然就从原料换工具吧[咖啡]",
+      "create_time": 1775619329,
+      "like_num": 1,
+      "is_elected": true,
+      "is_author": false,
+      "raw": {
+        "author_like_status": 0,
+        "bizattr_servicetype": 0,
+        "can_share": true,
+        "content": "龙大，今年的医药，BD肯定不是主角，但不会落下，cxo扛大旗，行不行，多研究研究解读，不然就从原料换工具吧[咖啡]",
+        "content_id": "1867771647990169865",
+        "create_time": 1775619329,
+        "dislike_status": 0,
+        "id": 4,
+        "identity_name": "otWnb6W36AcX6k2iVhnVExUd3TAc",
+        "identity_type": 0,
+        "ip_wording": {
+          "city_id": "",
+          "city_name": "",
+          "country_id": "156",
+          "country_name": "中国",
+          "province_id": "",
+          "province_name": "河南"
+        },
+        "is_can_delete": false,
+        "is_elected": 1,
+        "is_first_comment": false,
+        "is_from": 0,
+        "is_from_friend": 0,
+        "is_from_me": 0,
+        "is_reward": 0,
+        "is_top": 0,
+        "like_num": 1,
+        "like_status": 0,
+        "logo_url": "https://wx.qlogo.cn/mmopen/ajNVdqHZLLCln2TFksVe63l6KwhT62yZhicy3ogQVicNneBENnJibsjZt92y07b3B9c2bjL6WWibRBl4892NEl1jVg/64",
+        "multi_info": {
+          "emojis": [],
+          "pictures": [],
+          "voices": []
+        },
+        "my_id": 265,
+        "need_show_publish_tips": false,
+        "nick_name": "雨化心声",
+        "openid": "otWnb6W36AcX6k2iVhnVExUd3TAc",
+        "party_flag": 0,
+        "reply_new": {
+          "max_reply_id": 4,
+          "reply_list": [
+            {
+              "author_like_status": 0,
+              "bizattr_servicetype": 1,
+              "can_share": true,
+              "content": "CXO相对明牌，估值也不能提到天上去啊，创新药我觉得还是主线，产业链配合。创新药能走强，大家对CXO的信心也是越足的。",
+              "create_time": 1775619448,
+              "from_ai": false,
+              "identity_name": "gh_9a9c8e147c7e",
+              "identity_type": 1,
+              "is_deleted": 0,
+              "is_from": 2,
+              "is_from_friend": 0,
+              "is_reward": 0,
+              "logo_url": "https://wx.qlogo.cn/mmhead/Q3auHgzwzM45AZYW3xRiaOnSUEiaOn6AkrVeQPptZPQQkZ15Beb16x1A/64",
+              "multi_info": {
+                "emojis": [],
+                "pictures": [],
+                "voices": []
+              },
+              "nick_name": "龙谈价值2023",
+              "openid": "",
+              "reply_del_flag": 0,
+              "reply_dislike_status": 0,
+              "reply_id": 1,
+              "reply_is_elected": 1,
+              "reply_like_num": 8,
+              "reply_like_status": 0,
+              "rich_content": {
+                "subcontent_list": []
+              }
+            }
+          ],
+          "reply_total_cnt": 1
+        },
+        "rich_content": {
+          "subcontent_list": []
+        }
+      }
+    },
+    {
+      "content_id": "1",
+      "parent_content_id": "1867771647990169865",
+      "nick_name": "龙谈价值2023",
+      "logo_url": "https://wx.qlogo.cn/mmhead/Q3auHgzwzM45AZYW3xRiaOnSUEiaOn6AkrVeQPptZPQQkZ15Beb16x1A/64",
+      "content": "CXO相对明牌，估值也不能提到天上去啊，创新药我觉得还是主线，产业链配合。创新药能走强，大家对CXO的信心也是越足的。",
+      "create_time": 1775619448,
+      "like_num": 8,
+      "is_elected": true,
+      "is_author": true,
+      "raw": {
+        "author_like_status": 0,
+        "bizattr_servicetype": 1,
+        "can_share": true,
+        "content": "CXO相对明牌，估值也不能提到天上去啊，创新药我觉得还是主线，产业链配合。创新药能走强，大家对CXO的信心也是越足的。",
+        "create_time": 1775619448,
+        "from_ai": false,
+        "identity_name": "gh_9a9c8e147c7e",
+        "identity_type": 1,
+        "is_deleted": 0,
+        "is_from": 2,
+        "is_from_friend": 0,
+        "is_reward": 0,
+        "logo_url": "https://wx.qlogo.cn/mmhead/Q3auHgzwzM45AZYW3xRiaOnSUEiaOn6AkrVeQPptZPQQkZ15Beb16x1A/64",
+        "multi_info": {
+          "emojis": [],
+          "pictures": [],
+          "voices": []
+        },
+        "nick_name": "龙谈价值2023",
+        "openid": "",
+        "reply_del_flag": 0,
+        "reply_dislike_status": 0,
+        "reply_id": 1,
+        "reply_is_elected": 1,
+        "reply_like_num": 8,
+        "reply_like_status": 0,
+        "rich_content": {
+          "subcontent_list": []
+        }
+      }
+    },
+    {
+      "content_id": "6757059617714339994",
+      "parent_content_id": "",
+      "nick_name": "好久不见",
+      "logo_url": "https://wx.qlogo.cn/mmopen/PiajxSqBRaEKcibWFlw9tPQre2zptpjH9XrgHBaicXYLysTUoiaX9comFE8QNaGAlZzBqNNkNClLmBj8NPEDiaPzjLibdLjSgiab8RZicibKQ9GDibZqYzyWciaP3wKXic1r9v20PYYf/64",
+      "content": "龙大，普洛药业怎么样",
+      "create_time": 1775618921,
+      "like_num": 0,
+      "is_elected": true,
+      "is_author": false,
+      "raw": {
+        "author_like_status": 0,
+        "bizattr_servicetype": 0,
+        "can_share": true,
+        "content": "龙大，普洛药业怎么样",
+        "content_id": "6757059617714339994",
+        "create_time": 1775618921,
+        "dislike_status": 0,
+        "id": 2,
+        "identity_name": "otWnb6RFtVOYA5x4DU8sFzObSYwc",
+        "identity_type": 0,
+        "ip_wording": {
+          "city_id": "",
+          "city_name": "",
+          "country_id": "156",
+          "country_name": "中国",
+          "province_id": "",
+          "province_name": "山东"
+        },
+        "is_can_delete": false,
+        "is_elected": 1,
+        "is_first_comment": false,
+        "is_from": 0,
+        "is_from_friend": 0,
+        "is_from_me": 0,
+        "is_reward": 0,
+        "is_top": 0,
+        "like_num": 0,
+        "like_status": 0,
+        "logo_url": "https://wx.qlogo.cn/mmopen/PiajxSqBRaEKcibWFlw9tPQre2zptpjH9XrgHBaicXYLysTUoiaX9comFE8QNaGAlZzBqNNkNClLmBj8NPEDiaPzjLibdLjSgiab8RZicibKQ9GDibZqYzyWciaP3wKXic1r9v20PYYf/64",
+        "multi_info": {
+          "emojis": [],
+          "pictures": [],
+          "voices": []
+        },
+        "my_id": 154,
+        "need_show_publish_tips": false,
+        "nick_name": "好久不见",
+        "openid": "otWnb6RFtVOYA5x4DU8sFzObSYwc",
+        "party_flag": 0,
+        "reply_new": {
+          "max_reply_id": 2,
+          "reply_list": [
+            {
+              "author_like_status": 0,
+              "bizattr_servicetype": 1,
+              "can_share": true,
+              "content": "原料药去年基本处于周期底部比较差的阶段，今年又叠加这么复杂的局势，基本上化工链的产品都有提价，原料药的成本提升向下游顺价我认为基本没太大问题，印度那边的产能的压力比咱们要大的多，边际上大概率向好，只不过普洛本身也说不上是特别低估的估值，还要看具体今年业绩修复的情况。",
+              "create_time": 1775619265,
+              "from_ai": false,
+              "identity_name": "gh_9a9c8e147c7e",
+              "identity_type": 1,
+              "is_deleted": 0,
+              "is_from": 2,
+              "is_from_friend": 0,
+              "is_reward": 0,
+              "logo_url": "https://wx.qlogo.cn/mmhead/Q3auHgzwzM45AZYW3xRiaOnSUEiaOn6AkrVeQPptZPQQkZ15Beb16x1A/64",
+              "multi_info": {
+                "emojis": [],
+                "pictures": [],
+                "voices": []
+              },
+              "nick_name": "龙谈价值2023",
+              "openid": "",
+              "reply_del_flag": 0,
+              "reply_dislike_status": 0,
+              "reply_id": 1,
+              "reply_is_elected": 1,
+              "reply_like_num": 5,
+              "reply_like_status": 0,
+              "rich_content": {
+                "subcontent_list": []
+              }
+            }
+          ],
+          "reply_total_cnt": 1
+        },
+        "rich_content": {
+          "subcontent_list": []
+        }
+      }
+    },
+    {
+      "content_id": "1",
+      "parent_content_id": "6757059617714339994",
+      "nick_name": "龙谈价值2023",
+      "logo_url": "https://wx.qlogo.cn/mmhead/Q3auHgzwzM45AZYW3xRiaOnSUEiaOn6AkrVeQPptZPQQkZ15Beb16x1A/64",
+      "content": "原料药去年基本处于周期底部比较差的阶段，今年又叠加这么复杂的局势，基本上化工链的产品都有提价，原料药的成本提升向下游顺价我认为基本没太大问题，印度那边的产能的压力比咱们要大的多，边际上大概率向好，只不过普洛本身也说不上是特别低估的估值，还要看具体今年业绩修复的情况。",
+      "create_time": 1775619265,
+      "like_num": 5,
+      "is_elected": true,
+      "is_author": true,
+      "raw": {
+        "author_like_status": 0,
+        "bizattr_servicetype": 1,
+        "can_share": true,
+        "content": "原料药去年基本处于周期底部比较差的阶段，今年又叠加这么复杂的局势，基本上化工链的产品都有提价，原料药的成本提升向下游顺价我认为基本没太大问题，印度那边的产能的压力比咱们要大的多，边际上大概率向好，只不过普洛本身也说不上是特别低估的估值，还要看具体今年业绩修复的情况。",
+        "create_time": 1775619265,
+        "from_ai": false,
+        "identity_name": "gh_9a9c8e147c7e",
+        "identity_type": 1,
+        "is_deleted": 0,
+        "is_from": 2,
+        "is_from_friend": 0,
+        "is_reward": 0,
+        "logo_url": "https://wx.qlogo.cn/mmhead/Q3auHgzwzM45AZYW3xRiaOnSUEiaOn6AkrVeQPptZPQQkZ15Beb16x1A/64",
+        "multi_info": {
+          "emojis": [],
+          "pictures": [],
+          "voices": []
+        },
+        "nick_name": "龙谈价值2023",
+        "openid": "",
+        "reply_del_flag": 0,
+        "reply_dislike_status": 0,
+        "reply_id": 1,
+        "reply_is_elected": 1,
+        "reply_like_num": 5,
+        "reply_like_status": 0,
+        "rich_content": {
+          "subcontent_list": []
+        }
+      }
+    },
+    {
+      "content_id": "6567321032162541654",
+      "parent_content_id": "",
+      "nick_name": "田霖",
+      "logo_url": "https://wx.qlogo.cn/mmopen/M5ev2aeIIdklyGJS8TMHhbXvbbXN67H3vvaXYTbicjzk3xm99LrcBAxYV6ubyorMybYedFkhicCNUIibtibUulZP4TsrIibqwjQ0S/64",
+      "content": "港药etf目前三分之一仓位，这部分我是坚决不做高抛低吸的，跌出好价格就继续补",
+      "create_time": 1775620119,
+      "like_num": 2,
+      "is_elected": true,
+      "is_author": false,
+      "raw": {
+        "author_like_status": 0,
+        "bizattr_servicetype": 0,
+        "can_share": true,
+        "content": "港药etf目前三分之一仓位，这部分我是坚决不做高抛低吸的，跌出好价格就继续补",
+        "content_id": "6567321032162541654",
+        "create_time": 1775620119,
+        "dislike_status": 0,
+        "id": 7,
+        "identity_name": "otWnb6Qs6S1HZVR5EB2jWPNP8VkI",
+        "identity_type": 0,
+        "ip_wording": {
+          "city_id": "",
+          "city_name": "",
+          "country_id": "156",
+          "country_name": "中国",
+          "province_id": "",
+          "province_name": "山东"
+        },
+        "is_can_delete": false,
+        "is_elected": 1,
+        "is_first_comment": false,
+        "is_from": 0,
+        "is_from_friend": 0,
+        "is_from_me": 0,
+        "is_reward": 0,
+        "is_top": 0,
+        "like_num": 2,
+        "like_status": 0,
+        "logo_url": "https://wx.qlogo.cn/mmopen/M5ev2aeIIdklyGJS8TMHhbXvbbXN67H3vvaXYTbicjzk3xm99LrcBAxYV6ubyorMybYedFkhicCNUIibtibUulZP4TsrIibqwjQ0S/64",
+        "multi_info": {
+          "emojis": [],
+          "pictures": [],
+          "voices": []
+        },
+        "my_id": 86,
+        "need_show_publish_tips": false,
+        "nick_name": "田霖",
+        "openid": "otWnb6Qs6S1HZVR5EB2jWPNP8VkI",
+        "party_flag": 0,
+        "reply_new": {
+          "max_reply_id": 1,
+          "reply_list": [],
+          "reply_total_cnt": 0
+        },
+        "rich_content": {
+          "subcontent_list": []
+        }
+      }
+    },
+    {
+      "content_id": "8294329177180471368",
+      "parent_content_id": "",
+      "nick_name": "DRAGON",
+      "logo_url": "https://wx.qlogo.cn/mmopen/M5ev2aeIIdlMaJia1wbhDaaPxpe2P3eILjgnejelA02IBiayejDtm7TicT3ZeibpJmXAHAgqWps6NibicQgiaicTUUQQIl9bmyTdAuCbU1icBfxdCbIcYgJib9iblBj0E0kYpj0LXME/64",
+      "content": "有药明系两家就够了，伴随创新药可以多拿几年",
+      "create_time": 1775620203,
+      "like_num": 1,
+      "is_elected": true,
+      "is_author": false,
+      "raw": {
+        "author_like_status": 0,
+        "bizattr_servicetype": 0,
+        "can_share": true,
+        "content": "有药明系两家就够了，伴随创新药可以多拿几年",
+        "content_id": "8294329177180471368",
+        "create_time": 1775620203,
+        "dislike_status": 0,
+        "id": 9,
+        "identity_name": "otWnb6f9MVn7mUmc_KNd6W0wJQGc",
+        "identity_type": 0,
+        "ip_wording": {
+          "city_id": "",
+          "city_name": "",
+          "country_id": "156",
+          "country_name": "中国",
+          "province_id": "",
+          "province_name": "贵州"
+        },
+        "is_can_delete": false,
+        "is_elected": 1,
+        "is_first_comment": false,
+        "is_from": 0,
+        "is_from_friend": 0,
+        "is_from_me": 0,
+        "is_reward": 0,
+        "is_top": 0,
+        "like_num": 1,
+        "like_status": 0,
+        "logo_url": "https://wx.qlogo.cn/mmopen/M5ev2aeIIdlMaJia1wbhDaaPxpe2P3eILjgnejelA02IBiayejDtm7TicT3ZeibpJmXAHAgqWps6NibicQgiaicTUUQQIl9bmyTdAuCbU1icBfxdCbIcYgJib9iblBj0E0kYpj0LXME/64",
+        "multi_info": {
+          "emojis": [],
+          "pictures": [],
+          "voices": []
+        },
+        "my_id": 72,
+        "need_show_publish_tips": false,
+        "nick_name": "DRAGON",
+        "openid": "otWnb6f9MVn7mUmc_KNd6W0wJQGc",
+        "party_flag": 0,
+        "reply_new": {
+          "max_reply_id": 1,
+          "reply_list": [],
+          "reply_total_cnt": 0
+        },
+        "rich_content": {
+          "subcontent_list": []
+        }
+      }
+    }
+  ]
+}

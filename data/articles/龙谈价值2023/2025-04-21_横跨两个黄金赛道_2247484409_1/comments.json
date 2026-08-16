@@ -1,0 +1,1200 @@
+{
+  "fetched_at": 1786895416,
+  "count": 17,
+  "meta": {
+    "url": "https://mp.weixin.qq.com/s?__biz=MzkyMzQ3MDc3Mw==&mid=2247484409&idx=1&sn=cd9c01b6be30e09a0d4fb3c2d15d078b",
+    "title": "横跨两个黄金赛道",
+    "elected_total": 8
+  },
+  "comments": [
+    {
+      "content_id": "6603237683290440271",
+      "parent_content_id": "",
+      "nick_name": "Frank",
+      "logo_url": "https://wx.qlogo.cn/mmopen/DVfg7Dyyrb6ORSxty7SAFGOIjedC9Azib6Y5Nia1ztUvceddmOHmMVWOmhthtkNMjCibk7TRtiaTicFySqgZ4McBEPDLD6YRXMibhpy5icpGevk0ic7Gr0ytCFIiclzEerS9MpIiaY/64",
+      "content": "龙哥，请问迈瑞您怎么看，跌了好几年了",
+      "create_time": 1745223678,
+      "like_num": 1,
+      "is_elected": true,
+      "is_author": false,
+      "raw": {
+        "author_like_status": 0,
+        "bizattr_servicetype": 0,
+        "can_share": true,
+        "content": "龙哥，请问迈瑞您怎么看，跌了好几年了",
+        "content_id": "6603237683290440271",
+        "create_time": 1745223678,
+        "dislike_status": 0,
+        "id": 19,
+        "identity_name": "otWnb6XZh0WA4q3HDOQynKY_Do4k",
+        "identity_type": 0,
+        "ip_wording": {
+          "city_id": "",
+          "city_name": "",
+          "country_id": "156",
+          "country_name": "中国",
+          "province_id": "",
+          "province_name": "北京"
+        },
+        "is_can_delete": false,
+        "is_elected": 1,
+        "is_first_comment": false,
+        "is_from": 0,
+        "is_from_friend": 0,
+        "is_from_me": 0,
+        "is_reward": 0,
+        "is_top": 0,
+        "like_num": 1,
+        "like_status": 0,
+        "logo_url": "https://wx.qlogo.cn/mmopen/DVfg7Dyyrb6ORSxty7SAFGOIjedC9Azib6Y5Nia1ztUvceddmOHmMVWOmhthtkNMjCibk7TRtiaTicFySqgZ4McBEPDLD6YRXMibhpy5icpGevk0ic7Gr0ytCFIiclzEerS9MpIiaY/64",
+        "multi_info": {
+          "emojis": [],
+          "pictures": [],
+          "voices": []
+        },
+        "my_id": 591,
+        "need_show_publish_tips": false,
+        "nick_name": "Frank",
+        "openid": "otWnb6XZh0WA4q3HDOQynKY_Do4k",
+        "party_flag": 0,
+        "reply_new": {
+          "max_reply_id": 6,
+          "reply_list": [
+            {
+              "author_like_status": 0,
+              "bizattr_servicetype": 1,
+              "can_share": true,
+              "content": "迈瑞这个真的也在评论区回复过好多遍了，建议平时看文章的同时也多看看评论区，有很多重要的问题都回答过了。\n迈瑞医疗调报表调了几年，一直稳定20%的业绩增速，直到去年Q2开始兜不住20%的增速了，Q3进一步承压，24Q4-25Q1压力更大，渠道去库存应该要持续到今年Q1，所以要看24Q4和25Q1业绩有多差，以及Q2有可能是业绩企稳的季度，也要跟踪观察。",
+              "create_time": 1745223852,
+              "from_ai": false,
+              "identity_name": "gh_9a9c8e147c7e",
+              "identity_type": 1,
+              "is_deleted": 0,
+              "is_from": 2,
+              "is_from_friend": 0,
+              "is_reward": 0,
+              "logo_url": "https://wx.qlogo.cn/mmhead/Q3auHgzwzM45AZYW3xRiaOnSUEiaOn6AkrVeQPptZPQQkZ15Beb16x1A/64",
+              "multi_info": {
+                "emojis": [],
+                "pictures": [],
+                "voices": []
+              },
+              "nick_name": "龙谈价值2023",
+              "openid": "",
+              "reply_del_flag": 0,
+              "reply_dislike_status": 0,
+              "reply_id": 2,
+              "reply_is_elected": 1,
+              "reply_like_num": 18,
+              "reply_like_status": 0,
+              "rich_content": {
+                "subcontent_list": []
+              }
+            },
+            {
+              "author_like_status": 0,
+              "bizattr_servicetype": 1,
+              "can_share": true,
+              "content": "迈瑞更多是和设备端的行业周期和渠道库存有关，新产业受IVD行业β影响，包括集采、反腐、DRGs等因素的影响，会有些差别，当然迈瑞的IVD业务也要面临类似的行业现状。",
+              "create_time": 1745224124,
+              "from_ai": false,
+              "identity_name": "gh_9a9c8e147c7e",
+              "identity_type": 1,
+              "is_deleted": 0,
+              "is_from": 2,
+              "is_from_friend": 0,
+              "is_reward": 0,
+              "logo_url": "https://wx.qlogo.cn/mmhead/Q3auHgzwzM45AZYW3xRiaOnSUEiaOn6AkrVeQPptZPQQkZ15Beb16x1A/64",
+              "multi_info": {
+                "emojis": [],
+                "pictures": [],
+                "voices": []
+              },
+              "nick_name": "龙谈价值2023",
+              "openid": "",
+              "reply_del_flag": 0,
+              "reply_dislike_status": 0,
+              "reply_id": 5,
+              "reply_is_elected": 1,
+              "reply_like_num": 10,
+              "reply_like_status": 0,
+              "rich_content": {
+                "subcontent_list": []
+              },
+              "to_nick_name": "Be Better",
+              "to_reply_id": 3
+            }
+          ],
+          "reply_total_cnt": 3
+        },
+        "rich_content": {
+          "subcontent_list": []
+        }
+      }
+    },
+    {
+      "content_id": "2",
+      "parent_content_id": "6603237683290440271",
+      "nick_name": "龙谈价值2023",
+      "logo_url": "https://wx.qlogo.cn/mmhead/Q3auHgzwzM45AZYW3xRiaOnSUEiaOn6AkrVeQPptZPQQkZ15Beb16x1A/64",
+      "content": "迈瑞这个真的也在评论区回复过好多遍了，建议平时看文章的同时也多看看评论区，有很多重要的问题都回答过了。\n迈瑞医疗调报表调了几年，一直稳定20%的业绩增速，直到去年Q2开始兜不住20%的增速了，Q3进一步承压，24Q4-25Q1压力更大，渠道去库存应该要持续到今年Q1，所以要看24Q4和25Q1业绩有多差，以及Q2有可能是业绩企稳的季度，也要跟踪观察。",
+      "create_time": 1745223852,
+      "like_num": 18,
+      "is_elected": true,
+      "is_author": true,
+      "raw": {
+        "author_like_status": 0,
+        "bizattr_servicetype": 1,
+        "can_share": true,
+        "content": "迈瑞这个真的也在评论区回复过好多遍了，建议平时看文章的同时也多看看评论区，有很多重要的问题都回答过了。\n迈瑞医疗调报表调了几年，一直稳定20%的业绩增速，直到去年Q2开始兜不住20%的增速了，Q3进一步承压，24Q4-25Q1压力更大，渠道去库存应该要持续到今年Q1，所以要看24Q4和25Q1业绩有多差，以及Q2有可能是业绩企稳的季度，也要跟踪观察。",
+        "create_time": 1745223852,
+        "from_ai": false,
+        "identity_name": "gh_9a9c8e147c7e",
+        "identity_type": 1,
+        "is_deleted": 0,
+        "is_from": 2,
+        "is_from_friend": 0,
+        "is_reward": 0,
+        "logo_url": "https://wx.qlogo.cn/mmhead/Q3auHgzwzM45AZYW3xRiaOnSUEiaOn6AkrVeQPptZPQQkZ15Beb16x1A/64",
+        "multi_info": {
+          "emojis": [],
+          "pictures": [],
+          "voices": []
+        },
+        "nick_name": "龙谈价值2023",
+        "openid": "",
+        "reply_del_flag": 0,
+        "reply_dislike_status": 0,
+        "reply_id": 2,
+        "reply_is_elected": 1,
+        "reply_like_num": 18,
+        "reply_like_status": 0,
+        "rich_content": {
+          "subcontent_list": []
+        }
+      }
+    },
+    {
+      "content_id": "5",
+      "parent_content_id": "6603237683290440271",
+      "nick_name": "龙谈价值2023",
+      "logo_url": "https://wx.qlogo.cn/mmhead/Q3auHgzwzM45AZYW3xRiaOnSUEiaOn6AkrVeQPptZPQQkZ15Beb16x1A/64",
+      "content": "迈瑞更多是和设备端的行业周期和渠道库存有关，新产业受IVD行业β影响，包括集采、反腐、DRGs等因素的影响，会有些差别，当然迈瑞的IVD业务也要面临类似的行业现状。",
+      "create_time": 1745224124,
+      "like_num": 10,
+      "is_elected": true,
+      "is_author": true,
+      "raw": {
+        "author_like_status": 0,
+        "bizattr_servicetype": 1,
+        "can_share": true,
+        "content": "迈瑞更多是和设备端的行业周期和渠道库存有关，新产业受IVD行业β影响，包括集采、反腐、DRGs等因素的影响，会有些差别，当然迈瑞的IVD业务也要面临类似的行业现状。",
+        "create_time": 1745224124,
+        "from_ai": false,
+        "identity_name": "gh_9a9c8e147c7e",
+        "identity_type": 1,
+        "is_deleted": 0,
+        "is_from": 2,
+        "is_from_friend": 0,
+        "is_reward": 0,
+        "logo_url": "https://wx.qlogo.cn/mmhead/Q3auHgzwzM45AZYW3xRiaOnSUEiaOn6AkrVeQPptZPQQkZ15Beb16x1A/64",
+        "multi_info": {
+          "emojis": [],
+          "pictures": [],
+          "voices": []
+        },
+        "nick_name": "龙谈价值2023",
+        "openid": "",
+        "reply_del_flag": 0,
+        "reply_dislike_status": 0,
+        "reply_id": 5,
+        "reply_is_elected": 1,
+        "reply_like_num": 10,
+        "reply_like_status": 0,
+        "rich_content": {
+          "subcontent_list": []
+        },
+        "to_nick_name": "Be Better",
+        "to_reply_id": 3
+      }
+    },
+    {
+      "content_id": "5697589463232806962",
+      "parent_content_id": "",
+      "nick_name": "刘亮",
+      "logo_url": "https://wx.qlogo.cn/mmopen/AbruuZ3ILClyYAAQdPJ0YibrTqQwictia4VvpXIITWmPibPo07JoLFqAstibNx4sW0GQTnqmHkHZ8rbVylEJ1tcHy3xLic4g6yClOnoRiblNaC4adQRENAB5IbP0n02Rc8UJ256/64",
+      "content": "龙哥，试剂板块怎么看？目前大部分都是进口吧，后期国产替代能不能做起来",
+      "create_time": 1745223449,
+      "like_num": 1,
+      "is_elected": true,
+      "is_author": false,
+      "raw": {
+        "author_like_status": 0,
+        "bizattr_servicetype": 0,
+        "can_share": true,
+        "content": "龙哥，试剂板块怎么看？目前大部分都是进口吧，后期国产替代能不能做起来",
+        "content_id": "5697589463232806962",
+        "create_time": 1745223449,
+        "dislike_status": 0,
+        "id": 18,
+        "identity_name": "otWnb6eZntlE7-4t7g366FZ9Gg4A",
+        "identity_type": 0,
+        "ip_wording": {
+          "city_id": "",
+          "city_name": "",
+          "country_id": "156",
+          "country_name": "中国",
+          "province_id": "",
+          "province_name": "安徽"
+        },
+        "is_can_delete": false,
+        "is_elected": 1,
+        "is_first_comment": false,
+        "is_from": 0,
+        "is_from_friend": 0,
+        "is_from_me": 0,
+        "is_reward": 0,
+        "is_top": 0,
+        "like_num": 1,
+        "like_status": 0,
+        "logo_url": "https://wx.qlogo.cn/mmopen/AbruuZ3ILClyYAAQdPJ0YibrTqQwictia4VvpXIITWmPibPo07JoLFqAstibNx4sW0GQTnqmHkHZ8rbVylEJ1tcHy3xLic4g6yClOnoRiblNaC4adQRENAB5IbP0n02Rc8UJ256/64",
+        "multi_info": {
+          "emojis": [],
+          "pictures": [],
+          "voices": []
+        },
+        "my_id": 50,
+        "need_show_publish_tips": false,
+        "nick_name": "刘亮",
+        "openid": "otWnb6eZntlE7-4t7g366FZ9Gg4A",
+        "party_flag": 0,
+        "reply_new": {
+          "max_reply_id": 2,
+          "reply_list": [
+            {
+              "author_like_status": 0,
+              "bizattr_servicetype": 1,
+              "can_share": true,
+              "content": "的确有国产替代的潜力，科研试剂国内公司普遍还比较小，跨国巨头占据大部分市场。不过核心矛盾还是国内整个科研试剂细分领域的市场规模有限且比较分散，行业整合可能需要较长的时间，单个公司的市值天花板有局限性。",
+              "create_time": 1745223699,
+              "from_ai": false,
+              "identity_name": "gh_9a9c8e147c7e",
+              "identity_type": 1,
+              "is_deleted": 0,
+              "is_from": 2,
+              "is_from_friend": 0,
+              "is_reward": 0,
+              "logo_url": "https://wx.qlogo.cn/mmhead/Q3auHgzwzM45AZYW3xRiaOnSUEiaOn6AkrVeQPptZPQQkZ15Beb16x1A/64",
+              "multi_info": {
+                "emojis": [],
+                "pictures": [],
+                "voices": []
+              },
+              "nick_name": "龙谈价值2023",
+              "openid": "",
+              "reply_del_flag": 0,
+              "reply_dislike_status": 0,
+              "reply_id": 1,
+              "reply_is_elected": 1,
+              "reply_like_num": 10,
+              "reply_like_status": 0,
+              "rich_content": {
+                "subcontent_list": []
+              }
+            }
+          ],
+          "reply_total_cnt": 1
+        },
+        "rich_content": {
+          "subcontent_list": []
+        }
+      }
+    },
+    {
+      "content_id": "1",
+      "parent_content_id": "5697589463232806962",
+      "nick_name": "龙谈价值2023",
+      "logo_url": "https://wx.qlogo.cn/mmhead/Q3auHgzwzM45AZYW3xRiaOnSUEiaOn6AkrVeQPptZPQQkZ15Beb16x1A/64",
+      "content": "的确有国产替代的潜力，科研试剂国内公司普遍还比较小，跨国巨头占据大部分市场。不过核心矛盾还是国内整个科研试剂细分领域的市场规模有限且比较分散，行业整合可能需要较长的时间，单个公司的市值天花板有局限性。",
+      "create_time": 1745223699,
+      "like_num": 10,
+      "is_elected": true,
+      "is_author": true,
+      "raw": {
+        "author_like_status": 0,
+        "bizattr_servicetype": 1,
+        "can_share": true,
+        "content": "的确有国产替代的潜力，科研试剂国内公司普遍还比较小，跨国巨头占据大部分市场。不过核心矛盾还是国内整个科研试剂细分领域的市场规模有限且比较分散，行业整合可能需要较长的时间，单个公司的市值天花板有局限性。",
+        "create_time": 1745223699,
+        "from_ai": false,
+        "identity_name": "gh_9a9c8e147c7e",
+        "identity_type": 1,
+        "is_deleted": 0,
+        "is_from": 2,
+        "is_from_friend": 0,
+        "is_reward": 0,
+        "logo_url": "https://wx.qlogo.cn/mmhead/Q3auHgzwzM45AZYW3xRiaOnSUEiaOn6AkrVeQPptZPQQkZ15Beb16x1A/64",
+        "multi_info": {
+          "emojis": [],
+          "pictures": [],
+          "voices": []
+        },
+        "nick_name": "龙谈价值2023",
+        "openid": "",
+        "reply_del_flag": 0,
+        "reply_dislike_status": 0,
+        "reply_id": 1,
+        "reply_is_elected": 1,
+        "reply_like_num": 10,
+        "reply_like_status": 0,
+        "rich_content": {
+          "subcontent_list": []
+        }
+      }
+    },
+    {
+      "content_id": "11701812172328797264",
+      "parent_content_id": "",
+      "nick_name": "和",
+      "logo_url": "https://wx.qlogo.cn/mmopen/YHiby9xiabHxDTCOzeCzxqIns7iarefGhUneE4VR9KQjcbuPETf5Ul9atk6cjeUR4SGTnaiccgT7nafqdv039k73vS5W1JrrQdAHib0dCJVsKZYEyj4Ck1ADxsYJgmyqxMh4o/64",
+      "content": "最近恒生医药ETF交易咋那么低迷？",
+      "create_time": 1745223146,
+      "like_num": 1,
+      "is_elected": true,
+      "is_author": false,
+      "raw": {
+        "author_like_status": 0,
+        "bizattr_servicetype": 0,
+        "can_share": true,
+        "content": "最近恒生医药ETF交易咋那么低迷？",
+        "content_id": "11701812172328797264",
+        "create_time": 1745223146,
+        "dislike_status": 0,
+        "highlight": {
+          "highlight_pos": [
+            2
+          ],
+          "s1s_context_info": [
+            "%7B%22mixerCommonContext%22%3A%22%7B%5C%22mixerrank_list%5C%22%3A%5B%7B%5C%22client_type%5C%22%3A2%2C%5C%22sub_type%5C%22%3A0%2C%5C%22rank_pos%5C%22%3A20%2C%5C%22docid%5C%22%3A%5C%228132250770870437117%5C%22%7D%5D%2C%5C%22scene%5C%22%3A205%7D%22%7D"
+          ],
+          "s1s_jsapi_name": [
+            "openWXSearchHalfPage"
+          ],
+          "s1s_jsapi_paras": [
+            "{\"scene\":205,\"isAutoShowUnitInHalfScreen\":1,\"hiddenSearchHeader\":0,\"parentType\":135,\"webviewHeightRatio\":0.699999989, \"kvItems\":[], \"sessionKvItems\":[] }"
+          ],
+          "s1s_stat_info": [
+            "%7B%22bizuin%22%3A3923470773%2C%22appmsgid%22%3A2247484409%2C%22itemidx%22%3A1%2C%22comment_id%22%3A%223953226712464375816%22%2C%22content_id%22%3A%2211701812172328797264%22%2C%22reply_id%22%3A0%2C%22docid%22%3A%228132250770870437117%22%2C%22pos%22%3A2%2C%22request_type%22%3A1%2C%22request_id%22%3A%2213969483849913702029%22%2C%22query%22%3A%22%E6%81%92%E7%94%9F%E5%8C%BB%E8%8D%AFETF%22%2C%22search_id%22%3A%2213969483849913702029%22%7D"
+          ],
+          "word": [
+            "恒生医药ETF"
+          ]
+        },
+        "id": 17,
+        "identity_name": "otWnb6Z_QFP80eyAH6RknF2SYKhQ",
+        "identity_type": 0,
+        "ip_wording": {
+          "city_id": "",
+          "city_name": "",
+          "country_id": "156",
+          "country_name": "中国",
+          "province_id": "",
+          "province_name": "浙江"
+        },
+        "is_can_delete": false,
+        "is_elected": 1,
+        "is_first_comment": false,
+        "is_from": 0,
+        "is_from_friend": 0,
+        "is_from_me": 0,
+        "is_reward": 0,
+        "is_top": 0,
+        "like_num": 1,
+        "like_status": 0,
+        "logo_url": "https://wx.qlogo.cn/mmopen/YHiby9xiabHxDTCOzeCzxqIns7iarefGhUneE4VR9KQjcbuPETf5Ul9atk6cjeUR4SGTnaiccgT7nafqdv039k73vS5W1JrrQdAHib0dCJVsKZYEyj4Ck1ADxsYJgmyqxMh4o/64",
+        "multi_info": {
+          "emojis": [],
+          "pictures": [],
+          "voices": []
+        },
+        "my_id": 1104,
+        "need_show_publish_tips": false,
+        "nick_name": "和",
+        "openid": "otWnb6Z_QFP80eyAH6RknF2SYKhQ",
+        "party_flag": 0,
+        "reply_new": {
+          "max_reply_id": 2,
+          "reply_list": [
+            {
+              "author_like_status": 0,
+              "bizattr_servicetype": 1,
+              "can_share": true,
+              "content": "上周五和这周一港股不开盘，ETF交易低迷一点也正常。",
+              "create_time": 1745223564,
+              "from_ai": false,
+              "identity_name": "gh_9a9c8e147c7e",
+              "identity_type": 1,
+              "is_deleted": 0,
+              "is_from": 2,
+              "is_from_friend": 0,
+              "is_reward": 0,
+              "logo_url": "https://wx.qlogo.cn/mmhead/Q3auHgzwzM45AZYW3xRiaOnSUEiaOn6AkrVeQPptZPQQkZ15Beb16x1A/64",
+              "multi_info": {
+                "emojis": [],
+                "pictures": [],
+                "voices": []
+              },
+              "nick_name": "龙谈价值2023",
+              "openid": "",
+              "reply_del_flag": 0,
+              "reply_dislike_status": 0,
+              "reply_id": 1,
+              "reply_is_elected": 1,
+              "reply_like_num": 9,
+              "reply_like_status": 0,
+              "rich_content": {
+                "subcontent_list": []
+              }
+            }
+          ],
+          "reply_total_cnt": 1
+        },
+        "rich_content": {
+          "subcontent_list": []
+        }
+      }
+    },
+    {
+      "content_id": "1",
+      "parent_content_id": "11701812172328797264",
+      "nick_name": "龙谈价值2023",
+      "logo_url": "https://wx.qlogo.cn/mmhead/Q3auHgzwzM45AZYW3xRiaOnSUEiaOn6AkrVeQPptZPQQkZ15Beb16x1A/64",
+      "content": "上周五和这周一港股不开盘，ETF交易低迷一点也正常。",
+      "create_time": 1745223564,
+      "like_num": 9,
+      "is_elected": true,
+      "is_author": true,
+      "raw": {
+        "author_like_status": 0,
+        "bizattr_servicetype": 1,
+        "can_share": true,
+        "content": "上周五和这周一港股不开盘，ETF交易低迷一点也正常。",
+        "create_time": 1745223564,
+        "from_ai": false,
+        "identity_name": "gh_9a9c8e147c7e",
+        "identity_type": 1,
+        "is_deleted": 0,
+        "is_from": 2,
+        "is_from_friend": 0,
+        "is_reward": 0,
+        "logo_url": "https://wx.qlogo.cn/mmhead/Q3auHgzwzM45AZYW3xRiaOnSUEiaOn6AkrVeQPptZPQQkZ15Beb16x1A/64",
+        "multi_info": {
+          "emojis": [],
+          "pictures": [],
+          "voices": []
+        },
+        "nick_name": "龙谈价值2023",
+        "openid": "",
+        "reply_del_flag": 0,
+        "reply_dislike_status": 0,
+        "reply_id": 1,
+        "reply_is_elected": 1,
+        "reply_like_num": 9,
+        "reply_like_status": 0,
+        "rich_content": {
+          "subcontent_list": []
+        }
+      }
+    },
+    {
+      "content_id": "11157368975287912426",
+      "parent_content_id": "",
+      "nick_name": "求索者",
+      "logo_url": "https://wx.qlogo.cn/mmopen/M5ev2aeIIdklyGJS8TMHhVHZMeKB8ZibwGRgV89epIZtTCFJpa6iaicO6L6ibRkKicxicfnodialYZBJlHATp2q9ouqsRBxtRkebKkM/64",
+      "content": "龙哥最近功课没做足啊，亚盛2575联合阿卡在国内一线注册临床在23.10就获cde批准了。。。。。。而且就算要吹bcl2也得吹百济啊，最起码百济的基础研究和临床剂量探索做的扎实，诺诚的248还是算了吧，连单药的数据都不够。",
+      "create_time": 1745234992,
+      "like_num": 0,
+      "is_elected": true,
+      "is_author": false,
+      "raw": {
+        "author_like_status": 0,
+        "bizattr_servicetype": 0,
+        "can_share": true,
+        "content": "龙哥最近功课没做足啊，亚盛2575联合阿卡在国内一线注册临床在23.10就获cde批准了。。。。。。而且就算要吹bcl2也得吹百济啊，最起码百济的基础研究和临床剂量探索做的扎实，诺诚的248还是算了吧，连单药的数据都不够。",
+        "content_id": "11157368975287912426",
+        "create_time": 1745234992,
+        "dislike_status": 0,
+        "id": 26,
+        "identity_name": "otWnb6UZ5ijWei8-MJ7HaJSW8sXM",
+        "identity_type": 0,
+        "ip_wording": {
+          "city_id": "",
+          "city_name": "",
+          "country_id": "156",
+          "country_name": "中国",
+          "province_id": "",
+          "province_name": "北京"
+        },
+        "is_can_delete": false,
+        "is_elected": 1,
+        "is_first_comment": false,
+        "is_from": 0,
+        "is_from_friend": 0,
+        "is_from_me": 0,
+        "is_reward": 0,
+        "is_top": 0,
+        "like_num": 0,
+        "like_status": 0,
+        "logo_url": "https://wx.qlogo.cn/mmopen/M5ev2aeIIdklyGJS8TMHhVHZMeKB8ZibwGRgV89epIZtTCFJpa6iaicO6L6ibRkKicxicfnodialYZBJlHATp2q9ouqsRBxtRkebKkM/64",
+        "multi_info": {
+          "emojis": [],
+          "pictures": [],
+          "voices": []
+        },
+        "my_id": 2026,
+        "need_show_publish_tips": false,
+        "nick_name": "求索者",
+        "openid": "otWnb6UZ5ijWei8-MJ7HaJSW8sXM",
+        "party_flag": 0,
+        "reply_new": {
+          "max_reply_id": 5,
+          "reply_list": [
+            {
+              "author_like_status": 0,
+              "bizattr_servicetype": 1,
+              "can_share": true,
+              "content": "你看你读文章不细心吧，你觉得我会连亚盛在国内提交NDA都不知道吗，亚盛提交的是后线CLL，一线CLL推的很慢、成药概率有不确定性，一线CLL是有可能诺诚第一家推到主要终点的哦。",
+              "create_time": 1745243525,
+              "from_ai": false,
+              "identity_name": "gh_9a9c8e147c7e",
+              "identity_type": 1,
+              "is_deleted": 0,
+              "is_from": 2,
+              "is_from_friend": 0,
+              "is_reward": 0,
+              "logo_url": "https://wx.qlogo.cn/mmhead/Q3auHgzwzM45AZYW3xRiaOnSUEiaOn6AkrVeQPptZPQQkZ15Beb16x1A/64",
+              "multi_info": {
+                "emojis": [],
+                "pictures": [],
+                "voices": []
+              },
+              "nick_name": "龙谈价值2023",
+              "openid": "",
+              "reply_del_flag": 0,
+              "reply_dislike_status": 0,
+              "reply_id": 1,
+              "reply_is_elected": 1,
+              "reply_like_num": 7,
+              "reply_like_status": 0,
+              "rich_content": {
+                "subcontent_list": []
+              }
+            }
+          ],
+          "reply_total_cnt": 1
+        },
+        "rich_content": {
+          "subcontent_list": []
+        }
+      }
+    },
+    {
+      "content_id": "1",
+      "parent_content_id": "11157368975287912426",
+      "nick_name": "龙谈价值2023",
+      "logo_url": "https://wx.qlogo.cn/mmhead/Q3auHgzwzM45AZYW3xRiaOnSUEiaOn6AkrVeQPptZPQQkZ15Beb16x1A/64",
+      "content": "你看你读文章不细心吧，你觉得我会连亚盛在国内提交NDA都不知道吗，亚盛提交的是后线CLL，一线CLL推的很慢、成药概率有不确定性，一线CLL是有可能诺诚第一家推到主要终点的哦。",
+      "create_time": 1745243525,
+      "like_num": 7,
+      "is_elected": true,
+      "is_author": true,
+      "raw": {
+        "author_like_status": 0,
+        "bizattr_servicetype": 1,
+        "can_share": true,
+        "content": "你看你读文章不细心吧，你觉得我会连亚盛在国内提交NDA都不知道吗，亚盛提交的是后线CLL，一线CLL推的很慢、成药概率有不确定性，一线CLL是有可能诺诚第一家推到主要终点的哦。",
+        "create_time": 1745243525,
+        "from_ai": false,
+        "identity_name": "gh_9a9c8e147c7e",
+        "identity_type": 1,
+        "is_deleted": 0,
+        "is_from": 2,
+        "is_from_friend": 0,
+        "is_reward": 0,
+        "logo_url": "https://wx.qlogo.cn/mmhead/Q3auHgzwzM45AZYW3xRiaOnSUEiaOn6AkrVeQPptZPQQkZ15Beb16x1A/64",
+        "multi_info": {
+          "emojis": [],
+          "pictures": [],
+          "voices": []
+        },
+        "nick_name": "龙谈价值2023",
+        "openid": "",
+        "reply_del_flag": 0,
+        "reply_dislike_status": 0,
+        "reply_id": 1,
+        "reply_is_elected": 1,
+        "reply_like_num": 7,
+        "reply_like_status": 0,
+        "rich_content": {
+          "subcontent_list": []
+        }
+      }
+    },
+    {
+      "content_id": "7146245781433878168",
+      "parent_content_id": "",
+      "nick_name": "尘缘",
+      "logo_url": "https://wx.qlogo.cn/mmopen/YHiby9xiabHxCibtAbzPz6iblJYDVlIGXUmWr4Ua22o7qk5Ck4LMF1jSxTqTs3kLUMqM7RibJpnk0BDNNnfgfw6N5iczQUunw6eJO0/64",
+      "content": "亚盛医药，好像专门做血液瘤这个赛道，另外它的BCL-2在2024年11提交了NDA，它才是第一家吧？",
+      "create_time": 1745225850,
+      "like_num": 0,
+      "is_elected": true,
+      "is_author": false,
+      "raw": {
+        "author_like_status": 0,
+        "bizattr_servicetype": 0,
+        "can_share": true,
+        "content": "亚盛医药，好像专门做血液瘤这个赛道，另外它的BCL-2在2024年11提交了NDA，它才是第一家吧？",
+        "content_id": "7146245781433878168",
+        "create_time": 1745225850,
+        "dislike_status": 0,
+        "highlight": {
+          "highlight_pos": [
+            0
+          ],
+          "s1s_context_info": [
+            "%7B%22mixerCommonContext%22%3A%22%7B%5C%22mixerrank_list%5C%22%3A%5B%7B%5C%22client_type%5C%22%3A2%2C%5C%22sub_type%5C%22%3A0%2C%5C%22rank_pos%5C%22%3A20%2C%5C%22docid%5C%22%3A%5C%228132250770870437117%5C%22%7D%5D%2C%5C%22scene%5C%22%3A205%7D%22%7D"
+          ],
+          "s1s_jsapi_name": [
+            "openWXSearchHalfPage"
+          ],
+          "s1s_jsapi_paras": [
+            "{\"scene\":205,\"isAutoShowUnitInHalfScreen\":1,\"hiddenSearchHeader\":0,\"parentType\":135,\"webviewHeightRatio\":0.699999989, \"kvItems\":[], \"sessionKvItems\":[] }"
+          ],
+          "s1s_stat_info": [
+            "%7B%22bizuin%22%3A3923470773%2C%22appmsgid%22%3A2247484409%2C%22itemidx%22%3A1%2C%22comment_id%22%3A%223953226712464375816%22%2C%22content_id%22%3A%227146245781433878168%22%2C%22reply_id%22%3A0%2C%22docid%22%3A%228132250770870437117%22%2C%22pos%22%3A0%2C%22request_type%22%3A1%2C%22request_id%22%3A%2213969483849913702029%22%2C%22query%22%3A%22%E4%BA%9A%E7%9B%9B%E5%8C%BB%E8%8D%AF%22%2C%22search_id%22%3A%2213969483849913702029%22%7D"
+          ],
+          "word": [
+            "亚盛医药"
+          ]
+        },
+        "id": 22,
+        "identity_name": "otWnb6YmjBbMiPAVjKwTHAKvM7cg",
+        "identity_type": 0,
+        "ip_wording": {
+          "city_id": "",
+          "city_name": "",
+          "country_id": "156",
+          "country_name": "中国",
+          "province_id": "",
+          "province_name": "广西"
+        },
+        "is_can_delete": false,
+        "is_elected": 1,
+        "is_first_comment": false,
+        "is_from": 0,
+        "is_from_friend": 0,
+        "is_from_me": 0,
+        "is_reward": 0,
+        "is_top": 0,
+        "like_num": 0,
+        "like_status": 0,
+        "logo_url": "https://wx.qlogo.cn/mmopen/YHiby9xiabHxCibtAbzPz6iblJYDVlIGXUmWr4Ua22o7qk5Ck4LMF1jSxTqTs3kLUMqM7RibJpnk0BDNNnfgfw6N5iczQUunw6eJO0/64",
+        "multi_info": {
+          "emojis": [],
+          "pictures": [],
+          "voices": []
+        },
+        "my_id": 1688,
+        "need_show_publish_tips": false,
+        "nick_name": "尘缘",
+        "openid": "otWnb6YmjBbMiPAVjKwTHAKvM7cg",
+        "party_flag": 0,
+        "reply_new": {
+          "max_reply_id": 2,
+          "reply_list": [
+            {
+              "author_like_status": 0,
+              "bizattr_servicetype": 1,
+              "can_share": true,
+              "content": "嗯，亚盛的BCL2做的是后线的CLL，应该是国产第一家。诺诚在一线CLL有机会是国产第一家。",
+              "create_time": 1745225905,
+              "from_ai": false,
+              "identity_name": "gh_9a9c8e147c7e",
+              "identity_type": 1,
+              "is_deleted": 0,
+              "is_from": 2,
+              "is_from_friend": 0,
+              "is_reward": 0,
+              "logo_url": "https://wx.qlogo.cn/mmhead/Q3auHgzwzM45AZYW3xRiaOnSUEiaOn6AkrVeQPptZPQQkZ15Beb16x1A/64",
+              "multi_info": {
+                "emojis": [],
+                "pictures": [],
+                "voices": []
+              },
+              "nick_name": "龙谈价值2023",
+              "openid": "",
+              "reply_del_flag": 0,
+              "reply_dislike_status": 0,
+              "reply_id": 1,
+              "reply_is_elected": 1,
+              "reply_like_num": 7,
+              "reply_like_status": 0,
+              "rich_content": {
+                "subcontent_list": []
+              }
+            }
+          ],
+          "reply_total_cnt": 1
+        },
+        "rich_content": {
+          "subcontent_list": []
+        }
+      }
+    },
+    {
+      "content_id": "1",
+      "parent_content_id": "7146245781433878168",
+      "nick_name": "龙谈价值2023",
+      "logo_url": "https://wx.qlogo.cn/mmhead/Q3auHgzwzM45AZYW3xRiaOnSUEiaOn6AkrVeQPptZPQQkZ15Beb16x1A/64",
+      "content": "嗯，亚盛的BCL2做的是后线的CLL，应该是国产第一家。诺诚在一线CLL有机会是国产第一家。",
+      "create_time": 1745225905,
+      "like_num": 7,
+      "is_elected": true,
+      "is_author": true,
+      "raw": {
+        "author_like_status": 0,
+        "bizattr_servicetype": 1,
+        "can_share": true,
+        "content": "嗯，亚盛的BCL2做的是后线的CLL，应该是国产第一家。诺诚在一线CLL有机会是国产第一家。",
+        "create_time": 1745225905,
+        "from_ai": false,
+        "identity_name": "gh_9a9c8e147c7e",
+        "identity_type": 1,
+        "is_deleted": 0,
+        "is_from": 2,
+        "is_from_friend": 0,
+        "is_reward": 0,
+        "logo_url": "https://wx.qlogo.cn/mmhead/Q3auHgzwzM45AZYW3xRiaOnSUEiaOn6AkrVeQPptZPQQkZ15Beb16x1A/64",
+        "multi_info": {
+          "emojis": [],
+          "pictures": [],
+          "voices": []
+        },
+        "nick_name": "龙谈价值2023",
+        "openid": "",
+        "reply_del_flag": 0,
+        "reply_dislike_status": 0,
+        "reply_id": 1,
+        "reply_is_elected": 1,
+        "reply_like_num": 7,
+        "reply_like_status": 0,
+        "rich_content": {
+          "subcontent_list": []
+        }
+      }
+    },
+    {
+      "content_id": "12375028891314552979",
+      "parent_content_id": "",
+      "nick_name": "🍵",
+      "logo_url": "https://wx.qlogo.cn/mmopen/AbruuZ3ILCk1kNOiaaxl5gU1Lxxp0s9iczqg11jeLzicw7alIaia3OOd3XAHowdbLzpLyu70GSry3FPmTxADD37On5j49VCdoWIHicGcmT4CrprINCfffVypqbIrVLmjDPyKP/64",
+      "content": "诺成建华A股和H股哪个估值更便宜一些？",
+      "create_time": 1745247207,
+      "like_num": 0,
+      "is_elected": true,
+      "is_author": false,
+      "raw": {
+        "author_like_status": 0,
+        "bizattr_servicetype": 0,
+        "can_share": true,
+        "content": "诺成建华A股和H股哪个估值更便宜一些？",
+        "content_id": "12375028891314552979",
+        "create_time": 1745247207,
+        "dislike_status": 0,
+        "id": 30,
+        "identity_name": "otWnb6ZmMDuQr26AGwvXhRlPxgWQ",
+        "identity_type": 0,
+        "ip_wording": {
+          "city_id": "",
+          "city_name": "",
+          "country_id": "156",
+          "country_name": "中国",
+          "province_id": "",
+          "province_name": "北京"
+        },
+        "is_can_delete": false,
+        "is_elected": 1,
+        "is_first_comment": false,
+        "is_from": 0,
+        "is_from_friend": 0,
+        "is_from_me": 0,
+        "is_reward": 0,
+        "is_top": 0,
+        "like_num": 0,
+        "like_status": 0,
+        "logo_url": "https://wx.qlogo.cn/mmopen/AbruuZ3ILCk1kNOiaaxl5gU1Lxxp0s9iczqg11jeLzicw7alIaia3OOd3XAHowdbLzpLyu70GSry3FPmTxADD37On5j49VCdoWIHicGcmT4CrprINCfffVypqbIrVLmjDPyKP/64",
+        "multi_info": {
+          "emojis": [],
+          "pictures": [],
+          "voices": []
+        },
+        "my_id": 147,
+        "need_show_publish_tips": false,
+        "nick_name": "🍵",
+        "openid": "otWnb6ZmMDuQr26AGwvXhRlPxgWQ",
+        "party_flag": 0,
+        "reply_new": {
+          "max_reply_id": 2,
+          "reply_list": [
+            {
+              "author_like_status": 0,
+              "bizattr_servicetype": 1,
+              "can_share": true,
+              "content": "诺诚的A股比H股溢价接近140%",
+              "create_time": 1745247601,
+              "from_ai": false,
+              "identity_name": "gh_9a9c8e147c7e",
+              "identity_type": 1,
+              "is_deleted": 0,
+              "is_from": 2,
+              "is_from_friend": 0,
+              "is_reward": 0,
+              "logo_url": "https://wx.qlogo.cn/mmhead/Q3auHgzwzM45AZYW3xRiaOnSUEiaOn6AkrVeQPptZPQQkZ15Beb16x1A/64",
+              "multi_info": {
+                "emojis": [],
+                "pictures": [],
+                "voices": []
+              },
+              "nick_name": "龙谈价值2023",
+              "openid": "",
+              "reply_del_flag": 0,
+              "reply_dislike_status": 0,
+              "reply_id": 1,
+              "reply_is_elected": 1,
+              "reply_like_num": 5,
+              "reply_like_status": 0,
+              "rich_content": {
+                "subcontent_list": []
+              }
+            }
+          ],
+          "reply_total_cnt": 1
+        },
+        "rich_content": {
+          "subcontent_list": []
+        }
+      }
+    },
+    {
+      "content_id": "1",
+      "parent_content_id": "12375028891314552979",
+      "nick_name": "龙谈价值2023",
+      "logo_url": "https://wx.qlogo.cn/mmhead/Q3auHgzwzM45AZYW3xRiaOnSUEiaOn6AkrVeQPptZPQQkZ15Beb16x1A/64",
+      "content": "诺诚的A股比H股溢价接近140%",
+      "create_time": 1745247601,
+      "like_num": 5,
+      "is_elected": true,
+      "is_author": true,
+      "raw": {
+        "author_like_status": 0,
+        "bizattr_servicetype": 1,
+        "can_share": true,
+        "content": "诺诚的A股比H股溢价接近140%",
+        "create_time": 1745247601,
+        "from_ai": false,
+        "identity_name": "gh_9a9c8e147c7e",
+        "identity_type": 1,
+        "is_deleted": 0,
+        "is_from": 2,
+        "is_from_friend": 0,
+        "is_reward": 0,
+        "logo_url": "https://wx.qlogo.cn/mmhead/Q3auHgzwzM45AZYW3xRiaOnSUEiaOn6AkrVeQPptZPQQkZ15Beb16x1A/64",
+        "multi_info": {
+          "emojis": [],
+          "pictures": [],
+          "voices": []
+        },
+        "nick_name": "龙谈价值2023",
+        "openid": "",
+        "reply_del_flag": 0,
+        "reply_dislike_status": 0,
+        "reply_id": 1,
+        "reply_is_elected": 1,
+        "reply_like_num": 5,
+        "reply_like_status": 0,
+        "rich_content": {
+          "subcontent_list": []
+        }
+      }
+    },
+    {
+      "content_id": "9547914239780323670",
+      "parent_content_id": "",
+      "nick_name": "zzlpq",
+      "logo_url": "https://wx.qlogo.cn/mmopen/PiajxSqBRaEIjQQrgdk3EqjhMf4gslIJ1BiagYltI8ltWNMqDwrONbia4icmo7fYOpNI4TZ81pA1ibt1lIJzviakoUqkriaf8TKZlib1x6lhxjZQ2ttMYeQyymcEEAhSFmyfiaJl0/64",
+      "content": "抽空聊聊天坛[好的]",
+      "create_time": 1745227615,
+      "like_num": 0,
+      "is_elected": true,
+      "is_author": false,
+      "raw": {
+        "author_like_status": 0,
+        "bizattr_servicetype": 0,
+        "can_share": true,
+        "content": "抽空聊聊天坛[好的]",
+        "content_id": "9547914239780323670",
+        "create_time": 1745227615,
+        "dislike_status": 0,
+        "id": 24,
+        "identity_name": "otWnb6T1pmGAX2gttxw-u8X6sVrs",
+        "identity_type": 0,
+        "ip_wording": {
+          "city_id": "",
+          "city_name": "",
+          "country_id": "156",
+          "country_name": "中国",
+          "province_id": "",
+          "province_name": "北京"
+        },
+        "is_can_delete": false,
+        "is_elected": 1,
+        "is_first_comment": false,
+        "is_from": 0,
+        "is_from_friend": 0,
+        "is_from_me": 0,
+        "is_reward": 0,
+        "is_top": 0,
+        "like_num": 0,
+        "like_status": 0,
+        "logo_url": "https://wx.qlogo.cn/mmopen/PiajxSqBRaEIjQQrgdk3EqjhMf4gslIJ1BiagYltI8ltWNMqDwrONbia4icmo7fYOpNI4TZ81pA1ibt1lIJzviakoUqkriaf8TKZlib1x6lhxjZQ2ttMYeQyymcEEAhSFmyfiaJl0/64",
+        "multi_info": {
+          "emojis": [],
+          "pictures": [],
+          "voices": []
+        },
+        "my_id": 342,
+        "need_show_publish_tips": false,
+        "nick_name": "zzlpq",
+        "openid": "otWnb6T1pmGAX2gttxw-u8X6sVrs",
+        "party_flag": 0,
+        "reply_new": {
+          "max_reply_id": 3,
+          "reply_list": [
+            {
+              "author_like_status": 0,
+              "bizattr_servicetype": 1,
+              "can_share": true,
+              "content": "我准备等到血制品公司的财报出完以后，就整个行业写一篇，还得稍等到5月份咯[握手][握手]",
+              "create_time": 1745230047,
+              "from_ai": false,
+              "identity_name": "gh_9a9c8e147c7e",
+              "identity_type": 1,
+              "is_deleted": 0,
+              "is_from": 2,
+              "is_from_friend": 0,
+              "is_reward": 0,
+              "logo_url": "https://wx.qlogo.cn/mmhead/Q3auHgzwzM45AZYW3xRiaOnSUEiaOn6AkrVeQPptZPQQkZ15Beb16x1A/64",
+              "multi_info": {
+                "emojis": [],
+                "pictures": [],
+                "voices": []
+              },
+              "nick_name": "龙谈价值2023",
+              "openid": "",
+              "reply_del_flag": 0,
+              "reply_dislike_status": 0,
+              "reply_id": 1,
+              "reply_is_elected": 1,
+              "reply_like_num": 5,
+              "reply_like_status": 0,
+              "rich_content": {
+                "subcontent_list": []
+              }
+            }
+          ],
+          "reply_total_cnt": 1
+        },
+        "rich_content": {
+          "subcontent_list": []
+        }
+      }
+    },
+    {
+      "content_id": "1",
+      "parent_content_id": "9547914239780323670",
+      "nick_name": "龙谈价值2023",
+      "logo_url": "https://wx.qlogo.cn/mmhead/Q3auHgzwzM45AZYW3xRiaOnSUEiaOn6AkrVeQPptZPQQkZ15Beb16x1A/64",
+      "content": "我准备等到血制品公司的财报出完以后，就整个行业写一篇，还得稍等到5月份咯[握手][握手]",
+      "create_time": 1745230047,
+      "like_num": 5,
+      "is_elected": true,
+      "is_author": true,
+      "raw": {
+        "author_like_status": 0,
+        "bizattr_servicetype": 1,
+        "can_share": true,
+        "content": "我准备等到血制品公司的财报出完以后，就整个行业写一篇，还得稍等到5月份咯[握手][握手]",
+        "create_time": 1745230047,
+        "from_ai": false,
+        "identity_name": "gh_9a9c8e147c7e",
+        "identity_type": 1,
+        "is_deleted": 0,
+        "is_from": 2,
+        "is_from_friend": 0,
+        "is_reward": 0,
+        "logo_url": "https://wx.qlogo.cn/mmhead/Q3auHgzwzM45AZYW3xRiaOnSUEiaOn6AkrVeQPptZPQQkZ15Beb16x1A/64",
+        "multi_info": {
+          "emojis": [],
+          "pictures": [],
+          "voices": []
+        },
+        "nick_name": "龙谈价值2023",
+        "openid": "",
+        "reply_del_flag": 0,
+        "reply_dislike_status": 0,
+        "reply_id": 1,
+        "reply_is_elected": 1,
+        "reply_like_num": 5,
+        "reply_like_status": 0,
+        "rich_content": {
+          "subcontent_list": []
+        }
+      }
+    },
+    {
+      "content_id": "893286346402038632",
+      "parent_content_id": "",
+      "nick_name": "Bryan",
+      "logo_url": "https://wx.qlogo.cn/mmopen/PiajxSqBRaEI4y0OribklcXoYib8qymHEa3Vo9Vibd2w28A05v5keaUG9TibibULZyaBVBpttVoflPoQR8eUrOWfyia1m8dXWd3AeUxkUUGGF4CVyVR4gCVBBZWnvP2J1OQnib6b/64",
+      "content": "期待龙哥讲到和誉～",
+      "create_time": 1745243296,
+      "like_num": 0,
+      "is_elected": true,
+      "is_author": false,
+      "raw": {
+        "author_like_status": 0,
+        "bizattr_servicetype": 0,
+        "can_share": true,
+        "content": "期待龙哥讲到和誉～",
+        "content_id": "893286346402038632",
+        "create_time": 1745243296,
+        "dislike_status": 0,
+        "id": 28,
+        "identity_name": "otWnb6b6gXfWVJL79eSXLCddgzW8",
+        "identity_type": 0,
+        "ip_wording": {
+          "city_id": "",
+          "city_name": "",
+          "country_id": "156",
+          "country_name": "中国",
+          "province_id": "",
+          "province_name": "广东"
+        },
+        "is_can_delete": false,
+        "is_elected": 1,
+        "is_first_comment": false,
+        "is_from": 0,
+        "is_from_friend": 0,
+        "is_from_me": 0,
+        "is_reward": 0,
+        "is_top": 0,
+        "like_num": 0,
+        "like_status": 0,
+        "logo_url": "https://wx.qlogo.cn/mmopen/PiajxSqBRaEI4y0OribklcXoYib8qymHEa3Vo9Vibd2w28A05v5keaUG9TibibULZyaBVBpttVoflPoQR8eUrOWfyia1m8dXWd3AeUxkUUGGF4CVyVR4gCVBBZWnvP2J1OQnib6b/64",
+        "multi_info": {
+          "emojis": [],
+          "pictures": [],
+          "voices": []
+        },
+        "my_id": 872,
+        "need_show_publish_tips": false,
+        "nick_name": "Bryan",
+        "openid": "otWnb6b6gXfWVJL79eSXLCddgzW8",
+        "party_flag": 0,
+        "reply_new": {
+          "max_reply_id": 2,
+          "reply_list": [
+            {
+              "author_like_status": 0,
+              "bizattr_servicetype": 1,
+              "can_share": true,
+              "content": "也是很好的公司， 有机会会讲讲",
+              "create_time": 1745243579,
+              "from_ai": false,
+              "identity_name": "gh_9a9c8e147c7e",
+              "identity_type": 1,
+              "is_deleted": 0,
+              "is_from": 2,
+              "is_from_friend": 0,
+              "is_reward": 0,
+              "logo_url": "https://wx.qlogo.cn/mmhead/Q3auHgzwzM45AZYW3xRiaOnSUEiaOn6AkrVeQPptZPQQkZ15Beb16x1A/64",
+              "multi_info": {
+                "emojis": [],
+                "pictures": [],
+                "voices": []
+              },
+              "nick_name": "龙谈价值2023",
+              "openid": "",
+              "reply_del_flag": 0,
+              "reply_dislike_status": 0,
+              "reply_id": 1,
+              "reply_is_elected": 1,
+              "reply_like_num": 4,
+              "reply_like_status": 0,
+              "rich_content": {
+                "subcontent_list": []
+              }
+            }
+          ],
+          "reply_total_cnt": 1
+        },
+        "rich_content": {
+          "subcontent_list": []
+        }
+      }
+    },
+    {
+      "content_id": "1",
+      "parent_content_id": "893286346402038632",
+      "nick_name": "龙谈价值2023",
+      "logo_url": "https://wx.qlogo.cn/mmhead/Q3auHgzwzM45AZYW3xRiaOnSUEiaOn6AkrVeQPptZPQQkZ15Beb16x1A/64",
+      "content": "也是很好的公司， 有机会会讲讲",
+      "create_time": 1745243579,
+      "like_num": 4,
+      "is_elected": true,
+      "is_author": true,
+      "raw": {
+        "author_like_status": 0,
+        "bizattr_servicetype": 1,
+        "can_share": true,
+        "content": "也是很好的公司， 有机会会讲讲",
+        "create_time": 1745243579,
+        "from_ai": false,
+        "identity_name": "gh_9a9c8e147c7e",
+        "identity_type": 1,
+        "is_deleted": 0,
+        "is_from": 2,
+        "is_from_friend": 0,
+        "is_reward": 0,
+        "logo_url": "https://wx.qlogo.cn/mmhead/Q3auHgzwzM45AZYW3xRiaOnSUEiaOn6AkrVeQPptZPQQkZ15Beb16x1A/64",
+        "multi_info": {
+          "emojis": [],
+          "pictures": [],
+          "voices": []
+        },
+        "nick_name": "龙谈价值2023",
+        "openid": "",
+        "reply_del_flag": 0,
+        "reply_dislike_status": 0,
+        "reply_id": 1,
+        "reply_is_elected": 1,
+        "reply_like_num": 4,
+        "reply_like_status": 0,
+        "rich_content": {
+          "subcontent_list": []
+        }
+      }
+    }
+  ]
+}

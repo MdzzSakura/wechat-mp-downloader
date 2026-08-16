@@ -1,0 +1,1125 @@
+{
+  "fetched_at": 1786895909,
+  "count": 16,
+  "meta": {
+    "url": "https://mp.weixin.qq.com/s?__biz=MzkyMzQ3MDc3Mw==&mid=2247484060&idx=1&sn=36adadeb3489c628efbe9ab1e57c51cf",
+    "title": "长期思维模式转变2",
+    "elected_total": 8
+  },
+  "comments": [
+    {
+      "content_id": "7933956239652814920",
+      "parent_content_id": "",
+      "nick_name": "风调雨顺",
+      "logo_url": "https://wx.qlogo.cn/mmopen/YHiby9xiabHxAcf5twP1NtZCpyrrEbH8ZqVdR1U4InHWC69InznMG39qcG1LdBYWxSfcjlkj7LVtn8WTGUNjk7nd50bGOWd6cW/64",
+      "content": "龙哥，科伦药业怎么这么弱，估值很便宜呀",
+      "create_time": 1735193770,
+      "like_num": 5,
+      "is_elected": true,
+      "is_author": false,
+      "raw": {
+        "author_like_status": 0,
+        "bizattr_servicetype": 0,
+        "can_share": true,
+        "content": "龙哥，科伦药业怎么这么弱，估值很便宜呀",
+        "content_id": "7933956239652814920",
+        "create_time": 1735193770,
+        "dislike_status": 0,
+        "id": 5,
+        "identity_name": "otWnb6UKC2AnRpwM3U_kYGaYiQIY",
+        "identity_type": 0,
+        "ip_wording": {
+          "city_id": "",
+          "city_name": "",
+          "country_id": "156",
+          "country_name": "中国",
+          "province_id": "",
+          "province_name": "辽宁"
+        },
+        "is_can_delete": false,
+        "is_elected": 1,
+        "is_first_comment": false,
+        "is_from": 0,
+        "is_from_friend": 0,
+        "is_from_me": 0,
+        "is_reward": 0,
+        "is_top": 0,
+        "like_num": 5,
+        "like_status": 0,
+        "logo_url": "https://wx.qlogo.cn/mmopen/YHiby9xiabHxAcf5twP1NtZCpyrrEbH8ZqVdR1U4InHWC69InznMG39qcG1LdBYWxSfcjlkj7LVtn8WTGUNjk7nd50bGOWd6cW/64",
+        "multi_info": {
+          "emojis": [],
+          "pictures": [],
+          "voices": []
+        },
+        "my_id": 72,
+        "need_show_publish_tips": false,
+        "nick_name": "风调雨顺",
+        "openid": "otWnb6UKC2AnRpwM3U_kYGaYiQIY",
+        "party_flag": 0,
+        "reply_new": {
+          "max_reply_id": 2,
+          "reply_list": [
+            {
+              "author_like_status": 0,
+              "bizattr_servicetype": 1,
+              "can_share": true,
+              "content": "科伦也是成为集团控股公司，最核心的创新药资产科伦博泰在港股，川宁也已经分拆出来，相当于集团体内主要是大输液和仿制药，没什么增长还有集采。",
+              "create_time": 1735197042,
+              "from_ai": false,
+              "identity_name": "gh_9a9c8e147c7e",
+              "identity_type": 1,
+              "is_deleted": 0,
+              "is_from": 2,
+              "is_from_friend": 0,
+              "is_reward": 0,
+              "logo_url": "https://wx.qlogo.cn/mmhead/Q3auHgzwzM45AZYW3xRiaOnSUEiaOn6AkrVeQPptZPQQkZ15Beb16x1A/64",
+              "multi_info": {
+                "emojis": [],
+                "pictures": [],
+                "voices": []
+              },
+              "nick_name": "龙谈价值2023",
+              "openid": "",
+              "reply_del_flag": 0,
+              "reply_dislike_status": 0,
+              "reply_id": 1,
+              "reply_is_elected": 1,
+              "reply_like_num": 9,
+              "reply_like_status": 0,
+              "rich_content": {
+                "subcontent_list": []
+              }
+            }
+          ],
+          "reply_total_cnt": 1
+        },
+        "rich_content": {
+          "subcontent_list": []
+        }
+      }
+    },
+    {
+      "content_id": "1",
+      "parent_content_id": "7933956239652814920",
+      "nick_name": "龙谈价值2023",
+      "logo_url": "https://wx.qlogo.cn/mmhead/Q3auHgzwzM45AZYW3xRiaOnSUEiaOn6AkrVeQPptZPQQkZ15Beb16x1A/64",
+      "content": "科伦也是成为集团控股公司，最核心的创新药资产科伦博泰在港股，川宁也已经分拆出来，相当于集团体内主要是大输液和仿制药，没什么增长还有集采。",
+      "create_time": 1735197042,
+      "like_num": 9,
+      "is_elected": true,
+      "is_author": true,
+      "raw": {
+        "author_like_status": 0,
+        "bizattr_servicetype": 1,
+        "can_share": true,
+        "content": "科伦也是成为集团控股公司，最核心的创新药资产科伦博泰在港股，川宁也已经分拆出来，相当于集团体内主要是大输液和仿制药，没什么增长还有集采。",
+        "create_time": 1735197042,
+        "from_ai": false,
+        "identity_name": "gh_9a9c8e147c7e",
+        "identity_type": 1,
+        "is_deleted": 0,
+        "is_from": 2,
+        "is_from_friend": 0,
+        "is_reward": 0,
+        "logo_url": "https://wx.qlogo.cn/mmhead/Q3auHgzwzM45AZYW3xRiaOnSUEiaOn6AkrVeQPptZPQQkZ15Beb16x1A/64",
+        "multi_info": {
+          "emojis": [],
+          "pictures": [],
+          "voices": []
+        },
+        "nick_name": "龙谈价值2023",
+        "openid": "",
+        "reply_del_flag": 0,
+        "reply_dislike_status": 0,
+        "reply_id": 1,
+        "reply_is_elected": 1,
+        "reply_like_num": 9,
+        "reply_like_status": 0,
+        "rich_content": {
+          "subcontent_list": []
+        }
+      }
+    },
+    {
+      "content_id": "3316979345502767637",
+      "parent_content_id": "",
+      "nick_name": "徐海东",
+      "logo_url": "https://wx.qlogo.cn/mmopen/DVfg7Dyyrb5YSpQhmrZLFnfHculQrdVneqYvf2PYfRBjrH43uHq4WeoRHGen1gaPDKlnHXcEQQXg8u9nFsfbAKCL9ARaNqmY/64",
+      "content": "龙哥，恒瑞医药开启香港上市国际化，您对此怎么看？",
+      "create_time": 1735198055,
+      "like_num": 2,
+      "is_elected": true,
+      "is_author": false,
+      "raw": {
+        "author_like_status": 0,
+        "bizattr_servicetype": 0,
+        "can_share": true,
+        "content": "龙哥，恒瑞医药开启香港上市国际化，您对此怎么看？",
+        "content_id": "3316979345502767637",
+        "create_time": 1735198055,
+        "dislike_status": 0,
+        "id": 9,
+        "identity_name": "otWnb6Y_dXDDmCD3S9onPd3yB08g",
+        "identity_type": 0,
+        "ip_wording": {
+          "city_id": "",
+          "city_name": "",
+          "country_id": "156",
+          "country_name": "中国",
+          "province_id": "",
+          "province_name": "江西"
+        },
+        "is_can_delete": false,
+        "is_elected": 1,
+        "is_first_comment": false,
+        "is_from": 0,
+        "is_from_friend": 0,
+        "is_from_me": 0,
+        "is_reward": 0,
+        "is_top": 0,
+        "like_num": 2,
+        "like_status": 0,
+        "logo_url": "https://wx.qlogo.cn/mmopen/DVfg7Dyyrb5YSpQhmrZLFnfHculQrdVneqYvf2PYfRBjrH43uHq4WeoRHGen1gaPDKlnHXcEQQXg8u9nFsfbAKCL9ARaNqmY/64",
+        "multi_info": {
+          "emojis": [],
+          "pictures": [],
+          "voices": []
+        },
+        "my_id": 2581,
+        "need_show_publish_tips": false,
+        "nick_name": "徐海东",
+        "openid": "otWnb6Y_dXDDmCD3S9onPd3yB08g",
+        "party_flag": 0,
+        "reply_new": {
+          "max_reply_id": 2,
+          "reply_list": [
+            {
+              "author_like_status": 0,
+              "bizattr_servicetype": 1,
+              "can_share": true,
+              "content": "这个我感觉是可能压制估值的，港股医药的估值中枢摆在这里，但因为发港股的流通盘应该不大，也未必影响很大，最终还是看公司基本面啦。",
+              "create_time": 1735198188,
+              "from_ai": false,
+              "identity_name": "gh_9a9c8e147c7e",
+              "identity_type": 1,
+              "is_deleted": 0,
+              "is_from": 2,
+              "is_from_friend": 0,
+              "is_reward": 0,
+              "logo_url": "https://wx.qlogo.cn/mmhead/Q3auHgzwzM45AZYW3xRiaOnSUEiaOn6AkrVeQPptZPQQkZ15Beb16x1A/64",
+              "multi_info": {
+                "emojis": [],
+                "pictures": [],
+                "voices": []
+              },
+              "nick_name": "龙谈价值2023",
+              "openid": "",
+              "reply_del_flag": 0,
+              "reply_dislike_status": 0,
+              "reply_id": 1,
+              "reply_is_elected": 1,
+              "reply_like_num": 8,
+              "reply_like_status": 0,
+              "rich_content": {
+                "subcontent_list": []
+              }
+            }
+          ],
+          "reply_total_cnt": 1
+        },
+        "rich_content": {
+          "subcontent_list": []
+        }
+      }
+    },
+    {
+      "content_id": "1",
+      "parent_content_id": "3316979345502767637",
+      "nick_name": "龙谈价值2023",
+      "logo_url": "https://wx.qlogo.cn/mmhead/Q3auHgzwzM45AZYW3xRiaOnSUEiaOn6AkrVeQPptZPQQkZ15Beb16x1A/64",
+      "content": "这个我感觉是可能压制估值的，港股医药的估值中枢摆在这里，但因为发港股的流通盘应该不大，也未必影响很大，最终还是看公司基本面啦。",
+      "create_time": 1735198188,
+      "like_num": 8,
+      "is_elected": true,
+      "is_author": true,
+      "raw": {
+        "author_like_status": 0,
+        "bizattr_servicetype": 1,
+        "can_share": true,
+        "content": "这个我感觉是可能压制估值的，港股医药的估值中枢摆在这里，但因为发港股的流通盘应该不大，也未必影响很大，最终还是看公司基本面啦。",
+        "create_time": 1735198188,
+        "from_ai": false,
+        "identity_name": "gh_9a9c8e147c7e",
+        "identity_type": 1,
+        "is_deleted": 0,
+        "is_from": 2,
+        "is_from_friend": 0,
+        "is_reward": 0,
+        "logo_url": "https://wx.qlogo.cn/mmhead/Q3auHgzwzM45AZYW3xRiaOnSUEiaOn6AkrVeQPptZPQQkZ15Beb16x1A/64",
+        "multi_info": {
+          "emojis": [],
+          "pictures": [],
+          "voices": []
+        },
+        "nick_name": "龙谈价值2023",
+        "openid": "",
+        "reply_del_flag": 0,
+        "reply_dislike_status": 0,
+        "reply_id": 1,
+        "reply_is_elected": 1,
+        "reply_like_num": 8,
+        "reply_like_status": 0,
+        "rich_content": {
+          "subcontent_list": []
+        }
+      }
+    },
+    {
+      "content_id": "11157368975287912377",
+      "parent_content_id": "",
+      "nick_name": "求索者",
+      "logo_url": "https://wx.qlogo.cn/mmopen/M5ev2aeIIdklyGJS8TMHhVHZMeKB8ZibwGRgV89epIZtTCFJpa6iaicO6L6ibRkKicxicfnodialYZBJlHATp2q9ouqsRBxtRkebKkM/64",
+      "content": "龙哥创新药仓位降了？",
+      "create_time": 1735192505,
+      "like_num": 4,
+      "is_elected": true,
+      "is_author": false,
+      "raw": {
+        "author_like_status": 0,
+        "bizattr_servicetype": 0,
+        "can_share": true,
+        "content": "龙哥创新药仓位降了？",
+        "content_id": "11157368975287912377",
+        "create_time": 1735192505,
+        "dislike_status": 0,
+        "id": 1,
+        "identity_name": "otWnb6UZ5ijWei8-MJ7HaJSW8sXM",
+        "identity_type": 0,
+        "ip_wording": {
+          "city_id": "",
+          "city_name": "",
+          "country_id": "156",
+          "country_name": "中国",
+          "province_id": "",
+          "province_name": "北京"
+        },
+        "is_can_delete": false,
+        "is_elected": 1,
+        "is_first_comment": true,
+        "is_from": 0,
+        "is_from_friend": 0,
+        "is_from_me": 0,
+        "is_reward": 0,
+        "is_top": 0,
+        "like_num": 4,
+        "like_status": 0,
+        "logo_url": "https://wx.qlogo.cn/mmopen/M5ev2aeIIdklyGJS8TMHhVHZMeKB8ZibwGRgV89epIZtTCFJpa6iaicO6L6ibRkKicxicfnodialYZBJlHATp2q9ouqsRBxtRkebKkM/64",
+        "multi_info": {
+          "emojis": [],
+          "pictures": [],
+          "voices": []
+        },
+        "my_id": 1977,
+        "need_show_publish_tips": false,
+        "nick_name": "求索者",
+        "openid": "otWnb6UZ5ijWei8-MJ7HaJSW8sXM",
+        "party_flag": 0,
+        "reply_new": {
+          "max_reply_id": 2,
+          "reply_list": [
+            {
+              "author_like_status": 0,
+              "bizattr_servicetype": 1,
+              "can_share": true,
+              "content": "全行业资产配置和创新药仓位没关系呀，投资人也不可能all in创新药。",
+              "create_time": 1735197143,
+              "from_ai": false,
+              "identity_name": "gh_9a9c8e147c7e",
+              "identity_type": 1,
+              "is_deleted": 0,
+              "is_from": 2,
+              "is_from_friend": 0,
+              "is_reward": 0,
+              "logo_url": "https://wx.qlogo.cn/mmhead/Q3auHgzwzM45AZYW3xRiaOnSUEiaOn6AkrVeQPptZPQQkZ15Beb16x1A/64",
+              "multi_info": {
+                "emojis": [],
+                "pictures": [],
+                "voices": []
+              },
+              "nick_name": "龙谈价值2023",
+              "openid": "",
+              "reply_del_flag": 0,
+              "reply_dislike_status": 0,
+              "reply_id": 1,
+              "reply_is_elected": 1,
+              "reply_like_num": 8,
+              "reply_like_status": 0,
+              "rich_content": {
+                "subcontent_list": []
+              }
+            }
+          ],
+          "reply_total_cnt": 1
+        },
+        "rich_content": {
+          "subcontent_list": []
+        }
+      }
+    },
+    {
+      "content_id": "1",
+      "parent_content_id": "11157368975287912377",
+      "nick_name": "龙谈价值2023",
+      "logo_url": "https://wx.qlogo.cn/mmhead/Q3auHgzwzM45AZYW3xRiaOnSUEiaOn6AkrVeQPptZPQQkZ15Beb16x1A/64",
+      "content": "全行业资产配置和创新药仓位没关系呀，投资人也不可能all in创新药。",
+      "create_time": 1735197143,
+      "like_num": 8,
+      "is_elected": true,
+      "is_author": true,
+      "raw": {
+        "author_like_status": 0,
+        "bizattr_servicetype": 1,
+        "can_share": true,
+        "content": "全行业资产配置和创新药仓位没关系呀，投资人也不可能all in创新药。",
+        "create_time": 1735197143,
+        "from_ai": false,
+        "identity_name": "gh_9a9c8e147c7e",
+        "identity_type": 1,
+        "is_deleted": 0,
+        "is_from": 2,
+        "is_from_friend": 0,
+        "is_reward": 0,
+        "logo_url": "https://wx.qlogo.cn/mmhead/Q3auHgzwzM45AZYW3xRiaOnSUEiaOn6AkrVeQPptZPQQkZ15Beb16x1A/64",
+        "multi_info": {
+          "emojis": [],
+          "pictures": [],
+          "voices": []
+        },
+        "nick_name": "龙谈价值2023",
+        "openid": "",
+        "reply_del_flag": 0,
+        "reply_dislike_status": 0,
+        "reply_id": 1,
+        "reply_is_elected": 1,
+        "reply_like_num": 8,
+        "reply_like_status": 0,
+        "rich_content": {
+          "subcontent_list": []
+        }
+      }
+    },
+    {
+      "content_id": "4312853171908117157",
+      "parent_content_id": "",
+      "nick_name": "美克眼镜视光顾问",
+      "logo_url": "https://wx.qlogo.cn/mmopen/YHiby9xiabHxCy7Qyyn02ejVAJwV5QQnUusHgMeTtNkqDCpChTfKRDpib8YIF9ziarDliaiaza3gAFwJTJW7LsqNRXDUjS2sKMU0hQ/64",
+      "content": "龙哥，6.89%股息分红扣20%，就剩下5.5%，很多A的高股息，拿一年以上股息比这个更高，那岂不是港股央企也没啥吸引力了",
+      "create_time": 1735204381,
+      "like_num": 1,
+      "is_elected": true,
+      "is_author": false,
+      "raw": {
+        "author_like_status": 0,
+        "bizattr_servicetype": 0,
+        "can_share": true,
+        "content": "龙哥，6.89%股息分红扣20%，就剩下5.5%，很多A的高股息，拿一年以上股息比这个更高，那岂不是港股央企也没啥吸引力了",
+        "content_id": "4312853171908117157",
+        "create_time": 1735204381,
+        "dislike_status": 0,
+        "id": 12,
+        "identity_name": "otWnb6YVaw7W_KIyUwWVTv5nkQr0",
+        "identity_type": 0,
+        "ip_wording": {
+          "city_id": "",
+          "city_name": "",
+          "country_id": "156",
+          "country_name": "中国",
+          "province_id": "",
+          "province_name": "河南"
+        },
+        "is_can_delete": false,
+        "is_elected": 1,
+        "is_first_comment": false,
+        "is_from": 0,
+        "is_from_friend": 0,
+        "is_from_me": 0,
+        "is_reward": 0,
+        "is_top": 0,
+        "like_num": 1,
+        "like_status": 0,
+        "logo_url": "https://wx.qlogo.cn/mmopen/YHiby9xiabHxCy7Qyyn02ejVAJwV5QQnUusHgMeTtNkqDCpChTfKRDpib8YIF9ziarDliaiaza3gAFwJTJW7LsqNRXDUjS2sKMU0hQ/64",
+        "multi_info": {
+          "emojis": [],
+          "pictures": [],
+          "voices": []
+        },
+        "my_id": 677,
+        "need_show_publish_tips": false,
+        "nick_name": "美克眼镜视光顾问",
+        "openid": "otWnb6YVaw7W_KIyUwWVTv5nkQr0",
+        "party_flag": 0,
+        "reply_new": {
+          "max_reply_id": 2,
+          "reply_list": [
+            {
+              "author_like_status": 0,
+              "bizattr_servicetype": 1,
+              "can_share": true,
+              "content": "主要是etf相对分散，个别公司业绩波动不影响总体",
+              "create_time": 1735212248,
+              "from_ai": false,
+              "identity_name": "gh_9a9c8e147c7e",
+              "identity_type": 1,
+              "is_deleted": 0,
+              "is_from": 2,
+              "is_from_friend": 0,
+              "is_reward": 0,
+              "logo_url": "https://wx.qlogo.cn/mmhead/Q3auHgzwzM45AZYW3xRiaOnSUEiaOn6AkrVeQPptZPQQkZ15Beb16x1A/64",
+              "multi_info": {
+                "emojis": [],
+                "pictures": [],
+                "voices": []
+              },
+              "nick_name": "龙谈价值2023",
+              "openid": "",
+              "reply_del_flag": 0,
+              "reply_dislike_status": 0,
+              "reply_id": 1,
+              "reply_is_elected": 1,
+              "reply_like_num": 7,
+              "reply_like_status": 0,
+              "rich_content": {
+                "subcontent_list": []
+              }
+            }
+          ],
+          "reply_total_cnt": 1
+        },
+        "rich_content": {
+          "subcontent_list": []
+        }
+      }
+    },
+    {
+      "content_id": "1",
+      "parent_content_id": "4312853171908117157",
+      "nick_name": "龙谈价值2023",
+      "logo_url": "https://wx.qlogo.cn/mmhead/Q3auHgzwzM45AZYW3xRiaOnSUEiaOn6AkrVeQPptZPQQkZ15Beb16x1A/64",
+      "content": "主要是etf相对分散，个别公司业绩波动不影响总体",
+      "create_time": 1735212248,
+      "like_num": 7,
+      "is_elected": true,
+      "is_author": true,
+      "raw": {
+        "author_like_status": 0,
+        "bizattr_servicetype": 1,
+        "can_share": true,
+        "content": "主要是etf相对分散，个别公司业绩波动不影响总体",
+        "create_time": 1735212248,
+        "from_ai": false,
+        "identity_name": "gh_9a9c8e147c7e",
+        "identity_type": 1,
+        "is_deleted": 0,
+        "is_from": 2,
+        "is_from_friend": 0,
+        "is_reward": 0,
+        "logo_url": "https://wx.qlogo.cn/mmhead/Q3auHgzwzM45AZYW3xRiaOnSUEiaOn6AkrVeQPptZPQQkZ15Beb16x1A/64",
+        "multi_info": {
+          "emojis": [],
+          "pictures": [],
+          "voices": []
+        },
+        "nick_name": "龙谈价值2023",
+        "openid": "",
+        "reply_del_flag": 0,
+        "reply_dislike_status": 0,
+        "reply_id": 1,
+        "reply_is_elected": 1,
+        "reply_like_num": 7,
+        "reply_like_status": 0,
+        "rich_content": {
+          "subcontent_list": []
+        }
+      }
+    },
+    {
+      "content_id": "3574993364006732855",
+      "parent_content_id": "",
+      "nick_name": "知行",
+      "logo_url": "https://wx.qlogo.cn/mmopen/PiajxSqBRaEIN9t0Qpbz39p50L6TlGF6242NKYyMT7bjicsL4VfFWicpXu8g5SU3jo2XYrBZzr7yLb8WT6hhEibjIICHaILAYmGKWsE0biaJoyNpKm9H8A6Wn81bZDCJULErF/64",
+      "content": "减免内地个人投资者通过港股通投资香港上市公司时所需缴纳的所得税（20%~28%），这个是分红扣税么？还是盈利所得税？",
+      "create_time": 1735199253,
+      "like_num": 1,
+      "is_elected": true,
+      "is_author": false,
+      "raw": {
+        "author_like_status": 0,
+        "bizattr_servicetype": 0,
+        "can_share": true,
+        "content": "减免内地个人投资者通过港股通投资香港上市公司时所需缴纳的所得税（20%~28%），这个是分红扣税么？还是盈利所得税？",
+        "content_id": "3574993364006732855",
+        "create_time": 1735199253,
+        "dislike_status": 0,
+        "id": 10,
+        "identity_name": "otWnb6ezWqH5hRQGgK0_QdBpFtvA",
+        "identity_type": 0,
+        "ip_wording": {
+          "city_id": "",
+          "city_name": "",
+          "country_id": "156",
+          "country_name": "中国",
+          "province_id": "",
+          "province_name": "广东"
+        },
+        "is_can_delete": false,
+        "is_elected": 1,
+        "is_first_comment": false,
+        "is_from": 0,
+        "is_from_friend": 0,
+        "is_from_me": 0,
+        "is_reward": 0,
+        "is_top": 0,
+        "like_num": 1,
+        "like_status": 0,
+        "logo_url": "https://wx.qlogo.cn/mmopen/PiajxSqBRaEIN9t0Qpbz39p50L6TlGF6242NKYyMT7bjicsL4VfFWicpXu8g5SU3jo2XYrBZzr7yLb8WT6hhEibjIICHaILAYmGKWsE0biaJoyNpKm9H8A6Wn81bZDCJULErF/64",
+        "multi_info": {
+          "emojis": [],
+          "pictures": [],
+          "voices": []
+        },
+        "my_id": 1079,
+        "need_show_publish_tips": false,
+        "nick_name": "知行",
+        "openid": "otWnb6ezWqH5hRQGgK0_QdBpFtvA",
+        "party_flag": 0,
+        "reply_new": {
+          "max_reply_id": 3,
+          "reply_list": [
+            {
+              "author_like_status": 0,
+              "bizattr_servicetype": 1,
+              "can_share": true,
+              "content": "分红的税，就是你现在通过港股通拿港股刚起的分红要扣税的，而且税很高。",
+              "create_time": 1735199379,
+              "from_ai": false,
+              "identity_name": "gh_9a9c8e147c7e",
+              "identity_type": 1,
+              "is_deleted": 0,
+              "is_from": 2,
+              "is_from_friend": 0,
+              "is_reward": 0,
+              "logo_url": "https://wx.qlogo.cn/mmhead/Q3auHgzwzM45AZYW3xRiaOnSUEiaOn6AkrVeQPptZPQQkZ15Beb16x1A/64",
+              "multi_info": {
+                "emojis": [],
+                "pictures": [],
+                "voices": []
+              },
+              "nick_name": "龙谈价值2023",
+              "openid": "",
+              "reply_del_flag": 0,
+              "reply_dislike_status": 0,
+              "reply_id": 1,
+              "reply_is_elected": 1,
+              "reply_like_num": 7,
+              "reply_like_status": 0,
+              "rich_content": {
+                "subcontent_list": []
+              }
+            },
+            {
+              "author_like_status": 0,
+              "bizattr_servicetype": 0,
+              "can_share": true,
+              "content": "这个双重收税是真的很坑，又坑又高，我都只希望我的港股回购注销，而非分工",
+              "create_time": 1735204371,
+              "from_ai": false,
+              "identity_name": "otWnb6b6gXfWVJL79eSXLCddgzW8",
+              "identity_type": 0,
+              "ip_wording": {
+                "city_id": "",
+                "city_name": "",
+                "country_id": "156",
+                "country_name": "中国",
+                "province_id": "",
+                "province_name": "广东"
+              },
+              "is_deleted": 0,
+              "is_from": 3,
+              "is_from_friend": 0,
+              "is_reward": 0,
+              "logo_url": "https://wx.qlogo.cn/mmopen/PiajxSqBRaEI4y0OribklcXoYib8qymHEa3Vo9Vibd2w28A05v5keaUG9TibibULZyaBVBpttVoflPoQR8eUrOWfyia1m8dXWd3AeUxkUUGGF4CVyVR4gCVBBZWnvP2J1OQnib6b/64",
+              "multi_info": {
+                "emojis": [],
+                "pictures": [],
+                "voices": []
+              },
+              "need_show_publish_tips": false,
+              "nick_name": "Bryan",
+              "openid": "otWnb6b6gXfWVJL79eSXLCddgzW8",
+              "reply_del_flag": 0,
+              "reply_dislike_status": 0,
+              "reply_id": 2,
+              "reply_is_elected": 1,
+              "reply_like_num": 2,
+              "reply_like_status": 0,
+              "rich_content": {
+                "subcontent_list": []
+              },
+              "to_nick_name": "龙谈价值2023",
+              "to_reply_id": 1
+            }
+          ],
+          "reply_total_cnt": 2
+        },
+        "rich_content": {
+          "subcontent_list": []
+        }
+      }
+    },
+    {
+      "content_id": "1",
+      "parent_content_id": "3574993364006732855",
+      "nick_name": "龙谈价值2023",
+      "logo_url": "https://wx.qlogo.cn/mmhead/Q3auHgzwzM45AZYW3xRiaOnSUEiaOn6AkrVeQPptZPQQkZ15Beb16x1A/64",
+      "content": "分红的税，就是你现在通过港股通拿港股刚起的分红要扣税的，而且税很高。",
+      "create_time": 1735199379,
+      "like_num": 7,
+      "is_elected": true,
+      "is_author": true,
+      "raw": {
+        "author_like_status": 0,
+        "bizattr_servicetype": 1,
+        "can_share": true,
+        "content": "分红的税，就是你现在通过港股通拿港股刚起的分红要扣税的，而且税很高。",
+        "create_time": 1735199379,
+        "from_ai": false,
+        "identity_name": "gh_9a9c8e147c7e",
+        "identity_type": 1,
+        "is_deleted": 0,
+        "is_from": 2,
+        "is_from_friend": 0,
+        "is_reward": 0,
+        "logo_url": "https://wx.qlogo.cn/mmhead/Q3auHgzwzM45AZYW3xRiaOnSUEiaOn6AkrVeQPptZPQQkZ15Beb16x1A/64",
+        "multi_info": {
+          "emojis": [],
+          "pictures": [],
+          "voices": []
+        },
+        "nick_name": "龙谈价值2023",
+        "openid": "",
+        "reply_del_flag": 0,
+        "reply_dislike_status": 0,
+        "reply_id": 1,
+        "reply_is_elected": 1,
+        "reply_like_num": 7,
+        "reply_like_status": 0,
+        "rich_content": {
+          "subcontent_list": []
+        }
+      }
+    },
+    {
+      "content_id": "2",
+      "parent_content_id": "3574993364006732855",
+      "nick_name": "Bryan",
+      "logo_url": "https://wx.qlogo.cn/mmopen/PiajxSqBRaEI4y0OribklcXoYib8qymHEa3Vo9Vibd2w28A05v5keaUG9TibibULZyaBVBpttVoflPoQR8eUrOWfyia1m8dXWd3AeUxkUUGGF4CVyVR4gCVBBZWnvP2J1OQnib6b/64",
+      "content": "这个双重收税是真的很坑，又坑又高，我都只希望我的港股回购注销，而非分工",
+      "create_time": 1735204371,
+      "like_num": 2,
+      "is_elected": true,
+      "is_author": true,
+      "raw": {
+        "author_like_status": 0,
+        "bizattr_servicetype": 0,
+        "can_share": true,
+        "content": "这个双重收税是真的很坑，又坑又高，我都只希望我的港股回购注销，而非分工",
+        "create_time": 1735204371,
+        "from_ai": false,
+        "identity_name": "otWnb6b6gXfWVJL79eSXLCddgzW8",
+        "identity_type": 0,
+        "ip_wording": {
+          "city_id": "",
+          "city_name": "",
+          "country_id": "156",
+          "country_name": "中国",
+          "province_id": "",
+          "province_name": "广东"
+        },
+        "is_deleted": 0,
+        "is_from": 3,
+        "is_from_friend": 0,
+        "is_reward": 0,
+        "logo_url": "https://wx.qlogo.cn/mmopen/PiajxSqBRaEI4y0OribklcXoYib8qymHEa3Vo9Vibd2w28A05v5keaUG9TibibULZyaBVBpttVoflPoQR8eUrOWfyia1m8dXWd3AeUxkUUGGF4CVyVR4gCVBBZWnvP2J1OQnib6b/64",
+        "multi_info": {
+          "emojis": [],
+          "pictures": [],
+          "voices": []
+        },
+        "need_show_publish_tips": false,
+        "nick_name": "Bryan",
+        "openid": "otWnb6b6gXfWVJL79eSXLCddgzW8",
+        "reply_del_flag": 0,
+        "reply_dislike_status": 0,
+        "reply_id": 2,
+        "reply_is_elected": 1,
+        "reply_like_num": 2,
+        "reply_like_status": 0,
+        "rich_content": {
+          "subcontent_list": []
+        },
+        "to_nick_name": "龙谈价值2023",
+        "to_reply_id": 1
+      }
+    },
+    {
+      "content_id": "3872625380619714940",
+      "parent_content_id": "",
+      "nick_name": "BO",
+      "logo_url": "https://wx.qlogo.cn/mmopen/AbruuZ3ILCkIf6nBupvBf8zibgzXvBPPcmzt3kt6UicP95AqCYKTo5auuicCf2dbhmjxlZy6PsmCE8pWuo1JRh0obj8bWDfCbGLzGBBeWTncY0gBetnSe2HliaCWF0Xx0xUib/64",
+      "content": "可是这持仓股要是明年加关税的问题导致出口萎缩&nbsp;然后可能航运&nbsp;煤炭&nbsp;甚至可能石油&nbsp;都得降价&nbsp;这个人红利的个股不知道会不会业绩不及预期而跌",
+      "create_time": 1735193735,
+      "like_num": 4,
+      "is_elected": true,
+      "is_author": false,
+      "raw": {
+        "author_like_status": 0,
+        "bizattr_servicetype": 0,
+        "can_share": true,
+        "content": "可是这持仓股要是明年加关税的问题导致出口萎缩&nbsp;然后可能航运&nbsp;煤炭&nbsp;甚至可能石油&nbsp;都得降价&nbsp;这个人红利的个股不知道会不会业绩不及预期而跌",
+        "content_id": "3872625380619714940",
+        "create_time": 1735193735,
+        "dislike_status": 0,
+        "id": 4,
+        "identity_name": "otWnb6ZPgtWOoFTb_TZjUG0o8k6c",
+        "identity_type": 0,
+        "ip_wording": {
+          "city_id": "",
+          "city_name": "",
+          "country_id": "156",
+          "country_name": "中国",
+          "province_id": "",
+          "province_name": "广东"
+        },
+        "is_can_delete": false,
+        "is_elected": 1,
+        "is_first_comment": false,
+        "is_from": 0,
+        "is_from_friend": 0,
+        "is_from_me": 0,
+        "is_reward": 0,
+        "is_top": 0,
+        "like_num": 4,
+        "like_status": 0,
+        "logo_url": "https://wx.qlogo.cn/mmopen/AbruuZ3ILCkIf6nBupvBf8zibgzXvBPPcmzt3kt6UicP95AqCYKTo5auuicCf2dbhmjxlZy6PsmCE8pWuo1JRh0obj8bWDfCbGLzGBBeWTncY0gBetnSe2HliaCWF0Xx0xUib/64",
+        "multi_info": {
+          "emojis": [],
+          "pictures": [],
+          "voices": []
+        },
+        "my_id": 380,
+        "need_show_publish_tips": false,
+        "nick_name": "BO",
+        "openid": "otWnb6ZPgtWOoFTb_TZjUG0o8k6c",
+        "party_flag": 0,
+        "reply_new": {
+          "max_reply_id": 5,
+          "reply_list": [
+            {
+              "author_like_status": 0,
+              "bizattr_servicetype": 1,
+              "can_share": true,
+              "content": "大宗商品都是全球定价的东西。",
+              "create_time": 1735197100,
+              "from_ai": false,
+              "identity_name": "gh_9a9c8e147c7e",
+              "identity_type": 1,
+              "is_deleted": 0,
+              "is_from": 2,
+              "is_from_friend": 0,
+              "is_reward": 0,
+              "logo_url": "https://wx.qlogo.cn/mmhead/Q3auHgzwzM45AZYW3xRiaOnSUEiaOn6AkrVeQPptZPQQkZ15Beb16x1A/64",
+              "multi_info": {
+                "emojis": [],
+                "pictures": [],
+                "voices": []
+              },
+              "nick_name": "龙谈价值2023",
+              "openid": "",
+              "reply_del_flag": 0,
+              "reply_dislike_status": 0,
+              "reply_id": 1,
+              "reply_is_elected": 1,
+              "reply_like_num": 7,
+              "reply_like_status": 0,
+              "rich_content": {
+                "subcontent_list": []
+              }
+            },
+            {
+              "author_like_status": 0,
+              "bizattr_servicetype": 0,
+              "can_share": true,
+              "content": "是全球定价&nbsp;但是关税如果恶化了国内经济&nbsp;我们经济不好肯定会影响大宗商品的行情",
+              "create_time": 1735197491,
+              "from_ai": false,
+              "identity_name": "otWnb6ZPgtWOoFTb_TZjUG0o8k6c",
+              "identity_type": 0,
+              "ip_wording": {
+                "city_id": "",
+                "city_name": "",
+                "country_id": "156",
+                "country_name": "中国",
+                "province_id": "",
+                "province_name": "广东"
+              },
+              "is_deleted": 0,
+              "is_from": 3,
+              "is_from_friend": 0,
+              "is_reward": 0,
+              "logo_url": "https://wx.qlogo.cn/mmopen/AbruuZ3ILCkIf6nBupvBf8zibgzXvBPPcmzt3kt6UicP95AqCYKTo5auuicCf2dbhmjxlZy6PsmCE8pWuo1JRh0obj8bWDfCbGLzGBBeWTncY0gBetnSe2HliaCWF0Xx0xUib/64",
+              "multi_info": {
+                "emojis": [],
+                "pictures": [],
+                "voices": []
+              },
+              "need_show_publish_tips": false,
+              "nick_name": "BO",
+              "openid": "otWnb6ZPgtWOoFTb_TZjUG0o8k6c",
+              "reply_del_flag": 0,
+              "reply_dislike_status": 0,
+              "reply_id": 2,
+              "reply_is_elected": 1,
+              "reply_like_num": 3,
+              "reply_like_status": 0,
+              "rich_content": {
+                "subcontent_list": []
+              },
+              "to_nick_name": "龙谈价值2023",
+              "to_reply_id": 1
+            }
+          ],
+          "reply_total_cnt": 4
+        },
+        "rich_content": {
+          "subcontent_list": []
+        }
+      }
+    },
+    {
+      "content_id": "1",
+      "parent_content_id": "3872625380619714940",
+      "nick_name": "龙谈价值2023",
+      "logo_url": "https://wx.qlogo.cn/mmhead/Q3auHgzwzM45AZYW3xRiaOnSUEiaOn6AkrVeQPptZPQQkZ15Beb16x1A/64",
+      "content": "大宗商品都是全球定价的东西。",
+      "create_time": 1735197100,
+      "like_num": 7,
+      "is_elected": true,
+      "is_author": true,
+      "raw": {
+        "author_like_status": 0,
+        "bizattr_servicetype": 1,
+        "can_share": true,
+        "content": "大宗商品都是全球定价的东西。",
+        "create_time": 1735197100,
+        "from_ai": false,
+        "identity_name": "gh_9a9c8e147c7e",
+        "identity_type": 1,
+        "is_deleted": 0,
+        "is_from": 2,
+        "is_from_friend": 0,
+        "is_reward": 0,
+        "logo_url": "https://wx.qlogo.cn/mmhead/Q3auHgzwzM45AZYW3xRiaOnSUEiaOn6AkrVeQPptZPQQkZ15Beb16x1A/64",
+        "multi_info": {
+          "emojis": [],
+          "pictures": [],
+          "voices": []
+        },
+        "nick_name": "龙谈价值2023",
+        "openid": "",
+        "reply_del_flag": 0,
+        "reply_dislike_status": 0,
+        "reply_id": 1,
+        "reply_is_elected": 1,
+        "reply_like_num": 7,
+        "reply_like_status": 0,
+        "rich_content": {
+          "subcontent_list": []
+        }
+      }
+    },
+    {
+      "content_id": "2",
+      "parent_content_id": "3872625380619714940",
+      "nick_name": "BO",
+      "logo_url": "https://wx.qlogo.cn/mmopen/AbruuZ3ILCkIf6nBupvBf8zibgzXvBPPcmzt3kt6UicP95AqCYKTo5auuicCf2dbhmjxlZy6PsmCE8pWuo1JRh0obj8bWDfCbGLzGBBeWTncY0gBetnSe2HliaCWF0Xx0xUib/64",
+      "content": "是全球定价&nbsp;但是关税如果恶化了国内经济&nbsp;我们经济不好肯定会影响大宗商品的行情",
+      "create_time": 1735197491,
+      "like_num": 3,
+      "is_elected": true,
+      "is_author": true,
+      "raw": {
+        "author_like_status": 0,
+        "bizattr_servicetype": 0,
+        "can_share": true,
+        "content": "是全球定价&nbsp;但是关税如果恶化了国内经济&nbsp;我们经济不好肯定会影响大宗商品的行情",
+        "create_time": 1735197491,
+        "from_ai": false,
+        "identity_name": "otWnb6ZPgtWOoFTb_TZjUG0o8k6c",
+        "identity_type": 0,
+        "ip_wording": {
+          "city_id": "",
+          "city_name": "",
+          "country_id": "156",
+          "country_name": "中国",
+          "province_id": "",
+          "province_name": "广东"
+        },
+        "is_deleted": 0,
+        "is_from": 3,
+        "is_from_friend": 0,
+        "is_reward": 0,
+        "logo_url": "https://wx.qlogo.cn/mmopen/AbruuZ3ILCkIf6nBupvBf8zibgzXvBPPcmzt3kt6UicP95AqCYKTo5auuicCf2dbhmjxlZy6PsmCE8pWuo1JRh0obj8bWDfCbGLzGBBeWTncY0gBetnSe2HliaCWF0Xx0xUib/64",
+        "multi_info": {
+          "emojis": [],
+          "pictures": [],
+          "voices": []
+        },
+        "need_show_publish_tips": false,
+        "nick_name": "BO",
+        "openid": "otWnb6ZPgtWOoFTb_TZjUG0o8k6c",
+        "reply_del_flag": 0,
+        "reply_dislike_status": 0,
+        "reply_id": 2,
+        "reply_is_elected": 1,
+        "reply_like_num": 3,
+        "reply_like_status": 0,
+        "rich_content": {
+          "subcontent_list": []
+        },
+        "to_nick_name": "龙谈价值2023",
+        "to_reply_id": 1
+      }
+    },
+    {
+      "content_id": "9105541039313126028",
+      "parent_content_id": "",
+      "nick_name": "郑",
+      "logo_url": "https://wx.qlogo.cn/mmopen/AbruuZ3ILClEOfrgP4ygLoeuiclt8xxCiavzyW3WqEJvAUmQOFoV8HgJBLG6j05HmUAZ4qlCE2AvdYvicboHIwsWyswP85Pe8WA/64",
+      "content": "康波萧条期，稳健红利必然收益。或许还能持续5年。不过绝不能简单拿日本那20年对比，人口、地产、债务等等，似是而非最具误导性，日本错过了无数个新产业大趋势，比如互联网、移动互联网、新能源车、光伏等等等等……",
+      "create_time": 1735224535,
+      "like_num": 3,
+      "is_elected": true,
+      "is_author": false,
+      "raw": {
+        "author_like_status": 0,
+        "bizattr_servicetype": 0,
+        "can_share": true,
+        "content": "康波萧条期，稳健红利必然收益。或许还能持续5年。不过绝不能简单拿日本那20年对比，人口、地产、债务等等，似是而非最具误导性，日本错过了无数个新产业大趋势，比如互联网、移动互联网、新能源车、光伏等等等等……",
+        "content_id": "9105541039313126028",
+        "create_time": 1735224535,
+        "dislike_status": 0,
+        "id": 14,
+        "identity_name": "otWnb6WGUCBBGU7B17uEjVkZLa2E",
+        "identity_type": 0,
+        "ip_wording": {
+          "city_id": "",
+          "city_name": "",
+          "country_id": "156",
+          "country_name": "中国",
+          "province_id": "",
+          "province_name": "福建"
+        },
+        "is_can_delete": false,
+        "is_elected": 1,
+        "is_first_comment": false,
+        "is_from": 0,
+        "is_from_friend": 0,
+        "is_from_me": 0,
+        "is_reward": 0,
+        "is_top": 0,
+        "like_num": 3,
+        "like_status": 0,
+        "logo_url": "https://wx.qlogo.cn/mmopen/AbruuZ3ILClEOfrgP4ygLoeuiclt8xxCiavzyW3WqEJvAUmQOFoV8HgJBLG6j05HmUAZ4qlCE2AvdYvicboHIwsWyswP85Pe8WA/64",
+        "multi_info": {
+          "emojis": [],
+          "pictures": [],
+          "voices": []
+        },
+        "my_id": 652,
+        "need_show_publish_tips": false,
+        "nick_name": "郑",
+        "openid": "otWnb6WGUCBBGU7B17uEjVkZLa2E",
+        "party_flag": 0,
+        "reply_new": {
+          "max_reply_id": 1,
+          "reply_list": [],
+          "reply_total_cnt": 0
+        },
+        "rich_content": {
+          "subcontent_list": []
+        }
+      }
+    },
+    {
+      "content_id": "4398379800566169958",
+      "parent_content_id": "",
+      "nick_name": "ÉTINCELLE",
+      "logo_url": "https://wx.qlogo.cn/mmopen/PiajxSqBRaEJ8M2dicHib0Wjg6GBU68bSficCtvtVH9aO9mRHiavXc5JVXAkxcD7w8gOxj4PwSr7dXRqbdV4icXIBIUaJl9rfQiaKhRnib90UL5HbQR1MOkxj0GBX1wZH9pR1JPp/64",
+      "content": "龙哥好，新人二级买斗胆讲一下自己看法：明年投资者风格还是会继续撕裂，柚子机构散户互不信任，各自守着自己三亩地，因此市场风格还是杠铃型，科技+红利是最强的主线，二选一坚定做多就好，反复横跳不坚定反而很不利，个人层面也比较偏好高股息",
+      "create_time": 1735219399,
+      "like_num": 3,
+      "is_elected": true,
+      "is_author": false,
+      "raw": {
+        "author_like_status": 0,
+        "bizattr_servicetype": 0,
+        "can_share": true,
+        "content": "龙哥好，新人二级买斗胆讲一下自己看法：明年投资者风格还是会继续撕裂，柚子机构散户互不信任，各自守着自己三亩地，因此市场风格还是杠铃型，科技+红利是最强的主线，二选一坚定做多就好，反复横跳不坚定反而很不利，个人层面也比较偏好高股息",
+        "content_id": "4398379800566169958",
+        "create_time": 1735219399,
+        "dislike_status": 0,
+        "id": 13,
+        "identity_name": "otWnb6S7DiJBZRwmh_Sd6pOcQtUs",
+        "identity_type": 0,
+        "ip_wording": {
+          "city_id": "",
+          "city_name": "",
+          "country_id": "156",
+          "country_name": "中国",
+          "province_id": "",
+          "province_name": "上海"
+        },
+        "is_can_delete": false,
+        "is_elected": 1,
+        "is_first_comment": false,
+        "is_from": 0,
+        "is_from_friend": 0,
+        "is_from_me": 0,
+        "is_reward": 0,
+        "is_top": 0,
+        "like_num": 3,
+        "like_status": 0,
+        "logo_url": "https://wx.qlogo.cn/mmopen/PiajxSqBRaEJ8M2dicHib0Wjg6GBU68bSficCtvtVH9aO9mRHiavXc5JVXAkxcD7w8gOxj4PwSr7dXRqbdV4icXIBIUaJl9rfQiaKhRnib90UL5HbQR1MOkxj0GBX1wZH9pR1JPp/64",
+        "multi_info": {
+          "emojis": [],
+          "pictures": [],
+          "voices": []
+        },
+        "my_id": 358,
+        "need_show_publish_tips": false,
+        "nick_name": "ÉTINCELLE",
+        "openid": "otWnb6S7DiJBZRwmh_Sd6pOcQtUs",
+        "party_flag": 0,
+        "reply_new": {
+          "max_reply_id": 1,
+          "reply_list": [],
+          "reply_total_cnt": 0
+        },
+        "rich_content": {
+          "subcontent_list": []
+        }
+      }
+    }
+  ]
+}

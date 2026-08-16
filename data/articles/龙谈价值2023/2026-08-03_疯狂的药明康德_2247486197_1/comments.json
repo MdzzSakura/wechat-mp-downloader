@@ -1,0 +1,2117 @@
+{
+  "fetched_at": 1786893415,
+  "count": 23,
+  "meta": {
+    "url": "https://mp.weixin.qq.com/s?__biz=MzkyMzQ3MDc3Mw==&mid=2247486197&idx=1&sn=5e367ebedb5e62cc0e59a59bb0434ff8",
+    "title": "疯狂的药明康德",
+    "elected_total": 11
+  },
+  "comments": [
+    {
+      "content_id": "9631109474290761761",
+      "parent_content_id": "",
+      "nick_name": "Vcolder",
+      "logo_url": "https://wx.qlogo.cn/mmhead/oQ7QIr12iawp8YBo2603EwSGbJaI4QPQMe4gJDpjhyYRPUqWXA8Cm8B21zXA7s5yPpY3ZuyVgGOs/64",
+      "content": "医药界的台积电",
+      "create_time": 1785760568,
+      "like_num": 39,
+      "is_elected": true,
+      "is_author": false,
+      "raw": {
+        "author_like_status": 0,
+        "bizattr_servicetype": 8,
+        "can_share": true,
+        "content": "医药界的台积电",
+        "content_id": "9631109474290761761",
+        "create_time": 1785760568,
+        "dislike_status": 0,
+        "highlight": {
+          "highlight_pos": [
+            4
+          ],
+          "s1s_context_info": [
+            "%7B%22mixerCommonContext%22%3A%22%7B%5C%22mixerrank_list%5C%22%3A%5B%7B%5C%22client_type%5C%22%3A2%2C%5C%22sub_type%5C%22%3A0%2C%5C%22rank_pos%5C%22%3A20%2C%5C%22docid%5C%22%3A%5C%226397495149397062540%5C%22%7D%5D%2C%5C%22scene%5C%22%3A205%7D%22%7D"
+          ],
+          "s1s_jsapi_name": [
+            "openWXSearchHalfPage"
+          ],
+          "s1s_jsapi_paras": [
+            "{\"scene\":205,\"isAutoShowUnitInHalfScreen\":1,\"hiddenSearchHeader\":0,\"parentType\":135,\"webviewHeightRatio\":0.699999989, \"kvItems\":[], \"sessionKvItems\":[] }"
+          ],
+          "s1s_stat_info": [
+            "%7B%22bizuin%22%3A3923470773%2C%22appmsgid%22%3A2247486197%2C%22itemidx%22%3A1%2C%22comment_id%22%3A%224633318516262322182%22%2C%22content_id%22%3A%229631109474290761761%22%2C%22reply_id%22%3A0%2C%22docid%22%3A%226397495149397062540%22%2C%22pos%22%3A4%2C%22request_type%22%3A1%2C%22request_id%22%3A%2216873786725248507871%22%2C%22query%22%3A%22%E5%8F%B0%E7%A7%AF%E7%94%B5%22%2C%22search_id%22%3A%2216873786725248507871%22%7D"
+          ],
+          "word": [
+            "台积电"
+          ]
+        },
+        "id": 14,
+        "identity_name": "phacct_deb73b0da0f8",
+        "identity_type": 1,
+        "ip_wording": {
+          "city_id": "",
+          "city_name": "",
+          "country_id": "156",
+          "country_name": "中国",
+          "province_id": "",
+          "province_name": "北京"
+        },
+        "is_can_delete": false,
+        "is_elected": 1,
+        "is_first_comment": false,
+        "is_from": 0,
+        "is_from_friend": 0,
+        "is_from_me": 0,
+        "is_reward": 0,
+        "is_top": 1,
+        "like_num": 39,
+        "like_status": 0,
+        "logo_url": "https://wx.qlogo.cn/mmhead/oQ7QIr12iawp8YBo2603EwSGbJaI4QPQMe4gJDpjhyYRPUqWXA8Cm8B21zXA7s5yPpY3ZuyVgGOs/64",
+        "multi_info": {
+          "emojis": [],
+          "pictures": [],
+          "voices": []
+        },
+        "my_id": 33,
+        "need_show_publish_tips": false,
+        "nick_name": "Vcolder",
+        "openid": "otWnb6VcNrksGqXmiz_Dx2c3guz0",
+        "party_flag": 0,
+        "reply_new": {
+          "max_reply_id": 2,
+          "reply_list": [
+            {
+              "author_like_status": 0,
+              "bizattr_servicetype": 1,
+              "can_share": true,
+              "content": "借你这条补充一个图，可持续经营业务在手订单664亿同比+25%。",
+              "create_time": 1785761521,
+              "from_ai": false,
+              "identity_name": "gh_9a9c8e147c7e",
+              "identity_type": 1,
+              "is_deleted": 0,
+              "is_from": 2,
+              "is_from_friend": 0,
+              "is_reward": 0,
+              "logo_url": "https://wx.qlogo.cn/mmhead/Q3auHgzwzM45AZYW3xRiaOnSUEiaOn6AkrVeQPptZPQQkZ15Beb16x1A/64",
+              "multi_info": {
+                "emojis": [],
+                "pictures": [
+                  {
+                    "height": 1152,
+                    "url": "http://mmbiz.qpic.cn/mmbiz_png/YHiby9xiabHxDUnPl51etVRHjM0iclIeHVuvPBfefGHVqJcrUKXoFkXTibCYib5sD8l1BZ8TDGJ1pag6HS3qymTsKehoImI4mgHSv8icmcsFaa0zU/640",
+                    "width": 1998
+                  }
+                ],
+                "voices": []
+              },
+              "nick_name": "龙谈价值2023",
+              "openid": "",
+              "reply_del_flag": 0,
+              "reply_dislike_status": 0,
+              "reply_id": 1,
+              "reply_is_elected": 1,
+              "reply_like_num": 33,
+              "reply_like_status": 0,
+              "rich_content": {
+                "rich_text": "借你这条补充一个图，可持续经营业务在手订单664亿同比+25%。",
+                "subcontent_list": [
+                  {
+                    "plain_text": "借你这条补充一个图，可持续经营业务在手订单664亿同比+25%。",
+                    "rich_text": "借你这条补充一个图，可持续经营业务在手订单664亿同比+25%。",
+                    "tag_type": 0
+                  }
+                ]
+              }
+            }
+          ],
+          "reply_total_cnt": 1
+        },
+        "rich_content": {
+          "rich_text": "医药界的台积电",
+          "subcontent_list": [
+            {
+              "plain_text": "医药界的台积电",
+              "rich_text": "医药界的台积电",
+              "tag_type": 0
+            }
+          ]
+        }
+      }
+    },
+    {
+      "content_id": "1",
+      "parent_content_id": "9631109474290761761",
+      "nick_name": "龙谈价值2023",
+      "logo_url": "https://wx.qlogo.cn/mmhead/Q3auHgzwzM45AZYW3xRiaOnSUEiaOn6AkrVeQPptZPQQkZ15Beb16x1A/64",
+      "content": "借你这条补充一个图，可持续经营业务在手订单664亿同比+25%。",
+      "create_time": 1785761521,
+      "like_num": 33,
+      "is_elected": true,
+      "is_author": true,
+      "raw": {
+        "author_like_status": 0,
+        "bizattr_servicetype": 1,
+        "can_share": true,
+        "content": "借你这条补充一个图，可持续经营业务在手订单664亿同比+25%。",
+        "create_time": 1785761521,
+        "from_ai": false,
+        "identity_name": "gh_9a9c8e147c7e",
+        "identity_type": 1,
+        "is_deleted": 0,
+        "is_from": 2,
+        "is_from_friend": 0,
+        "is_reward": 0,
+        "logo_url": "https://wx.qlogo.cn/mmhead/Q3auHgzwzM45AZYW3xRiaOnSUEiaOn6AkrVeQPptZPQQkZ15Beb16x1A/64",
+        "multi_info": {
+          "emojis": [],
+          "pictures": [
+            {
+              "height": 1152,
+              "url": "http://mmbiz.qpic.cn/mmbiz_png/YHiby9xiabHxDUnPl51etVRHjM0iclIeHVuvPBfefGHVqJcrUKXoFkXTibCYib5sD8l1BZ8TDGJ1pag6HS3qymTsKehoImI4mgHSv8icmcsFaa0zU/640",
+              "width": 1998
+            }
+          ],
+          "voices": []
+        },
+        "nick_name": "龙谈价值2023",
+        "openid": "",
+        "reply_del_flag": 0,
+        "reply_dislike_status": 0,
+        "reply_id": 1,
+        "reply_is_elected": 1,
+        "reply_like_num": 33,
+        "reply_like_status": 0,
+        "rich_content": {
+          "rich_text": "借你这条补充一个图，可持续经营业务在手订单664亿同比+25%。",
+          "subcontent_list": [
+            {
+              "plain_text": "借你这条补充一个图，可持续经营业务在手订单664亿同比+25%。",
+              "rich_text": "借你这条补充一个图，可持续经营业务在手订单664亿同比+25%。",
+              "tag_type": 0
+            }
+          ]
+        }
+      }
+    },
+    {
+      "content_id": "3577193134586594413",
+      "parent_content_id": "",
+      "nick_name": "雨夜落无声",
+      "logo_url": "https://wx.qlogo.cn/mmopen/ajNVdqHZLLAiaRhp546Qf7U0yR41QLjD5O6T2MAbSCkLLHShENlDA7rm9NLibPgrE3BicTLSsF7mdyx1kYCctcv9w/64",
+      "content": "爽啊，重仓的药名能不能见到钱啊",
+      "create_time": 1785759918,
+      "like_num": 16,
+      "is_elected": true,
+      "is_author": false,
+      "raw": {
+        "author_like_status": 0,
+        "bizattr_servicetype": 0,
+        "can_share": true,
+        "content": "爽啊，重仓的药名能不能见到钱啊",
+        "content_id": "3577193134586594413",
+        "create_time": 1785759918,
+        "dislike_status": 0,
+        "id": 1,
+        "identity_name": "otWnb6YBKJPfQMUr43GlSPfzVgx4",
+        "identity_type": 0,
+        "ip_wording": {
+          "city_id": "",
+          "city_name": "",
+          "country_id": "156",
+          "country_name": "中国",
+          "province_id": "",
+          "province_name": "上海"
+        },
+        "is_can_delete": false,
+        "is_elected": 1,
+        "is_first_comment": true,
+        "is_from": 0,
+        "is_from_friend": 0,
+        "is_from_me": 0,
+        "is_reward": 0,
+        "is_top": 0,
+        "like_num": 16,
+        "like_status": 0,
+        "logo_url": "https://wx.qlogo.cn/mmopen/ajNVdqHZLLAiaRhp546Qf7U0yR41QLjD5O6T2MAbSCkLLHShENlDA7rm9NLibPgrE3BicTLSsF7mdyx1kYCctcv9w/64",
+        "multi_info": {
+          "emojis": [],
+          "pictures": [],
+          "voices": []
+        },
+        "my_id": 1133,
+        "need_show_publish_tips": false,
+        "nick_name": "雨夜落无声",
+        "openid": "otWnb6YBKJPfQMUr43GlSPfzVgx4",
+        "party_flag": 0,
+        "reply_new": {
+          "max_reply_id": 9,
+          "reply_list": [
+            {
+              "author_like_status": 0,
+              "bizattr_servicetype": 1,
+              "can_share": true,
+              "content": "之前大家就知道康德Q2业绩会很好，所以你看最近不管大盘和行业怎么跌，康德就稳如泰山，但实际业绩出来还是比乐观预期还要好。",
+              "create_time": 1785760136,
+              "from_ai": false,
+              "identity_name": "gh_9a9c8e147c7e",
+              "identity_type": 1,
+              "is_deleted": 0,
+              "is_from": 2,
+              "is_from_friend": 0,
+              "is_reward": 0,
+              "logo_url": "https://wx.qlogo.cn/mmhead/Q3auHgzwzM45AZYW3xRiaOnSUEiaOn6AkrVeQPptZPQQkZ15Beb16x1A/64",
+              "multi_info": {
+                "emojis": [],
+                "pictures": [],
+                "voices": []
+              },
+              "nick_name": "龙谈价值2023",
+              "openid": "",
+              "reply_del_flag": 0,
+              "reply_dislike_status": 0,
+              "reply_id": 1,
+              "reply_is_elected": 1,
+              "reply_like_num": 44,
+              "reply_like_status": 0,
+              "rich_content": {
+                "rich_text": "之前大家就知道康德Q2业绩会很好，所以你看最近不管大盘和行业怎么跌，康德就稳如泰山，但实际业绩出来还是比乐观预期还要好。",
+                "subcontent_list": [
+                  {
+                    "plain_text": "之前大家就知道康德Q2业绩会很好，所以你看最近不管大盘和行业怎么跌，康德就稳如泰山，但实际业绩出来还是比乐观预期还要好。",
+                    "rich_text": "之前大家就知道康德Q2业绩会很好，所以你看最近不管大盘和行业怎么跌，康德就稳如泰山，但实际业绩出来还是比乐观预期还要好。",
+                    "tag_type": 0
+                  }
+                ]
+              }
+            }
+          ],
+          "reply_total_cnt": 1
+        },
+        "rich_content": {
+          "rich_text": "爽啊，重仓的药名能不能见到钱啊",
+          "subcontent_list": [
+            {
+              "plain_text": "爽啊，重仓的药名能不能见到钱啊",
+              "rich_text": "爽啊，重仓的药名能不能见到钱啊",
+              "tag_type": 0
+            }
+          ]
+        }
+      }
+    },
+    {
+      "content_id": "1",
+      "parent_content_id": "3577193134586594413",
+      "nick_name": "龙谈价值2023",
+      "logo_url": "https://wx.qlogo.cn/mmhead/Q3auHgzwzM45AZYW3xRiaOnSUEiaOn6AkrVeQPptZPQQkZ15Beb16x1A/64",
+      "content": "之前大家就知道康德Q2业绩会很好，所以你看最近不管大盘和行业怎么跌，康德就稳如泰山，但实际业绩出来还是比乐观预期还要好。",
+      "create_time": 1785760136,
+      "like_num": 44,
+      "is_elected": true,
+      "is_author": true,
+      "raw": {
+        "author_like_status": 0,
+        "bizattr_servicetype": 1,
+        "can_share": true,
+        "content": "之前大家就知道康德Q2业绩会很好，所以你看最近不管大盘和行业怎么跌，康德就稳如泰山，但实际业绩出来还是比乐观预期还要好。",
+        "create_time": 1785760136,
+        "from_ai": false,
+        "identity_name": "gh_9a9c8e147c7e",
+        "identity_type": 1,
+        "is_deleted": 0,
+        "is_from": 2,
+        "is_from_friend": 0,
+        "is_reward": 0,
+        "logo_url": "https://wx.qlogo.cn/mmhead/Q3auHgzwzM45AZYW3xRiaOnSUEiaOn6AkrVeQPptZPQQkZ15Beb16x1A/64",
+        "multi_info": {
+          "emojis": [],
+          "pictures": [],
+          "voices": []
+        },
+        "nick_name": "龙谈价值2023",
+        "openid": "",
+        "reply_del_flag": 0,
+        "reply_dislike_status": 0,
+        "reply_id": 1,
+        "reply_is_elected": 1,
+        "reply_like_num": 44,
+        "reply_like_status": 0,
+        "rich_content": {
+          "rich_text": "之前大家就知道康德Q2业绩会很好，所以你看最近不管大盘和行业怎么跌，康德就稳如泰山，但实际业绩出来还是比乐观预期还要好。",
+          "subcontent_list": [
+            {
+              "plain_text": "之前大家就知道康德Q2业绩会很好，所以你看最近不管大盘和行业怎么跌，康德就稳如泰山，但实际业绩出来还是比乐观预期还要好。",
+              "rich_text": "之前大家就知道康德Q2业绩会很好，所以你看最近不管大盘和行业怎么跌，康德就稳如泰山，但实际业绩出来还是比乐观预期还要好。",
+              "tag_type": 0
+            }
+          ]
+        }
+      }
+    },
+    {
+      "content_id": "8903734269969432937",
+      "parent_content_id": "",
+      "nick_name": "陌上初薰",
+      "logo_url": "https://wx.qlogo.cn/mmopen/YHiby9xiabHxAP3ce22cMribBZSx8USVvCicYBRp4I3zFYFQoDibHhON7Q2aNGolwRms88BQk8Rl60esGFPmLnLZdNwnJBlR6vH0hWtkdsrA54HTB4TzKAao0zichFp3dhMiago/64",
+      "content": "龙哥，药明这样有地缘政治阴影的公司，应该给多少估值啊。。。",
+      "create_time": 1785759987,
+      "like_num": 6,
+      "is_elected": true,
+      "is_author": false,
+      "raw": {
+        "author_like_status": 0,
+        "bizattr_servicetype": 0,
+        "can_share": true,
+        "content": "龙哥，药明这样有地缘政治阴影的公司，应该给多少估值啊。。。",
+        "content_id": "8903734269969432937",
+        "create_time": 1785759987,
+        "dislike_status": 0,
+        "id": 3,
+        "identity_name": "otWnb6UHyZjPjBkRGFIarfhx7yMQ",
+        "identity_type": 0,
+        "ip_wording": {
+          "city_id": "",
+          "city_name": "",
+          "country_id": "156",
+          "country_name": "中国",
+          "province_id": "",
+          "province_name": "江苏"
+        },
+        "is_can_delete": false,
+        "is_elected": 1,
+        "is_first_comment": false,
+        "is_from": 0,
+        "is_from_friend": 0,
+        "is_from_me": 0,
+        "is_reward": 0,
+        "is_top": 0,
+        "like_num": 6,
+        "like_status": 0,
+        "logo_url": "https://wx.qlogo.cn/mmopen/YHiby9xiabHxAP3ce22cMribBZSx8USVvCicYBRp4I3zFYFQoDibHhON7Q2aNGolwRms88BQk8Rl60esGFPmLnLZdNwnJBlR6vH0hWtkdsrA54HTB4TzKAao0zichFp3dhMiago/64",
+        "multi_info": {
+          "emojis": [],
+          "pictures": [],
+          "voices": []
+        },
+        "my_id": 361,
+        "need_show_publish_tips": false,
+        "nick_name": "陌上初薰",
+        "openid": "otWnb6UHyZjPjBkRGFIarfhx7yMQ",
+        "party_flag": 0,
+        "reply_new": {
+          "max_reply_id": 6,
+          "reply_list": [
+            {
+              "author_like_status": 0,
+              "bizattr_servicetype": 1,
+              "can_share": true,
+              "content": "康德这两年除了第一波估值修复之后，后面主要是赚EPS的钱，药明系目前的估值水平仍然只有可比的lonza和三星生物的三分之二左右，本身就隐含了政治因素的估值折价了，而康德本次上调业绩之后PE估值只有其一半了。",
+              "create_time": 1785760257,
+              "from_ai": false,
+              "identity_name": "gh_9a9c8e147c7e",
+              "identity_type": 1,
+              "is_deleted": 0,
+              "is_from": 2,
+              "is_from_friend": 0,
+              "is_reward": 0,
+              "logo_url": "https://wx.qlogo.cn/mmhead/Q3auHgzwzM45AZYW3xRiaOnSUEiaOn6AkrVeQPptZPQQkZ15Beb16x1A/64",
+              "multi_info": {
+                "emojis": [],
+                "pictures": [],
+                "voices": []
+              },
+              "nick_name": "龙谈价值2023",
+              "openid": "",
+              "reply_del_flag": 0,
+              "reply_dislike_status": 0,
+              "reply_id": 1,
+              "reply_is_elected": 1,
+              "reply_like_num": 29,
+              "reply_like_status": 0,
+              "rich_content": {
+                "rich_text": "康德这两年除了第一波估值修复之后，后面主要是赚EPS的钱，药明系目前的估值水平仍然只有可比的lonza和三星生物的三分之二左右，本身就隐含了政治因素的估值折价了，而康德本次上调业绩之后PE估值只有其一半了。",
+                "subcontent_list": [
+                  {
+                    "plain_text": "康德这两年除了第一波估值修复之后，后面主要是赚EPS的钱，药明系目前的估值水平仍然只有可比的lonza和三星生物的三分之二左右，本身就隐含了政治因素的估值折价了，而康德本次上调业绩之后PE估值只有其一半了。",
+                    "rich_text": "康德这两年除了第一波估值修复之后，后面主要是赚EPS的钱，药明系目前的估值水平仍然只有可比的lonza和三星生物的三分之二左右，本身就隐含了政治因素的估值折价了，而康德本次上调业绩之后PE估值只有其一半了。",
+                    "tag_type": 0
+                  }
+                ]
+              }
+            },
+            {
+              "author_like_status": 0,
+              "bizattr_servicetype": 0,
+              "can_share": true,
+              "content": "虽然地缘的达摩克斯利之剑一直高悬，但其实药明这几年在业绩上一直在证明自己，牛逼公司真的是做全球生意的，好的商业关系甚至超脱政治关系，但估值这块市场还是有偏见，没给那么高",
+              "create_time": 1785760448,
+              "from_ai": false,
+              "identity_name": "otWnb6UHyZjPjBkRGFIarfhx7yMQ",
+              "identity_type": 0,
+              "ip_wording": {
+                "city_id": "",
+                "city_name": "",
+                "country_id": "156",
+                "country_name": "中国",
+                "province_id": "",
+                "province_name": "江苏"
+              },
+              "is_deleted": 0,
+              "is_from": 3,
+              "is_from_friend": 0,
+              "is_reward": 0,
+              "logo_url": "https://wx.qlogo.cn/mmopen/YHiby9xiabHxAP3ce22cMribBZSx8USVvCicYBRp4I3zFYFQoDibHhON7Q2aNGolwRms88BQk8Rl60esGFPmLnLZdNwnJBlR6vH0hWtkdsrA54HTB4TzKAao0zichFp3dhMiago/64",
+              "multi_info": {
+                "emojis": [],
+                "pictures": [],
+                "voices": []
+              },
+              "need_show_publish_tips": false,
+              "nick_name": "陌上初薰",
+              "openid": "otWnb6UHyZjPjBkRGFIarfhx7yMQ",
+              "reply_del_flag": 0,
+              "reply_dislike_status": 0,
+              "reply_id": 2,
+              "reply_is_elected": 1,
+              "reply_like_num": 11,
+              "reply_like_status": 0,
+              "rich_content": {
+                "rich_text": "虽然地缘的达摩克斯利之剑一直高悬，但其实药明这几年在业绩上一直在证明自己，牛逼公司真的是做全球生意的，好的商业关系甚至超脱政治关系，但估值这块市场还是有偏见，没给那么高",
+                "subcontent_list": [
+                  {
+                    "plain_text": "虽然地缘的达摩克斯利之剑一直高悬，但其实药明这几年在业绩上一直在证明自己，牛逼公司真的是做全球生意的，好的商业关系甚至超脱政治关系，但估值这块市场还是有偏见，没给那么高",
+                    "rich_text": "虽然地缘的达摩克斯利之剑一直高悬，但其实药明这几年在业绩上一直在证明自己，牛逼公司真的是做全球生意的，好的商业关系甚至超脱政治关系，但估值这块市场还是有偏见，没给那么高",
+                    "tag_type": 0
+                  }
+                ]
+              },
+              "to_nick_name": "龙谈价值2023",
+              "to_reply_id": 1
+            }
+          ],
+          "reply_total_cnt": 4
+        },
+        "rich_content": {
+          "rich_text": "龙哥，药明这样有地缘政治阴影的公司，应该给多少估值啊。。。",
+          "subcontent_list": [
+            {
+              "plain_text": "龙哥，药明这样有地缘政治阴影的公司，应该给多少估值啊。。。",
+              "rich_text": "龙哥，药明这样有地缘政治阴影的公司，应该给多少估值啊。。。",
+              "tag_type": 0
+            }
+          ]
+        }
+      }
+    },
+    {
+      "content_id": "1",
+      "parent_content_id": "8903734269969432937",
+      "nick_name": "龙谈价值2023",
+      "logo_url": "https://wx.qlogo.cn/mmhead/Q3auHgzwzM45AZYW3xRiaOnSUEiaOn6AkrVeQPptZPQQkZ15Beb16x1A/64",
+      "content": "康德这两年除了第一波估值修复之后，后面主要是赚EPS的钱，药明系目前的估值水平仍然只有可比的lonza和三星生物的三分之二左右，本身就隐含了政治因素的估值折价了，而康德本次上调业绩之后PE估值只有其一半了。",
+      "create_time": 1785760257,
+      "like_num": 29,
+      "is_elected": true,
+      "is_author": true,
+      "raw": {
+        "author_like_status": 0,
+        "bizattr_servicetype": 1,
+        "can_share": true,
+        "content": "康德这两年除了第一波估值修复之后，后面主要是赚EPS的钱，药明系目前的估值水平仍然只有可比的lonza和三星生物的三分之二左右，本身就隐含了政治因素的估值折价了，而康德本次上调业绩之后PE估值只有其一半了。",
+        "create_time": 1785760257,
+        "from_ai": false,
+        "identity_name": "gh_9a9c8e147c7e",
+        "identity_type": 1,
+        "is_deleted": 0,
+        "is_from": 2,
+        "is_from_friend": 0,
+        "is_reward": 0,
+        "logo_url": "https://wx.qlogo.cn/mmhead/Q3auHgzwzM45AZYW3xRiaOnSUEiaOn6AkrVeQPptZPQQkZ15Beb16x1A/64",
+        "multi_info": {
+          "emojis": [],
+          "pictures": [],
+          "voices": []
+        },
+        "nick_name": "龙谈价值2023",
+        "openid": "",
+        "reply_del_flag": 0,
+        "reply_dislike_status": 0,
+        "reply_id": 1,
+        "reply_is_elected": 1,
+        "reply_like_num": 29,
+        "reply_like_status": 0,
+        "rich_content": {
+          "rich_text": "康德这两年除了第一波估值修复之后，后面主要是赚EPS的钱，药明系目前的估值水平仍然只有可比的lonza和三星生物的三分之二左右，本身就隐含了政治因素的估值折价了，而康德本次上调业绩之后PE估值只有其一半了。",
+          "subcontent_list": [
+            {
+              "plain_text": "康德这两年除了第一波估值修复之后，后面主要是赚EPS的钱，药明系目前的估值水平仍然只有可比的lonza和三星生物的三分之二左右，本身就隐含了政治因素的估值折价了，而康德本次上调业绩之后PE估值只有其一半了。",
+              "rich_text": "康德这两年除了第一波估值修复之后，后面主要是赚EPS的钱，药明系目前的估值水平仍然只有可比的lonza和三星生物的三分之二左右，本身就隐含了政治因素的估值折价了，而康德本次上调业绩之后PE估值只有其一半了。",
+              "tag_type": 0
+            }
+          ]
+        }
+      }
+    },
+    {
+      "content_id": "2",
+      "parent_content_id": "8903734269969432937",
+      "nick_name": "陌上初薰",
+      "logo_url": "https://wx.qlogo.cn/mmopen/YHiby9xiabHxAP3ce22cMribBZSx8USVvCicYBRp4I3zFYFQoDibHhON7Q2aNGolwRms88BQk8Rl60esGFPmLnLZdNwnJBlR6vH0hWtkdsrA54HTB4TzKAao0zichFp3dhMiago/64",
+      "content": "虽然地缘的达摩克斯利之剑一直高悬，但其实药明这几年在业绩上一直在证明自己，牛逼公司真的是做全球生意的，好的商业关系甚至超脱政治关系，但估值这块市场还是有偏见，没给那么高",
+      "create_time": 1785760448,
+      "like_num": 11,
+      "is_elected": true,
+      "is_author": true,
+      "raw": {
+        "author_like_status": 0,
+        "bizattr_servicetype": 0,
+        "can_share": true,
+        "content": "虽然地缘的达摩克斯利之剑一直高悬，但其实药明这几年在业绩上一直在证明自己，牛逼公司真的是做全球生意的，好的商业关系甚至超脱政治关系，但估值这块市场还是有偏见，没给那么高",
+        "create_time": 1785760448,
+        "from_ai": false,
+        "identity_name": "otWnb6UHyZjPjBkRGFIarfhx7yMQ",
+        "identity_type": 0,
+        "ip_wording": {
+          "city_id": "",
+          "city_name": "",
+          "country_id": "156",
+          "country_name": "中国",
+          "province_id": "",
+          "province_name": "江苏"
+        },
+        "is_deleted": 0,
+        "is_from": 3,
+        "is_from_friend": 0,
+        "is_reward": 0,
+        "logo_url": "https://wx.qlogo.cn/mmopen/YHiby9xiabHxAP3ce22cMribBZSx8USVvCicYBRp4I3zFYFQoDibHhON7Q2aNGolwRms88BQk8Rl60esGFPmLnLZdNwnJBlR6vH0hWtkdsrA54HTB4TzKAao0zichFp3dhMiago/64",
+        "multi_info": {
+          "emojis": [],
+          "pictures": [],
+          "voices": []
+        },
+        "need_show_publish_tips": false,
+        "nick_name": "陌上初薰",
+        "openid": "otWnb6UHyZjPjBkRGFIarfhx7yMQ",
+        "reply_del_flag": 0,
+        "reply_dislike_status": 0,
+        "reply_id": 2,
+        "reply_is_elected": 1,
+        "reply_like_num": 11,
+        "reply_like_status": 0,
+        "rich_content": {
+          "rich_text": "虽然地缘的达摩克斯利之剑一直高悬，但其实药明这几年在业绩上一直在证明自己，牛逼公司真的是做全球生意的，好的商业关系甚至超脱政治关系，但估值这块市场还是有偏见，没给那么高",
+          "subcontent_list": [
+            {
+              "plain_text": "虽然地缘的达摩克斯利之剑一直高悬，但其实药明这几年在业绩上一直在证明自己，牛逼公司真的是做全球生意的，好的商业关系甚至超脱政治关系，但估值这块市场还是有偏见，没给那么高",
+              "rich_text": "虽然地缘的达摩克斯利之剑一直高悬，但其实药明这几年在业绩上一直在证明自己，牛逼公司真的是做全球生意的，好的商业关系甚至超脱政治关系，但估值这块市场还是有偏见，没给那么高",
+              "tag_type": 0
+            }
+          ]
+        },
+        "to_nick_name": "龙谈价值2023",
+        "to_reply_id": 1
+      }
+    },
+    {
+      "content_id": "9918039501848970397",
+      "parent_content_id": "",
+      "nick_name": "肥锋  家诚哥",
+      "logo_url": "https://wx.qlogo.cn/mmopen/DVfg7Dyyrb5SPRL0hggWDyou5ibk9K9hg41LmL08t8r6dfm9Y6vzyDVvHe3UOwKVGBD5Kl5iaMxl2dsDhEVc3SoiaFRstHOK6rbbMsbRb4QgGTxPFzjT2QUs6J09EwpHpLf/64",
+      "content": "没有最强，只有更强",
+      "create_time": 1785760131,
+      "like_num": 11,
+      "is_elected": true,
+      "is_author": false,
+      "raw": {
+        "author_like_status": 0,
+        "bizattr_servicetype": 0,
+        "can_share": true,
+        "content": "没有最强，只有更强",
+        "content_id": "9918039501848970397",
+        "create_time": 1785760131,
+        "dislike_status": 0,
+        "id": 8,
+        "identity_name": "otWnb6YPFrOhdzvJ9c5Dvm6PAxP8",
+        "identity_type": 0,
+        "ip_wording": {
+          "city_id": "",
+          "city_name": "",
+          "country_id": "156",
+          "country_name": "中国",
+          "province_id": "",
+          "province_name": "广东"
+        },
+        "is_can_delete": false,
+        "is_elected": 1,
+        "is_first_comment": false,
+        "is_from": 0,
+        "is_from_friend": 0,
+        "is_from_me": 0,
+        "is_reward": 0,
+        "is_top": 0,
+        "like_num": 11,
+        "like_status": 0,
+        "logo_url": "https://wx.qlogo.cn/mmopen/DVfg7Dyyrb5SPRL0hggWDyou5ibk9K9hg41LmL08t8r6dfm9Y6vzyDVvHe3UOwKVGBD5Kl5iaMxl2dsDhEVc3SoiaFRstHOK6rbbMsbRb4QgGTxPFzjT2QUs6J09EwpHpLf/64",
+        "multi_info": {
+          "emojis": [],
+          "pictures": [],
+          "voices": []
+        },
+        "my_id": 1181,
+        "need_show_publish_tips": false,
+        "nick_name": "肥锋  家诚哥",
+        "openid": "otWnb6YPFrOhdzvJ9c5Dvm6PAxP8",
+        "party_flag": 0,
+        "reply_new": {
+          "max_reply_id": 6,
+          "reply_list": [
+            {
+              "author_like_status": 0,
+              "bizattr_servicetype": 1,
+              "can_share": true,
+              "content": "别管割总怎么搞资本运作，最后还是业绩为王，药明系的运营管理实际上也呈现的是越来越向国际化巨头企业靠拢（除了加班以外）。",
+              "create_time": 1785760418,
+              "from_ai": false,
+              "highlight": {
+                "highlight_pos": [
+                  21
+                ],
+                "s1s_context_info": [
+                  "%7B%22mixerCommonContext%22%3A%22%7B%5C%22mixerrank_list%5C%22%3A%5B%7B%5C%22client_type%5C%22%3A2%2C%5C%22sub_type%5C%22%3A0%2C%5C%22rank_pos%5C%22%3A20%2C%5C%22docid%5C%22%3A%5C%226397495149397062540%5C%22%7D%5D%2C%5C%22scene%5C%22%3A205%7D%22%7D"
+                ],
+                "s1s_jsapi_name": [
+                  "openWXSearchHalfPage"
+                ],
+                "s1s_jsapi_paras": [
+                  "{\"scene\":205,\"isAutoShowUnitInHalfScreen\":1,\"hiddenSearchHeader\":0,\"parentType\":135,\"webviewHeightRatio\":0.699999989, \"kvItems\":[], \"sessionKvItems\":[] }"
+                ],
+                "s1s_stat_info": [
+                  "%7B%22bizuin%22%3A3923470773%2C%22appmsgid%22%3A2247486197%2C%22itemidx%22%3A1%2C%22comment_id%22%3A%224633318516262322182%22%2C%22content_id%22%3A%229918039501848970397%22%2C%22reply_id%22%3A1%2C%22docid%22%3A%226397495149397062540%22%2C%22pos%22%3A21%2C%22request_type%22%3A1%2C%22request_id%22%3A%2216873786725248507871%22%2C%22query%22%3A%22%E8%8D%AF%E6%98%8E%E7%B3%BB%22%2C%22search_id%22%3A%2216873786725248507871%22%7D"
+                ],
+                "word": [
+                  "药明系"
+                ]
+              },
+              "identity_name": "gh_9a9c8e147c7e",
+              "identity_type": 1,
+              "is_deleted": 0,
+              "is_from": 2,
+              "is_from_friend": 0,
+              "is_reward": 0,
+              "logo_url": "https://wx.qlogo.cn/mmhead/Q3auHgzwzM45AZYW3xRiaOnSUEiaOn6AkrVeQPptZPQQkZ15Beb16x1A/64",
+              "multi_info": {
+                "emojis": [],
+                "pictures": [],
+                "voices": []
+              },
+              "nick_name": "龙谈价值2023",
+              "openid": "",
+              "reply_del_flag": 0,
+              "reply_dislike_status": 0,
+              "reply_id": 1,
+              "reply_is_elected": 1,
+              "reply_like_num": 27,
+              "reply_like_status": 0,
+              "rich_content": {
+                "rich_text": "别管割总怎么搞资本运作，最后还是业绩为王，药明系的运营管理实际上也呈现的是越来越向国际化巨头企业靠拢（除了加班以外）。",
+                "subcontent_list": [
+                  {
+                    "plain_text": "别管割总怎么搞资本运作，最后还是业绩为王，药明系的运营管理实际上也呈现的是越来越向国际化巨头企业靠拢（除了加班以外）。",
+                    "rich_text": "别管割总怎么搞资本运作，最后还是业绩为王，药明系的运营管理实际上也呈现的是越来越向国际化巨头企业靠拢（除了加班以外）。",
+                    "tag_type": 0
+                  }
+                ]
+              }
+            }
+          ],
+          "reply_total_cnt": 3
+        },
+        "rich_content": {
+          "rich_text": "没有最强，只有更强",
+          "subcontent_list": [
+            {
+              "plain_text": "没有最强，只有更强",
+              "rich_text": "没有最强，只有更强",
+              "tag_type": 0
+            }
+          ]
+        }
+      }
+    },
+    {
+      "content_id": "1",
+      "parent_content_id": "9918039501848970397",
+      "nick_name": "龙谈价值2023",
+      "logo_url": "https://wx.qlogo.cn/mmhead/Q3auHgzwzM45AZYW3xRiaOnSUEiaOn6AkrVeQPptZPQQkZ15Beb16x1A/64",
+      "content": "别管割总怎么搞资本运作，最后还是业绩为王，药明系的运营管理实际上也呈现的是越来越向国际化巨头企业靠拢（除了加班以外）。",
+      "create_time": 1785760418,
+      "like_num": 27,
+      "is_elected": true,
+      "is_author": true,
+      "raw": {
+        "author_like_status": 0,
+        "bizattr_servicetype": 1,
+        "can_share": true,
+        "content": "别管割总怎么搞资本运作，最后还是业绩为王，药明系的运营管理实际上也呈现的是越来越向国际化巨头企业靠拢（除了加班以外）。",
+        "create_time": 1785760418,
+        "from_ai": false,
+        "highlight": {
+          "highlight_pos": [
+            21
+          ],
+          "s1s_context_info": [
+            "%7B%22mixerCommonContext%22%3A%22%7B%5C%22mixerrank_list%5C%22%3A%5B%7B%5C%22client_type%5C%22%3A2%2C%5C%22sub_type%5C%22%3A0%2C%5C%22rank_pos%5C%22%3A20%2C%5C%22docid%5C%22%3A%5C%226397495149397062540%5C%22%7D%5D%2C%5C%22scene%5C%22%3A205%7D%22%7D"
+          ],
+          "s1s_jsapi_name": [
+            "openWXSearchHalfPage"
+          ],
+          "s1s_jsapi_paras": [
+            "{\"scene\":205,\"isAutoShowUnitInHalfScreen\":1,\"hiddenSearchHeader\":0,\"parentType\":135,\"webviewHeightRatio\":0.699999989, \"kvItems\":[], \"sessionKvItems\":[] }"
+          ],
+          "s1s_stat_info": [
+            "%7B%22bizuin%22%3A3923470773%2C%22appmsgid%22%3A2247486197%2C%22itemidx%22%3A1%2C%22comment_id%22%3A%224633318516262322182%22%2C%22content_id%22%3A%229918039501848970397%22%2C%22reply_id%22%3A1%2C%22docid%22%3A%226397495149397062540%22%2C%22pos%22%3A21%2C%22request_type%22%3A1%2C%22request_id%22%3A%2216873786725248507871%22%2C%22query%22%3A%22%E8%8D%AF%E6%98%8E%E7%B3%BB%22%2C%22search_id%22%3A%2216873786725248507871%22%7D"
+          ],
+          "word": [
+            "药明系"
+          ]
+        },
+        "identity_name": "gh_9a9c8e147c7e",
+        "identity_type": 1,
+        "is_deleted": 0,
+        "is_from": 2,
+        "is_from_friend": 0,
+        "is_reward": 0,
+        "logo_url": "https://wx.qlogo.cn/mmhead/Q3auHgzwzM45AZYW3xRiaOnSUEiaOn6AkrVeQPptZPQQkZ15Beb16x1A/64",
+        "multi_info": {
+          "emojis": [],
+          "pictures": [],
+          "voices": []
+        },
+        "nick_name": "龙谈价值2023",
+        "openid": "",
+        "reply_del_flag": 0,
+        "reply_dislike_status": 0,
+        "reply_id": 1,
+        "reply_is_elected": 1,
+        "reply_like_num": 27,
+        "reply_like_status": 0,
+        "rich_content": {
+          "rich_text": "别管割总怎么搞资本运作，最后还是业绩为王，药明系的运营管理实际上也呈现的是越来越向国际化巨头企业靠拢（除了加班以外）。",
+          "subcontent_list": [
+            {
+              "plain_text": "别管割总怎么搞资本运作，最后还是业绩为王，药明系的运营管理实际上也呈现的是越来越向国际化巨头企业靠拢（除了加班以外）。",
+              "rich_text": "别管割总怎么搞资本运作，最后还是业绩为王，药明系的运营管理实际上也呈现的是越来越向国际化巨头企业靠拢（除了加班以外）。",
+              "tag_type": 0
+            }
+          ]
+        }
+      }
+    },
+    {
+      "content_id": "11066676961261658026",
+      "parent_content_id": "",
+      "nick_name": "好人张大仁",
+      "logo_url": "https://wx.qlogo.cn/mmopen/AbruuZ3ILClEOfrgP4ygLj8jeNwv7d6twT9j5lFuDyx9PicNlBWANHCTqyqH9BjclJIKrXpa73WaYoP8kpBh1yicicvg6B7dOFe/64",
+      "content": "利好出尽，跑路吧，涨了不少了",
+      "create_time": 1785766568,
+      "like_num": 20,
+      "is_elected": true,
+      "is_author": false,
+      "raw": {
+        "author_like_status": 0,
+        "bizattr_servicetype": 0,
+        "can_share": true,
+        "content": "利好出尽，跑路吧，涨了不少了",
+        "content_id": "11066676961261658026",
+        "create_time": 1785766568,
+        "dislike_status": 0,
+        "id": 38,
+        "identity_name": "otWnb6V4TlAO6Rk1sA0D2O_QDtEo",
+        "identity_type": 0,
+        "ip_wording": {
+          "city_id": "",
+          "city_name": "",
+          "country_id": "156",
+          "country_name": "中国",
+          "province_id": "",
+          "province_name": "河南"
+        },
+        "is_can_delete": false,
+        "is_elected": 1,
+        "is_first_comment": false,
+        "is_from": 0,
+        "is_from_friend": 0,
+        "is_from_me": 0,
+        "is_reward": 0,
+        "is_top": 0,
+        "like_num": 20,
+        "like_status": 0,
+        "logo_url": "https://wx.qlogo.cn/mmopen/AbruuZ3ILClEOfrgP4ygLj8jeNwv7d6twT9j5lFuDyx9PicNlBWANHCTqyqH9BjclJIKrXpa73WaYoP8kpBh1yicicvg6B7dOFe/64",
+        "multi_info": {
+          "emojis": [],
+          "pictures": [],
+          "voices": []
+        },
+        "my_id": 8106,
+        "need_show_publish_tips": false,
+        "nick_name": "好人张大仁",
+        "openid": "otWnb6V4TlAO6Rk1sA0D2O_QDtEo",
+        "party_flag": 0,
+        "reply_new": {
+          "max_reply_id": 4,
+          "reply_list": [
+            {
+              "author_like_status": 0,
+              "bizattr_servicetype": 1,
+              "can_share": true,
+              "content": "好的，跑吧",
+              "create_time": 1785766758,
+              "from_ai": false,
+              "identity_name": "gh_9a9c8e147c7e",
+              "identity_type": 1,
+              "is_deleted": 0,
+              "is_from": 2,
+              "is_from_friend": 0,
+              "is_reward": 0,
+              "logo_url": "https://wx.qlogo.cn/mmhead/Q3auHgzwzM45AZYW3xRiaOnSUEiaOn6AkrVeQPptZPQQkZ15Beb16x1A/64",
+              "multi_info": {
+                "emojis": [],
+                "pictures": [],
+                "voices": []
+              },
+              "nick_name": "龙谈价值2023",
+              "openid": "",
+              "reply_del_flag": 0,
+              "reply_dislike_status": 0,
+              "reply_id": 1,
+              "reply_is_elected": 1,
+              "reply_like_num": 14,
+              "reply_like_status": 0,
+              "rich_content": {
+                "rich_text": "好的，跑吧",
+                "subcontent_list": [
+                  {
+                    "plain_text": "好的，跑吧",
+                    "rich_text": "好的，跑吧",
+                    "tag_type": 0
+                  }
+                ]
+              }
+            }
+          ],
+          "reply_total_cnt": 1
+        },
+        "rich_content": {
+          "rich_text": "利好出尽，跑路吧，涨了不少了",
+          "subcontent_list": [
+            {
+              "plain_text": "利好出尽，跑路吧，涨了不少了",
+              "rich_text": "利好出尽，跑路吧，涨了不少了",
+              "tag_type": 0
+            }
+          ]
+        }
+      }
+    },
+    {
+      "content_id": "1",
+      "parent_content_id": "11066676961261658026",
+      "nick_name": "龙谈价值2023",
+      "logo_url": "https://wx.qlogo.cn/mmhead/Q3auHgzwzM45AZYW3xRiaOnSUEiaOn6AkrVeQPptZPQQkZ15Beb16x1A/64",
+      "content": "好的，跑吧",
+      "create_time": 1785766758,
+      "like_num": 14,
+      "is_elected": true,
+      "is_author": true,
+      "raw": {
+        "author_like_status": 0,
+        "bizattr_servicetype": 1,
+        "can_share": true,
+        "content": "好的，跑吧",
+        "create_time": 1785766758,
+        "from_ai": false,
+        "identity_name": "gh_9a9c8e147c7e",
+        "identity_type": 1,
+        "is_deleted": 0,
+        "is_from": 2,
+        "is_from_friend": 0,
+        "is_reward": 0,
+        "logo_url": "https://wx.qlogo.cn/mmhead/Q3auHgzwzM45AZYW3xRiaOnSUEiaOn6AkrVeQPptZPQQkZ15Beb16x1A/64",
+        "multi_info": {
+          "emojis": [],
+          "pictures": [],
+          "voices": []
+        },
+        "nick_name": "龙谈价值2023",
+        "openid": "",
+        "reply_del_flag": 0,
+        "reply_dislike_status": 0,
+        "reply_id": 1,
+        "reply_is_elected": 1,
+        "reply_like_num": 14,
+        "reply_like_status": 0,
+        "rich_content": {
+          "rich_text": "好的，跑吧",
+          "subcontent_list": [
+            {
+              "plain_text": "好的，跑吧",
+              "rich_text": "好的，跑吧",
+              "tag_type": 0
+            }
+          ]
+        }
+      }
+    },
+    {
+      "content_id": "12810500186711261212",
+      "parent_content_id": "",
+      "nick_name": "_",
+      "logo_url": "https://wx.qlogo.cn/mmopen/Oo0icutbiaKybbAohWqcRe5m09agIuUauPKoicPBf68cg2zNdFga6h3de38BNWyWo947eNNvjRKh0B9pwdjduzjXFTmZZ5oWPSg/64",
+      "content": "龙哥 再回头看一眼凯莱英的一季报 天上地下一言难尽啊",
+      "create_time": 1785760487,
+      "like_num": 7,
+      "is_elected": true,
+      "is_author": false,
+      "raw": {
+        "author_like_status": 0,
+        "bizattr_servicetype": 0,
+        "can_share": true,
+        "content": "龙哥 再回头看一眼凯莱英的一季报 天上地下一言难尽啊",
+        "content_id": "12810500186711261212",
+        "create_time": 1785760487,
+        "dislike_status": 0,
+        "id": 13,
+        "identity_name": "otWnb6WYzGtd6F-0wl-MBA-zXRuw",
+        "identity_type": 0,
+        "ip_wording": {
+          "city_id": "",
+          "city_name": "",
+          "country_id": "156",
+          "country_name": "中国",
+          "province_id": "",
+          "province_name": "江苏"
+        },
+        "is_can_delete": false,
+        "is_elected": 1,
+        "is_first_comment": false,
+        "is_from": 0,
+        "is_from_friend": 0,
+        "is_from_me": 0,
+        "is_reward": 0,
+        "is_top": 0,
+        "like_num": 7,
+        "like_status": 0,
+        "logo_url": "https://wx.qlogo.cn/mmopen/Oo0icutbiaKybbAohWqcRe5m09agIuUauPKoicPBf68cg2zNdFga6h3de38BNWyWo947eNNvjRKh0B9pwdjduzjXFTmZZ5oWPSg/64",
+        "multi_info": {
+          "emojis": [],
+          "pictures": [],
+          "voices": []
+        },
+        "my_id": 28,
+        "need_show_publish_tips": false,
+        "nick_name": "_",
+        "openid": "otWnb6WYzGtd6F-0wl-MBA-zXRuw",
+        "party_flag": 0,
+        "reply_new": {
+          "max_reply_id": 2,
+          "reply_list": [
+            {
+              "author_like_status": 0,
+              "bizattr_servicetype": 1,
+              "can_share": true,
+              "content": "凯莱英的一季报并不算差，扣除汇率之后已经比较不错了，汇兑的影响在今年是客观存在的，但剥离汇兑因素之后能更好的反映公司业绩的边际大幅提升。",
+              "create_time": 1785760650,
+              "from_ai": false,
+              "highlight": {
+                "highlight_pos": [
+                  0
+                ],
+                "s1s_context_info": [
+                  "%7B%22mixerCommonContext%22%3A%22%7B%5C%22mixerrank_list%5C%22%3A%5B%7B%5C%22client_type%5C%22%3A2%2C%5C%22sub_type%5C%22%3A0%2C%5C%22rank_pos%5C%22%3A20%2C%5C%22docid%5C%22%3A%5C%226397495149397062540%5C%22%7D%5D%2C%5C%22scene%5C%22%3A205%7D%22%7D"
+                ],
+                "s1s_jsapi_name": [
+                  "openWXSearchHalfPage"
+                ],
+                "s1s_jsapi_paras": [
+                  "{\"scene\":205,\"isAutoShowUnitInHalfScreen\":1,\"hiddenSearchHeader\":0,\"parentType\":135,\"webviewHeightRatio\":0.699999989, \"kvItems\":[], \"sessionKvItems\":[] }"
+                ],
+                "s1s_stat_info": [
+                  "%7B%22bizuin%22%3A3923470773%2C%22appmsgid%22%3A2247486197%2C%22itemidx%22%3A1%2C%22comment_id%22%3A%224633318516262322182%22%2C%22content_id%22%3A%2212810500186711261212%22%2C%22reply_id%22%3A1%2C%22docid%22%3A%226397495149397062540%22%2C%22pos%22%3A0%2C%22request_type%22%3A1%2C%22request_id%22%3A%2216873786725248507871%22%2C%22query%22%3A%22%E5%87%AF%E8%8E%B1%E8%8B%B1%22%2C%22search_id%22%3A%2216873786725248507871%22%7D"
+                ],
+                "word": [
+                  "凯莱英"
+                ]
+              },
+              "identity_name": "gh_9a9c8e147c7e",
+              "identity_type": 1,
+              "is_deleted": 0,
+              "is_from": 2,
+              "is_from_friend": 0,
+              "is_reward": 0,
+              "logo_url": "https://wx.qlogo.cn/mmhead/Q3auHgzwzM45AZYW3xRiaOnSUEiaOn6AkrVeQPptZPQQkZ15Beb16x1A/64",
+              "multi_info": {
+                "emojis": [],
+                "pictures": [],
+                "voices": []
+              },
+              "nick_name": "龙谈价值2023",
+              "openid": "",
+              "reply_del_flag": 0,
+              "reply_dislike_status": 0,
+              "reply_id": 1,
+              "reply_is_elected": 1,
+              "reply_like_num": 18,
+              "reply_like_status": 0,
+              "rich_content": {
+                "rich_text": "凯莱英的一季报并不算差，扣除汇率之后已经比较不错了，汇兑的影响在今年是客观存在的，但剥离汇兑因素之后能更好的反映公司业绩的边际大幅提升。",
+                "subcontent_list": [
+                  {
+                    "plain_text": "凯莱英的一季报并不算差，扣除汇率之后已经比较不错了，汇兑的影响在今年是客观存在的，但剥离汇兑因素之后能更好的反映公司业绩的边际大幅提升。",
+                    "rich_text": "凯莱英的一季报并不算差，扣除汇率之后已经比较不错了，汇兑的影响在今年是客观存在的，但剥离汇兑因素之后能更好的反映公司业绩的边际大幅提升。",
+                    "tag_type": 0
+                  }
+                ]
+              }
+            }
+          ],
+          "reply_total_cnt": 1
+        },
+        "rich_content": {
+          "rich_text": "龙哥 再回头看一眼凯莱英的一季报 天上地下一言难尽啊",
+          "subcontent_list": [
+            {
+              "plain_text": "龙哥 再回头看一眼凯莱英的一季报 天上地下一言难尽啊",
+              "rich_text": "龙哥 再回头看一眼凯莱英的一季报 天上地下一言难尽啊",
+              "tag_type": 0
+            }
+          ]
+        }
+      }
+    },
+    {
+      "content_id": "1",
+      "parent_content_id": "12810500186711261212",
+      "nick_name": "龙谈价值2023",
+      "logo_url": "https://wx.qlogo.cn/mmhead/Q3auHgzwzM45AZYW3xRiaOnSUEiaOn6AkrVeQPptZPQQkZ15Beb16x1A/64",
+      "content": "凯莱英的一季报并不算差，扣除汇率之后已经比较不错了，汇兑的影响在今年是客观存在的，但剥离汇兑因素之后能更好的反映公司业绩的边际大幅提升。",
+      "create_time": 1785760650,
+      "like_num": 18,
+      "is_elected": true,
+      "is_author": true,
+      "raw": {
+        "author_like_status": 0,
+        "bizattr_servicetype": 1,
+        "can_share": true,
+        "content": "凯莱英的一季报并不算差，扣除汇率之后已经比较不错了，汇兑的影响在今年是客观存在的，但剥离汇兑因素之后能更好的反映公司业绩的边际大幅提升。",
+        "create_time": 1785760650,
+        "from_ai": false,
+        "highlight": {
+          "highlight_pos": [
+            0
+          ],
+          "s1s_context_info": [
+            "%7B%22mixerCommonContext%22%3A%22%7B%5C%22mixerrank_list%5C%22%3A%5B%7B%5C%22client_type%5C%22%3A2%2C%5C%22sub_type%5C%22%3A0%2C%5C%22rank_pos%5C%22%3A20%2C%5C%22docid%5C%22%3A%5C%226397495149397062540%5C%22%7D%5D%2C%5C%22scene%5C%22%3A205%7D%22%7D"
+          ],
+          "s1s_jsapi_name": [
+            "openWXSearchHalfPage"
+          ],
+          "s1s_jsapi_paras": [
+            "{\"scene\":205,\"isAutoShowUnitInHalfScreen\":1,\"hiddenSearchHeader\":0,\"parentType\":135,\"webviewHeightRatio\":0.699999989, \"kvItems\":[], \"sessionKvItems\":[] }"
+          ],
+          "s1s_stat_info": [
+            "%7B%22bizuin%22%3A3923470773%2C%22appmsgid%22%3A2247486197%2C%22itemidx%22%3A1%2C%22comment_id%22%3A%224633318516262322182%22%2C%22content_id%22%3A%2212810500186711261212%22%2C%22reply_id%22%3A1%2C%22docid%22%3A%226397495149397062540%22%2C%22pos%22%3A0%2C%22request_type%22%3A1%2C%22request_id%22%3A%2216873786725248507871%22%2C%22query%22%3A%22%E5%87%AF%E8%8E%B1%E8%8B%B1%22%2C%22search_id%22%3A%2216873786725248507871%22%7D"
+          ],
+          "word": [
+            "凯莱英"
+          ]
+        },
+        "identity_name": "gh_9a9c8e147c7e",
+        "identity_type": 1,
+        "is_deleted": 0,
+        "is_from": 2,
+        "is_from_friend": 0,
+        "is_reward": 0,
+        "logo_url": "https://wx.qlogo.cn/mmhead/Q3auHgzwzM45AZYW3xRiaOnSUEiaOn6AkrVeQPptZPQQkZ15Beb16x1A/64",
+        "multi_info": {
+          "emojis": [],
+          "pictures": [],
+          "voices": []
+        },
+        "nick_name": "龙谈价值2023",
+        "openid": "",
+        "reply_del_flag": 0,
+        "reply_dislike_status": 0,
+        "reply_id": 1,
+        "reply_is_elected": 1,
+        "reply_like_num": 18,
+        "reply_like_status": 0,
+        "rich_content": {
+          "rich_text": "凯莱英的一季报并不算差，扣除汇率之后已经比较不错了，汇兑的影响在今年是客观存在的，但剥离汇兑因素之后能更好的反映公司业绩的边际大幅提升。",
+          "subcontent_list": [
+            {
+              "plain_text": "凯莱英的一季报并不算差，扣除汇率之后已经比较不错了，汇兑的影响在今年是客观存在的，但剥离汇兑因素之后能更好的反映公司业绩的边际大幅提升。",
+              "rich_text": "凯莱英的一季报并不算差，扣除汇率之后已经比较不错了，汇兑的影响在今年是客观存在的，但剥离汇兑因素之后能更好的反映公司业绩的边际大幅提升。",
+              "tag_type": 0
+            }
+          ]
+        }
+      }
+    },
+    {
+      "content_id": "4896367201109409993",
+      "parent_content_id": "",
+      "nick_name": "Aiolos",
+      "logo_url": "https://wx.qlogo.cn/mmopen/YHiby9xiabHxBgQe4ymDk8piaQNMnFWBBdwScUAbgdBkLE7AfP0yve6ib49pkduI9IQkwth4OnjuBdicwNEnal7BFhOdagZaaMk1w/64",
+      "content": "cxo分为药明康德和其他，他的领先真是极度断层的",
+      "create_time": 1785760045,
+      "like_num": 13,
+      "is_elected": true,
+      "is_author": false,
+      "raw": {
+        "author_like_status": 0,
+        "bizattr_servicetype": 0,
+        "can_share": true,
+        "content": "cxo分为药明康德和其他，他的领先真是极度断层的",
+        "content_id": "4896367201109409993",
+        "create_time": 1785760045,
+        "dislike_status": 0,
+        "id": 5,
+        "identity_name": "otWnb6dv8u82vvo-aXKDFcNUqbd8",
+        "identity_type": 0,
+        "ip_wording": {
+          "city_id": "",
+          "city_name": "",
+          "country_id": "156",
+          "country_name": "中国",
+          "province_id": "",
+          "province_name": "江苏"
+        },
+        "is_can_delete": false,
+        "is_elected": 1,
+        "is_first_comment": false,
+        "is_from": 0,
+        "is_from_friend": 0,
+        "is_from_me": 0,
+        "is_reward": 0,
+        "is_top": 0,
+        "like_num": 13,
+        "like_status": 0,
+        "logo_url": "https://wx.qlogo.cn/mmopen/YHiby9xiabHxBgQe4ymDk8piaQNMnFWBBdwScUAbgdBkLE7AfP0yve6ib49pkduI9IQkwth4OnjuBdicwNEnal7BFhOdagZaaMk1w/64",
+        "multi_info": {
+          "emojis": [],
+          "pictures": [],
+          "voices": []
+        },
+        "my_id": 201,
+        "need_show_publish_tips": false,
+        "nick_name": "Aiolos",
+        "openid": "otWnb6dv8u82vvo-aXKDFcNUqbd8",
+        "party_flag": 0,
+        "reply_new": {
+          "max_reply_id": 2,
+          "reply_list": [
+            {
+              "author_like_status": 0,
+              "bizattr_servicetype": 1,
+              "can_share": true,
+              "content": "药明系和其他吧，合联和生物由于发展阶段以及并购等因素的扰动，可能上半年利润弹性没那么大，但像药明生物总体也呈现景气度提升的趋势，合联更是给了5年30%复合增长的目标。",
+              "create_time": 1785760328,
+              "from_ai": false,
+              "highlight": {
+                "highlight_pos": [
+                  46
+                ],
+                "s1s_context_info": [
+                  "%7B%22mixerCommonContext%22%3A%22%7B%5C%22mixerrank_list%5C%22%3A%5B%7B%5C%22client_type%5C%22%3A2%2C%5C%22sub_type%5C%22%3A0%2C%5C%22rank_pos%5C%22%3A20%2C%5C%22docid%5C%22%3A%5C%226397495149397062540%5C%22%7D%5D%2C%5C%22scene%5C%22%3A205%7D%22%7D"
+                ],
+                "s1s_jsapi_name": [
+                  "openWXSearchHalfPage"
+                ],
+                "s1s_jsapi_paras": [
+                  "{\"scene\":205,\"isAutoShowUnitInHalfScreen\":1,\"hiddenSearchHeader\":0,\"parentType\":135,\"webviewHeightRatio\":0.699999989, \"kvItems\":[], \"sessionKvItems\":[] }"
+                ],
+                "s1s_stat_info": [
+                  "%7B%22bizuin%22%3A3923470773%2C%22appmsgid%22%3A2247486197%2C%22itemidx%22%3A1%2C%22comment_id%22%3A%224633318516262322182%22%2C%22content_id%22%3A%224896367201109409993%22%2C%22reply_id%22%3A1%2C%22docid%22%3A%226397495149397062540%22%2C%22pos%22%3A46%2C%22request_type%22%3A1%2C%22request_id%22%3A%2216873786725248507871%22%2C%22query%22%3A%22%E8%8D%AF%E6%98%8E%E7%94%9F%E7%89%A9%22%2C%22search_id%22%3A%2216873786725248507871%22%7D"
+                ],
+                "word": [
+                  "药明生物"
+                ]
+              },
+              "identity_name": "gh_9a9c8e147c7e",
+              "identity_type": 1,
+              "is_deleted": 0,
+              "is_from": 2,
+              "is_from_friend": 0,
+              "is_reward": 0,
+              "logo_url": "https://wx.qlogo.cn/mmhead/Q3auHgzwzM45AZYW3xRiaOnSUEiaOn6AkrVeQPptZPQQkZ15Beb16x1A/64",
+              "multi_info": {
+                "emojis": [],
+                "pictures": [],
+                "voices": []
+              },
+              "nick_name": "龙谈价值2023",
+              "openid": "",
+              "reply_del_flag": 0,
+              "reply_dislike_status": 0,
+              "reply_id": 1,
+              "reply_is_elected": 1,
+              "reply_like_num": 13,
+              "reply_like_status": 0,
+              "rich_content": {
+                "rich_text": "药明系和其他吧，合联和生物由于发展阶段以及并购等因素的扰动，可能上半年利润弹性没那么大，但像药明生物总体也呈现景气度提升的趋势，合联更是给了5年30%复合增长的目标。",
+                "subcontent_list": [
+                  {
+                    "plain_text": "药明系和其他吧，合联和生物由于发展阶段以及并购等因素的扰动，可能上半年利润弹性没那么大，但像药明生物总体也呈现景气度提升的趋势，合联更是给了5年30%复合增长的目标。",
+                    "rich_text": "药明系和其他吧，合联和生物由于发展阶段以及并购等因素的扰动，可能上半年利润弹性没那么大，但像药明生物总体也呈现景气度提升的趋势，合联更是给了5年30%复合增长的目标。",
+                    "tag_type": 0
+                  }
+                ]
+              }
+            }
+          ],
+          "reply_total_cnt": 1
+        },
+        "rich_content": {
+          "rich_text": "cxo分为药明康德和其他，他的领先真是极度断层的",
+          "subcontent_list": [
+            {
+              "plain_text": "cxo分为药明康德和其他，他的领先真是极度断层的",
+              "rich_text": "cxo分为药明康德和其他，他的领先真是极度断层的",
+              "tag_type": 0
+            }
+          ]
+        }
+      }
+    },
+    {
+      "content_id": "1",
+      "parent_content_id": "4896367201109409993",
+      "nick_name": "龙谈价值2023",
+      "logo_url": "https://wx.qlogo.cn/mmhead/Q3auHgzwzM45AZYW3xRiaOnSUEiaOn6AkrVeQPptZPQQkZ15Beb16x1A/64",
+      "content": "药明系和其他吧，合联和生物由于发展阶段以及并购等因素的扰动，可能上半年利润弹性没那么大，但像药明生物总体也呈现景气度提升的趋势，合联更是给了5年30%复合增长的目标。",
+      "create_time": 1785760328,
+      "like_num": 13,
+      "is_elected": true,
+      "is_author": true,
+      "raw": {
+        "author_like_status": 0,
+        "bizattr_servicetype": 1,
+        "can_share": true,
+        "content": "药明系和其他吧，合联和生物由于发展阶段以及并购等因素的扰动，可能上半年利润弹性没那么大，但像药明生物总体也呈现景气度提升的趋势，合联更是给了5年30%复合增长的目标。",
+        "create_time": 1785760328,
+        "from_ai": false,
+        "highlight": {
+          "highlight_pos": [
+            46
+          ],
+          "s1s_context_info": [
+            "%7B%22mixerCommonContext%22%3A%22%7B%5C%22mixerrank_list%5C%22%3A%5B%7B%5C%22client_type%5C%22%3A2%2C%5C%22sub_type%5C%22%3A0%2C%5C%22rank_pos%5C%22%3A20%2C%5C%22docid%5C%22%3A%5C%226397495149397062540%5C%22%7D%5D%2C%5C%22scene%5C%22%3A205%7D%22%7D"
+          ],
+          "s1s_jsapi_name": [
+            "openWXSearchHalfPage"
+          ],
+          "s1s_jsapi_paras": [
+            "{\"scene\":205,\"isAutoShowUnitInHalfScreen\":1,\"hiddenSearchHeader\":0,\"parentType\":135,\"webviewHeightRatio\":0.699999989, \"kvItems\":[], \"sessionKvItems\":[] }"
+          ],
+          "s1s_stat_info": [
+            "%7B%22bizuin%22%3A3923470773%2C%22appmsgid%22%3A2247486197%2C%22itemidx%22%3A1%2C%22comment_id%22%3A%224633318516262322182%22%2C%22content_id%22%3A%224896367201109409993%22%2C%22reply_id%22%3A1%2C%22docid%22%3A%226397495149397062540%22%2C%22pos%22%3A46%2C%22request_type%22%3A1%2C%22request_id%22%3A%2216873786725248507871%22%2C%22query%22%3A%22%E8%8D%AF%E6%98%8E%E7%94%9F%E7%89%A9%22%2C%22search_id%22%3A%2216873786725248507871%22%7D"
+          ],
+          "word": [
+            "药明生物"
+          ]
+        },
+        "identity_name": "gh_9a9c8e147c7e",
+        "identity_type": 1,
+        "is_deleted": 0,
+        "is_from": 2,
+        "is_from_friend": 0,
+        "is_reward": 0,
+        "logo_url": "https://wx.qlogo.cn/mmhead/Q3auHgzwzM45AZYW3xRiaOnSUEiaOn6AkrVeQPptZPQQkZ15Beb16x1A/64",
+        "multi_info": {
+          "emojis": [],
+          "pictures": [],
+          "voices": []
+        },
+        "nick_name": "龙谈价值2023",
+        "openid": "",
+        "reply_del_flag": 0,
+        "reply_dislike_status": 0,
+        "reply_id": 1,
+        "reply_is_elected": 1,
+        "reply_like_num": 13,
+        "reply_like_status": 0,
+        "rich_content": {
+          "rich_text": "药明系和其他吧，合联和生物由于发展阶段以及并购等因素的扰动，可能上半年利润弹性没那么大，但像药明生物总体也呈现景气度提升的趋势，合联更是给了5年30%复合增长的目标。",
+          "subcontent_list": [
+            {
+              "plain_text": "药明系和其他吧，合联和生物由于发展阶段以及并购等因素的扰动，可能上半年利润弹性没那么大，但像药明生物总体也呈现景气度提升的趋势，合联更是给了5年30%复合增长的目标。",
+              "rich_text": "药明系和其他吧，合联和生物由于发展阶段以及并购等因素的扰动，可能上半年利润弹性没那么大，但像药明生物总体也呈现景气度提升的趋势，合联更是给了5年30%复合增长的目标。",
+              "tag_type": 0
+            }
+          ]
+        }
+      }
+    },
+    {
+      "content_id": "4210950636109300105",
+      "parent_content_id": "",
+      "nick_name": "知足常乐",
+      "logo_url": "https://wx.qlogo.cn/mmopen/PiajxSqBRaEJNYTNgwHicHDBMUlSquGEc3dxZiagdV74IfVyfvgiaDGhdia3IzYKfKIplG7aLF8zyTNt6jazHbowQUAtZP4QOM4M85KwhKWjmyDRUEoDFvRAQibQFOoOARbMU5/64",
+      "content": "龙哥好！请假一下，AI制药的成都先导，晶泰控股发展空间如何？壁垒如何？",
+      "create_time": 1785761320,
+      "like_num": 4,
+      "is_elected": true,
+      "is_author": false,
+      "raw": {
+        "author_like_status": 0,
+        "bizattr_servicetype": 0,
+        "can_share": true,
+        "content": "龙哥好！请假一下，AI制药的成都先导，晶泰控股发展空间如何？壁垒如何？",
+        "content_id": "4210950636109300105",
+        "create_time": 1785761320,
+        "dislike_status": 0,
+        "id": 20,
+        "identity_name": "otWnb6Reve89qfC7LB8Wqm4Voscg",
+        "identity_type": 0,
+        "ip_wording": {
+          "city_id": "",
+          "city_name": "",
+          "country_id": "156",
+          "country_name": "中国",
+          "province_id": "",
+          "province_name": "湖南"
+        },
+        "is_can_delete": false,
+        "is_elected": 1,
+        "is_first_comment": false,
+        "is_from": 0,
+        "is_from_friend": 0,
+        "is_from_me": 0,
+        "is_reward": 0,
+        "is_top": 0,
+        "like_num": 4,
+        "like_status": 0,
+        "logo_url": "https://wx.qlogo.cn/mmopen/PiajxSqBRaEJNYTNgwHicHDBMUlSquGEc3dxZiagdV74IfVyfvgiaDGhdia3IzYKfKIplG7aLF8zyTNt6jazHbowQUAtZP4QOM4M85KwhKWjmyDRUEoDFvRAQibQFOoOARbMU5/64",
+        "multi_info": {
+          "emojis": [],
+          "pictures": [],
+          "voices": []
+        },
+        "my_id": 393,
+        "need_show_publish_tips": false,
+        "nick_name": "知足常乐",
+        "openid": "otWnb6Reve89qfC7LB8Wqm4Voscg",
+        "party_flag": 0,
+        "reply_new": {
+          "max_reply_id": 2,
+          "reply_list": [
+            {
+              "author_like_status": 0,
+              "bizattr_servicetype": 1,
+              "can_share": true,
+              "content": "AI制药目前各家各有特点，在前阵子的文章里我们把集中商业模式和国内主要的5家AI制药公司做了个对比，<a class=\"normal_text_link mp_article_text_link\" data-itemshowtype=\"0\" data-unique-id=\"msd8fdhi-14i9f7\" target=\"_blank\" href=\"https://mp.weixin.qq.com/s/_KvdkV2Cwf6Rf0OoSozIfg\">创新药行业积极变化已经出现</a>\n壁垒目前还感受不到，但行业β的确已经显现，上游的卖水人已经开始受益于AI制药带来的分子数量的扩容。",
+              "create_time": 1785761759,
+              "from_ai": false,
+              "highlight": {
+                "highlight_pos": [
+                  256
+                ],
+                "s1s_context_info": [
+                  "%7B%22mixerCommonContext%22%3A%22%7B%5C%22mixerrank_list%5C%22%3A%5B%7B%5C%22client_type%5C%22%3A2%2C%5C%22sub_type%5C%22%3A0%2C%5C%22rank_pos%5C%22%3A20%2C%5C%22docid%5C%22%3A%5C%226397495149397062540%5C%22%7D%5D%2C%5C%22scene%5C%22%3A205%7D%22%7D"
+                ],
+                "s1s_jsapi_name": [
+                  "openWXSearchHalfPage"
+                ],
+                "s1s_jsapi_paras": [
+                  "{\"scene\":205,\"isAutoShowUnitInHalfScreen\":1,\"hiddenSearchHeader\":0,\"parentType\":135,\"webviewHeightRatio\":0.699999989, \"kvItems\":[], \"sessionKvItems\":[] }"
+                ],
+                "s1s_stat_info": [
+                  "%7B%22bizuin%22%3A3923470773%2C%22appmsgid%22%3A2247486197%2C%22itemidx%22%3A1%2C%22comment_id%22%3A%224633318516262322182%22%2C%22content_id%22%3A%224210950636109300105%22%2C%22reply_id%22%3A1%2C%22docid%22%3A%226397495149397062540%22%2C%22pos%22%3A256%2C%22request_type%22%3A1%2C%22request_id%22%3A%2216873786725248507871%22%2C%22query%22%3A%22%E8%A1%8C%E4%B8%9A%CE%B2%22%2C%22search_id%22%3A%2216873786725248507871%22%7D"
+                ],
+                "word": [
+                  "行业β"
+                ]
+              },
+              "identity_name": "gh_9a9c8e147c7e",
+              "identity_type": 1,
+              "is_deleted": 0,
+              "is_from": 2,
+              "is_from_friend": 0,
+              "is_reward": 0,
+              "logo_url": "https://wx.qlogo.cn/mmhead/Q3auHgzwzM45AZYW3xRiaOnSUEiaOn6AkrVeQPptZPQQkZ15Beb16x1A/64",
+              "multi_info": {
+                "emojis": [],
+                "pictures": [],
+                "voices": []
+              },
+              "nick_name": "龙谈价值2023",
+              "openid": "",
+              "reply_del_flag": 0,
+              "reply_dislike_status": 0,
+              "reply_id": 1,
+              "reply_is_elected": 1,
+              "reply_like_num": 11,
+              "reply_like_status": 0,
+              "rich_content": {
+                "rich_text": "AI制药目前各家各有特点，在前阵子的文章里我们把集中商业模式和国内主要的5家AI制药公司做了个对比，<a class=\"normal_text_link mp_article_text_link\" data-itemshowtype=\"0\" data-unique-id=\"msd8fdhi-14i9f7\" target=\"_blank\" href=\"https://mp.weixin.qq.com/s/_KvdkV2Cwf6Rf0OoSozIfg\">创新药行业积极变化已经出现</a>\n壁垒目前还感受不到，但行业β的确已经显现，上游的卖水人已经开始受益于AI制药带来的分子数量的扩容。",
+                "subcontent_list": [
+                  {
+                    "plain_text": "AI制药目前各家各有特点，在前阵子的文章里我们把集中商业模式和国内主要的5家AI制药公司做了个对比，",
+                    "rich_text": "AI制药目前各家各有特点，在前阵子的文章里我们把集中商业模式和国内主要的5家AI制药公司做了个对比，",
+                    "tag_type": 0
+                  },
+                  {
+                    "plain_text": "创新药行业积极变化已经出现",
+                    "rich_text": "<a class=\"normal_text_link mp_article_text_link\" data-itemshowtype=\"0\" data-unique-id=\"msd8fdhi-14i9f7\" target=\"_blank\" href=\"https://mp.weixin.qq.com/s/_KvdkV2Cwf6Rf0OoSozIfg\">创新药行业积极变化已经出现</a>",
+                    "tag_type": 3
+                  },
+                  {
+                    "plain_text": "\n壁垒目前还感受不到，但行业β的确已经显现，上游的卖水人已经开始受益于AI制药带来的分子数量的扩容。",
+                    "rich_text": "\n壁垒目前还感受不到，但行业β的确已经显现，上游的卖水人已经开始受益于AI制药带来的分子数量的扩容。",
+                    "tag_type": 0
+                  }
+                ]
+              }
+            }
+          ],
+          "reply_total_cnt": 1
+        },
+        "rich_content": {
+          "rich_text": "龙哥好！请假一下，AI制药的成都先导，晶泰控股发展空间如何？壁垒如何？",
+          "subcontent_list": [
+            {
+              "plain_text": "龙哥好！请假一下，AI制药的成都先导，晶泰控股发展空间如何？壁垒如何？",
+              "rich_text": "龙哥好！请假一下，AI制药的成都先导，晶泰控股发展空间如何？壁垒如何？",
+              "tag_type": 0
+            }
+          ]
+        }
+      }
+    },
+    {
+      "content_id": "1",
+      "parent_content_id": "4210950636109300105",
+      "nick_name": "龙谈价值2023",
+      "logo_url": "https://wx.qlogo.cn/mmhead/Q3auHgzwzM45AZYW3xRiaOnSUEiaOn6AkrVeQPptZPQQkZ15Beb16x1A/64",
+      "content": "AI制药目前各家各有特点，在前阵子的文章里我们把集中商业模式和国内主要的5家AI制药公司做了个对比，<a class=\"normal_text_link mp_article_text_link\" data-itemshowtype=\"0\" data-unique-id=\"msd8fdhi-14i9f7\" target=\"_blank\" href=\"https://mp.weixin.qq.com/s/_KvdkV2Cwf6Rf0OoSozIfg\">创新药行业积极变化已经出现</a>\n壁垒目前还感受不到，但行业β的确已经显现，上游的卖水人已经开始受益于AI制药带来的分子数量的扩容。",
+      "create_time": 1785761759,
+      "like_num": 11,
+      "is_elected": true,
+      "is_author": true,
+      "raw": {
+        "author_like_status": 0,
+        "bizattr_servicetype": 1,
+        "can_share": true,
+        "content": "AI制药目前各家各有特点，在前阵子的文章里我们把集中商业模式和国内主要的5家AI制药公司做了个对比，<a class=\"normal_text_link mp_article_text_link\" data-itemshowtype=\"0\" data-unique-id=\"msd8fdhi-14i9f7\" target=\"_blank\" href=\"https://mp.weixin.qq.com/s/_KvdkV2Cwf6Rf0OoSozIfg\">创新药行业积极变化已经出现</a>\n壁垒目前还感受不到，但行业β的确已经显现，上游的卖水人已经开始受益于AI制药带来的分子数量的扩容。",
+        "create_time": 1785761759,
+        "from_ai": false,
+        "highlight": {
+          "highlight_pos": [
+            256
+          ],
+          "s1s_context_info": [
+            "%7B%22mixerCommonContext%22%3A%22%7B%5C%22mixerrank_list%5C%22%3A%5B%7B%5C%22client_type%5C%22%3A2%2C%5C%22sub_type%5C%22%3A0%2C%5C%22rank_pos%5C%22%3A20%2C%5C%22docid%5C%22%3A%5C%226397495149397062540%5C%22%7D%5D%2C%5C%22scene%5C%22%3A205%7D%22%7D"
+          ],
+          "s1s_jsapi_name": [
+            "openWXSearchHalfPage"
+          ],
+          "s1s_jsapi_paras": [
+            "{\"scene\":205,\"isAutoShowUnitInHalfScreen\":1,\"hiddenSearchHeader\":0,\"parentType\":135,\"webviewHeightRatio\":0.699999989, \"kvItems\":[], \"sessionKvItems\":[] }"
+          ],
+          "s1s_stat_info": [
+            "%7B%22bizuin%22%3A3923470773%2C%22appmsgid%22%3A2247486197%2C%22itemidx%22%3A1%2C%22comment_id%22%3A%224633318516262322182%22%2C%22content_id%22%3A%224210950636109300105%22%2C%22reply_id%22%3A1%2C%22docid%22%3A%226397495149397062540%22%2C%22pos%22%3A256%2C%22request_type%22%3A1%2C%22request_id%22%3A%2216873786725248507871%22%2C%22query%22%3A%22%E8%A1%8C%E4%B8%9A%CE%B2%22%2C%22search_id%22%3A%2216873786725248507871%22%7D"
+          ],
+          "word": [
+            "行业β"
+          ]
+        },
+        "identity_name": "gh_9a9c8e147c7e",
+        "identity_type": 1,
+        "is_deleted": 0,
+        "is_from": 2,
+        "is_from_friend": 0,
+        "is_reward": 0,
+        "logo_url": "https://wx.qlogo.cn/mmhead/Q3auHgzwzM45AZYW3xRiaOnSUEiaOn6AkrVeQPptZPQQkZ15Beb16x1A/64",
+        "multi_info": {
+          "emojis": [],
+          "pictures": [],
+          "voices": []
+        },
+        "nick_name": "龙谈价值2023",
+        "openid": "",
+        "reply_del_flag": 0,
+        "reply_dislike_status": 0,
+        "reply_id": 1,
+        "reply_is_elected": 1,
+        "reply_like_num": 11,
+        "reply_like_status": 0,
+        "rich_content": {
+          "rich_text": "AI制药目前各家各有特点，在前阵子的文章里我们把集中商业模式和国内主要的5家AI制药公司做了个对比，<a class=\"normal_text_link mp_article_text_link\" data-itemshowtype=\"0\" data-unique-id=\"msd8fdhi-14i9f7\" target=\"_blank\" href=\"https://mp.weixin.qq.com/s/_KvdkV2Cwf6Rf0OoSozIfg\">创新药行业积极变化已经出现</a>\n壁垒目前还感受不到，但行业β的确已经显现，上游的卖水人已经开始受益于AI制药带来的分子数量的扩容。",
+          "subcontent_list": [
+            {
+              "plain_text": "AI制药目前各家各有特点，在前阵子的文章里我们把集中商业模式和国内主要的5家AI制药公司做了个对比，",
+              "rich_text": "AI制药目前各家各有特点，在前阵子的文章里我们把集中商业模式和国内主要的5家AI制药公司做了个对比，",
+              "tag_type": 0
+            },
+            {
+              "plain_text": "创新药行业积极变化已经出现",
+              "rich_text": "<a class=\"normal_text_link mp_article_text_link\" data-itemshowtype=\"0\" data-unique-id=\"msd8fdhi-14i9f7\" target=\"_blank\" href=\"https://mp.weixin.qq.com/s/_KvdkV2Cwf6Rf0OoSozIfg\">创新药行业积极变化已经出现</a>",
+              "tag_type": 3
+            },
+            {
+              "plain_text": "\n壁垒目前还感受不到，但行业β的确已经显现，上游的卖水人已经开始受益于AI制药带来的分子数量的扩容。",
+              "rich_text": "\n壁垒目前还感受不到，但行业β的确已经显现，上游的卖水人已经开始受益于AI制药带来的分子数量的扩容。",
+              "tag_type": 0
+            }
+          ]
+        }
+      }
+    },
+    {
+      "content_id": "7555874464768983604",
+      "parent_content_id": "",
+      "nick_name": "谢工",
+      "logo_url": "https://wx.qlogo.cn/mmopen/AbruuZ3ILCmWNmUQ5Ooqw6jayLibICYHawxGXiao5iaO4ZUgXrVGvKicxNCHZCccfE4vHwJic4Heib9cOPEWU6medXKqj2ic89EAiaWR640kkbx2PribrGzlNR05SUbdAiaN4uWFG6/64",
+      "content": "龙哥，九州这个财报怎么看",
+      "create_time": 1785760332,
+      "like_num": 2,
+      "is_elected": true,
+      "is_author": false,
+      "raw": {
+        "author_like_status": 0,
+        "bizattr_servicetype": 0,
+        "can_share": true,
+        "content": "龙哥，九州这个财报怎么看",
+        "content_id": "7555874464768983604",
+        "create_time": 1785760332,
+        "dislike_status": 0,
+        "id": 10,
+        "identity_name": "otWnb6eNvXLjC8GBBHNvgraXv8NI",
+        "identity_type": 0,
+        "ip_wording": {
+          "city_id": "",
+          "city_name": "",
+          "country_id": "156",
+          "country_name": "中国",
+          "province_id": "",
+          "province_name": "湖北"
+        },
+        "is_can_delete": false,
+        "is_elected": 1,
+        "is_first_comment": false,
+        "is_from": 0,
+        "is_from_friend": 0,
+        "is_from_me": 0,
+        "is_reward": 0,
+        "is_top": 0,
+        "like_num": 2,
+        "like_status": 0,
+        "logo_url": "https://wx.qlogo.cn/mmopen/AbruuZ3ILCmWNmUQ5Ooqw6jayLibICYHawxGXiao5iaO4ZUgXrVGvKicxNCHZCccfE4vHwJic4Heib9cOPEWU6medXKqj2ic89EAiaWR640kkbx2PribrGzlNR05SUbdAiaN4uWFG6/64",
+        "multi_info": {
+          "emojis": [],
+          "pictures": [],
+          "voices": []
+        },
+        "my_id": 564,
+        "need_show_publish_tips": false,
+        "nick_name": "谢工",
+        "openid": "otWnb6eNvXLjC8GBBHNvgraXv8NI",
+        "party_flag": 0,
+        "reply_new": {
+          "max_reply_id": 2,
+          "reply_list": [
+            {
+              "author_like_status": 0,
+              "bizattr_servicetype": 1,
+              "can_share": true,
+              "content": "就还是一般吧，我最近没跟踪九洲的情况，从诺华那边的情况来看九洲药业可能还在消化诺欣妥专利到期的影响，上半年诺欣妥全球销售24.86亿美元同比下滑了46%，Q2单季度下滑50%，当然诺华的后续品种承接还不错，也会给九洲新的品种。",
+              "create_time": 1785760584,
+              "from_ai": false,
+              "highlight": {
+                "highlight_pos": [
+                  29
+                ],
+                "s1s_context_info": [
+                  "%7B%22mixerCommonContext%22%3A%22%7B%5C%22mixerrank_list%5C%22%3A%5B%7B%5C%22client_type%5C%22%3A2%2C%5C%22sub_type%5C%22%3A0%2C%5C%22rank_pos%5C%22%3A20%2C%5C%22docid%5C%22%3A%5C%226397495149397062540%5C%22%7D%5D%2C%5C%22scene%5C%22%3A205%7D%22%7D"
+                ],
+                "s1s_jsapi_name": [
+                  "openWXSearchHalfPage"
+                ],
+                "s1s_jsapi_paras": [
+                  "{\"scene\":205,\"isAutoShowUnitInHalfScreen\":1,\"hiddenSearchHeader\":0,\"parentType\":135,\"webviewHeightRatio\":0.699999989, \"kvItems\":[], \"sessionKvItems\":[] }"
+                ],
+                "s1s_stat_info": [
+                  "%7B%22bizuin%22%3A3923470773%2C%22appmsgid%22%3A2247486197%2C%22itemidx%22%3A1%2C%22comment_id%22%3A%224633318516262322182%22%2C%22content_id%22%3A%227555874464768983604%22%2C%22reply_id%22%3A1%2C%22docid%22%3A%226397495149397062540%22%2C%22pos%22%3A29%2C%22request_type%22%3A1%2C%22request_id%22%3A%2216873786725248507871%22%2C%22query%22%3A%22%E4%B9%9D%E6%B4%B2%E8%8D%AF%E4%B8%9A%22%2C%22search_id%22%3A%2216873786725248507871%22%7D"
+                ],
+                "word": [
+                  "九洲药业"
+                ]
+              },
+              "identity_name": "gh_9a9c8e147c7e",
+              "identity_type": 1,
+              "is_deleted": 0,
+              "is_from": 2,
+              "is_from_friend": 0,
+              "is_reward": 0,
+              "logo_url": "https://wx.qlogo.cn/mmhead/Q3auHgzwzM45AZYW3xRiaOnSUEiaOn6AkrVeQPptZPQQkZ15Beb16x1A/64",
+              "multi_info": {
+                "emojis": [],
+                "pictures": [],
+                "voices": []
+              },
+              "nick_name": "龙谈价值2023",
+              "openid": "",
+              "reply_del_flag": 0,
+              "reply_dislike_status": 0,
+              "reply_id": 1,
+              "reply_is_elected": 1,
+              "reply_like_num": 8,
+              "reply_like_status": 0,
+              "rich_content": {
+                "rich_text": "就还是一般吧，我最近没跟踪九洲的情况，从诺华那边的情况来看九洲药业可能还在消化诺欣妥专利到期的影响，上半年诺欣妥全球销售24.86亿美元同比下滑了46%，Q2单季度下滑50%，当然诺华的后续品种承接还不错，也会给九洲新的品种。",
+                "subcontent_list": [
+                  {
+                    "plain_text": "就还是一般吧，我最近没跟踪九洲的情况，从诺华那边的情况来看九洲药业可能还在消化诺欣妥专利到期的影响，上半年诺欣妥全球销售24.86亿美元同比下滑了46%，Q2单季度下滑50%，当然诺华的后续品种承接还不错，也会给九洲新的品种。",
+                    "rich_text": "就还是一般吧，我最近没跟踪九洲的情况，从诺华那边的情况来看九洲药业可能还在消化诺欣妥专利到期的影响，上半年诺欣妥全球销售24.86亿美元同比下滑了46%，Q2单季度下滑50%，当然诺华的后续品种承接还不错，也会给九洲新的品种。",
+                    "tag_type": 0
+                  }
+                ]
+              }
+            }
+          ],
+          "reply_total_cnt": 1
+        },
+        "rich_content": {
+          "rich_text": "龙哥，九州这个财报怎么看",
+          "subcontent_list": [
+            {
+              "plain_text": "龙哥，九州这个财报怎么看",
+              "rich_text": "龙哥，九州这个财报怎么看",
+              "tag_type": 0
+            }
+          ]
+        }
+      }
+    },
+    {
+      "content_id": "1",
+      "parent_content_id": "7555874464768983604",
+      "nick_name": "龙谈价值2023",
+      "logo_url": "https://wx.qlogo.cn/mmhead/Q3auHgzwzM45AZYW3xRiaOnSUEiaOn6AkrVeQPptZPQQkZ15Beb16x1A/64",
+      "content": "就还是一般吧，我最近没跟踪九洲的情况，从诺华那边的情况来看九洲药业可能还在消化诺欣妥专利到期的影响，上半年诺欣妥全球销售24.86亿美元同比下滑了46%，Q2单季度下滑50%，当然诺华的后续品种承接还不错，也会给九洲新的品种。",
+      "create_time": 1785760584,
+      "like_num": 8,
+      "is_elected": true,
+      "is_author": true,
+      "raw": {
+        "author_like_status": 0,
+        "bizattr_servicetype": 1,
+        "can_share": true,
+        "content": "就还是一般吧，我最近没跟踪九洲的情况，从诺华那边的情况来看九洲药业可能还在消化诺欣妥专利到期的影响，上半年诺欣妥全球销售24.86亿美元同比下滑了46%，Q2单季度下滑50%，当然诺华的后续品种承接还不错，也会给九洲新的品种。",
+        "create_time": 1785760584,
+        "from_ai": false,
+        "highlight": {
+          "highlight_pos": [
+            29
+          ],
+          "s1s_context_info": [
+            "%7B%22mixerCommonContext%22%3A%22%7B%5C%22mixerrank_list%5C%22%3A%5B%7B%5C%22client_type%5C%22%3A2%2C%5C%22sub_type%5C%22%3A0%2C%5C%22rank_pos%5C%22%3A20%2C%5C%22docid%5C%22%3A%5C%226397495149397062540%5C%22%7D%5D%2C%5C%22scene%5C%22%3A205%7D%22%7D"
+          ],
+          "s1s_jsapi_name": [
+            "openWXSearchHalfPage"
+          ],
+          "s1s_jsapi_paras": [
+            "{\"scene\":205,\"isAutoShowUnitInHalfScreen\":1,\"hiddenSearchHeader\":0,\"parentType\":135,\"webviewHeightRatio\":0.699999989, \"kvItems\":[], \"sessionKvItems\":[] }"
+          ],
+          "s1s_stat_info": [
+            "%7B%22bizuin%22%3A3923470773%2C%22appmsgid%22%3A2247486197%2C%22itemidx%22%3A1%2C%22comment_id%22%3A%224633318516262322182%22%2C%22content_id%22%3A%227555874464768983604%22%2C%22reply_id%22%3A1%2C%22docid%22%3A%226397495149397062540%22%2C%22pos%22%3A29%2C%22request_type%22%3A1%2C%22request_id%22%3A%2216873786725248507871%22%2C%22query%22%3A%22%E4%B9%9D%E6%B4%B2%E8%8D%AF%E4%B8%9A%22%2C%22search_id%22%3A%2216873786725248507871%22%7D"
+          ],
+          "word": [
+            "九洲药业"
+          ]
+        },
+        "identity_name": "gh_9a9c8e147c7e",
+        "identity_type": 1,
+        "is_deleted": 0,
+        "is_from": 2,
+        "is_from_friend": 0,
+        "is_reward": 0,
+        "logo_url": "https://wx.qlogo.cn/mmhead/Q3auHgzwzM45AZYW3xRiaOnSUEiaOn6AkrVeQPptZPQQkZ15Beb16x1A/64",
+        "multi_info": {
+          "emojis": [],
+          "pictures": [],
+          "voices": []
+        },
+        "nick_name": "龙谈价值2023",
+        "openid": "",
+        "reply_del_flag": 0,
+        "reply_dislike_status": 0,
+        "reply_id": 1,
+        "reply_is_elected": 1,
+        "reply_like_num": 8,
+        "reply_like_status": 0,
+        "rich_content": {
+          "rich_text": "就还是一般吧，我最近没跟踪九洲的情况，从诺华那边的情况来看九洲药业可能还在消化诺欣妥专利到期的影响，上半年诺欣妥全球销售24.86亿美元同比下滑了46%，Q2单季度下滑50%，当然诺华的后续品种承接还不错，也会给九洲新的品种。",
+          "subcontent_list": [
+            {
+              "plain_text": "就还是一般吧，我最近没跟踪九洲的情况，从诺华那边的情况来看九洲药业可能还在消化诺欣妥专利到期的影响，上半年诺欣妥全球销售24.86亿美元同比下滑了46%，Q2单季度下滑50%，当然诺华的后续品种承接还不错，也会给九洲新的品种。",
+              "rich_text": "就还是一般吧，我最近没跟踪九洲的情况，从诺华那边的情况来看九洲药业可能还在消化诺欣妥专利到期的影响，上半年诺欣妥全球销售24.86亿美元同比下滑了46%，Q2单季度下滑50%，当然诺华的后续品种承接还不错，也会给九洲新的品种。",
+              "tag_type": 0
+            }
+          ]
+        }
+      }
+    },
+    {
+      "content_id": "5813238759122010244",
+      "parent_content_id": "",
+      "nick_name": "卓月如初",
+      "logo_url": "https://wx.qlogo.cn/finderhead/uchmtWQh7iar9Qrfib6KH4zTNIQjIorrTwuMfCxnBibTLADhWLknkfY9ibicsBTibZlIv7efnabwHpr9k/64",
+      "content": "不知康龙化成如何",
+      "create_time": 1785763400,
+      "like_num": 4,
+      "is_elected": true,
+      "is_author": false,
+      "raw": {
+        "author_like_status": 0,
+        "bizattr_servicetype": 0,
+        "can_share": true,
+        "content": "不知康龙化成如何",
+        "content_id": "5813238759122010244",
+        "create_time": 1785763400,
+        "dislike_status": 0,
+        "id": 30,
+        "identity_name": "v2_060000231003b20faec8c5ea8d1ec1d7ca00e533b07768e763fd2d51356272c899f4df3417c5@finder",
+        "identity_type": 2,
+        "ip_wording": {
+          "city_id": "",
+          "city_name": "",
+          "country_id": "156",
+          "country_name": "中国",
+          "province_id": "",
+          "province_name": "山东"
+        },
+        "is_can_delete": false,
+        "is_elected": 1,
+        "is_first_comment": false,
+        "is_from": 0,
+        "is_from_friend": 0,
+        "is_from_me": 0,
+        "is_reward": 0,
+        "is_top": 0,
+        "like_num": 4,
+        "like_status": 0,
+        "logo_url": "https://wx.qlogo.cn/finderhead/uchmtWQh7iar9Qrfib6KH4zTNIQjIorrTwuMfCxnBibTLADhWLknkfY9ibicsBTibZlIv7efnabwHpr9k/64",
+        "multi_info": {
+          "emojis": [],
+          "pictures": [],
+          "voices": []
+        },
+        "my_id": 132,
+        "need_show_publish_tips": false,
+        "nick_name": "卓月如初",
+        "openid": "otWnb6XL14WXZRh-Q15Vg-vkeX2Y",
+        "party_flag": 0,
+        "reply_new": {
+          "max_reply_id": 3,
+          "reply_list": [
+            {
+              "author_like_status": 0,
+              "bizattr_servicetype": 1,
+              "can_share": true,
+              "content": "康龙化成此前已经披露预报，其CDMO业务还在从D到M的过渡期，没能享受到GLP-1和ADC等高景气赛道的超强风口，但CDMO业务也处于加速期，基本面也在向上，但肯定和康德比不了。康龙好在H股估值尤其低。",
+              "create_time": 1785763898,
+              "from_ai": false,
+              "identity_name": "gh_9a9c8e147c7e",
+              "identity_type": 1,
+              "is_deleted": 0,
+              "is_from": 2,
+              "is_from_friend": 0,
+              "is_reward": 0,
+              "logo_url": "https://wx.qlogo.cn/mmhead/Q3auHgzwzM45AZYW3xRiaOnSUEiaOn6AkrVeQPptZPQQkZ15Beb16x1A/64",
+              "multi_info": {
+                "emojis": [],
+                "pictures": [],
+                "voices": []
+              },
+              "nick_name": "龙谈价值2023",
+              "openid": "",
+              "reply_del_flag": 0,
+              "reply_dislike_status": 0,
+              "reply_id": 2,
+              "reply_is_elected": 1,
+              "reply_like_num": 7,
+              "reply_like_status": 0,
+              "rich_content": {
+                "rich_text": "康龙化成此前已经披露预报，其CDMO业务还在从D到M的过渡期，没能享受到GLP-1和ADC等高景气赛道的超强风口，但CDMO业务也处于加速期，基本面也在向上，但肯定和康德比不了。康龙好在H股估值尤其低。",
+                "subcontent_list": [
+                  {
+                    "plain_text": "康龙化成此前已经披露预报，其CDMO业务还在从D到M的过渡期，没能享受到GLP-1和ADC等高景气赛道的超强风口，但CDMO业务也处于加速期，基本面也在向上，但肯定和康德比不了。康龙好在H股估值尤其低。",
+                    "rich_text": "康龙化成此前已经披露预报，其CDMO业务还在从D到M的过渡期，没能享受到GLP-1和ADC等高景气赛道的超强风口，但CDMO业务也处于加速期，基本面也在向上，但肯定和康德比不了。康龙好在H股估值尤其低。",
+                    "tag_type": 0
+                  }
+                ]
+              }
+            }
+          ],
+          "reply_total_cnt": 1
+        },
+        "rich_content": {
+          "rich_text": "不知康龙化成如何",
+          "subcontent_list": [
+            {
+              "plain_text": "不知康龙化成如何",
+              "rich_text": "不知康龙化成如何",
+              "tag_type": 0
+            }
+          ]
+        }
+      }
+    },
+    {
+      "content_id": "2",
+      "parent_content_id": "5813238759122010244",
+      "nick_name": "龙谈价值2023",
+      "logo_url": "https://wx.qlogo.cn/mmhead/Q3auHgzwzM45AZYW3xRiaOnSUEiaOn6AkrVeQPptZPQQkZ15Beb16x1A/64",
+      "content": "康龙化成此前已经披露预报，其CDMO业务还在从D到M的过渡期，没能享受到GLP-1和ADC等高景气赛道的超强风口，但CDMO业务也处于加速期，基本面也在向上，但肯定和康德比不了。康龙好在H股估值尤其低。",
+      "create_time": 1785763898,
+      "like_num": 7,
+      "is_elected": true,
+      "is_author": true,
+      "raw": {
+        "author_like_status": 0,
+        "bizattr_servicetype": 1,
+        "can_share": true,
+        "content": "康龙化成此前已经披露预报，其CDMO业务还在从D到M的过渡期，没能享受到GLP-1和ADC等高景气赛道的超强风口，但CDMO业务也处于加速期，基本面也在向上，但肯定和康德比不了。康龙好在H股估值尤其低。",
+        "create_time": 1785763898,
+        "from_ai": false,
+        "identity_name": "gh_9a9c8e147c7e",
+        "identity_type": 1,
+        "is_deleted": 0,
+        "is_from": 2,
+        "is_from_friend": 0,
+        "is_reward": 0,
+        "logo_url": "https://wx.qlogo.cn/mmhead/Q3auHgzwzM45AZYW3xRiaOnSUEiaOn6AkrVeQPptZPQQkZ15Beb16x1A/64",
+        "multi_info": {
+          "emojis": [],
+          "pictures": [],
+          "voices": []
+        },
+        "nick_name": "龙谈价值2023",
+        "openid": "",
+        "reply_del_flag": 0,
+        "reply_dislike_status": 0,
+        "reply_id": 2,
+        "reply_is_elected": 1,
+        "reply_like_num": 7,
+        "reply_like_status": 0,
+        "rich_content": {
+          "rich_text": "康龙化成此前已经披露预报，其CDMO业务还在从D到M的过渡期，没能享受到GLP-1和ADC等高景气赛道的超强风口，但CDMO业务也处于加速期，基本面也在向上，但肯定和康德比不了。康龙好在H股估值尤其低。",
+          "subcontent_list": [
+            {
+              "plain_text": "康龙化成此前已经披露预报，其CDMO业务还在从D到M的过渡期，没能享受到GLP-1和ADC等高景气赛道的超强风口，但CDMO业务也处于加速期，基本面也在向上，但肯定和康德比不了。康龙好在H股估值尤其低。",
+              "rich_text": "康龙化成此前已经披露预报，其CDMO业务还在从D到M的过渡期，没能享受到GLP-1和ADC等高景气赛道的超强风口，但CDMO业务也处于加速期，基本面也在向上，但肯定和康德比不了。康龙好在H股估值尤其低。",
+              "tag_type": 0
+            }
+          ]
+        }
+      }
+    },
+    {
+      "content_id": "11078587335070191812",
+      "parent_content_id": "",
+      "nick_name": "大庆",
+      "logo_url": "https://wx.qlogo.cn/mmopen/YHiby9xiabHxCy7Qyyn02ejfKyRibhV6NBUSUsISg6Xq7tMv7tm1nD4zDnq9c8z4Wibv12ibfE7LSYkkKZhibEC9AiamXvEVqN1hSDia/64",
+      "content": "龙少，时代天使业绩点评下[呲牙]，谢谢",
+      "create_time": 1785763053,
+      "like_num": 3,
+      "is_elected": true,
+      "is_author": false,
+      "raw": {
+        "author_like_status": 0,
+        "bizattr_servicetype": 0,
+        "can_share": true,
+        "content": "龙少，时代天使业绩点评下[呲牙]，谢谢",
+        "content_id": "11078587335070191812",
+        "create_time": 1785763053,
+        "dislike_status": 0,
+        "id": 27,
+        "identity_name": "otWnb6brO83go9ycGKSsPKsydJfE",
+        "identity_type": 0,
+        "ip_wording": {
+          "city_id": "",
+          "city_name": "",
+          "country_id": "156",
+          "country_name": "中国",
+          "province_id": "",
+          "province_name": "江苏"
+        },
+        "is_can_delete": false,
+        "is_elected": 1,
+        "is_first_comment": false,
+        "is_from": 0,
+        "is_from_friend": 0,
+        "is_from_me": 0,
+        "is_reward": 0,
+        "is_top": 0,
+        "like_num": 3,
+        "like_status": 0,
+        "logo_url": "https://wx.qlogo.cn/mmopen/YHiby9xiabHxCy7Qyyn02ejfKyRibhV6NBUSUsISg6Xq7tMv7tm1nD4zDnq9c8z4Wibv12ibfE7LSYkkKZhibEC9AiamXvEVqN1hSDia/64",
+        "multi_info": {
+          "emojis": [],
+          "pictures": [],
+          "voices": []
+        },
+        "my_id": 4292,
+        "need_show_publish_tips": false,
+        "nick_name": "大庆",
+        "openid": "otWnb6brO83go9ycGKSsPKsydJfE",
+        "party_flag": 0,
+        "reply_new": {
+          "max_reply_id": 3,
+          "reply_list": [
+            {
+              "author_like_status": 0,
+              "bizattr_servicetype": 1,
+              "can_share": true,
+              "content": "时代天使案例数、收入、利润全面超预期，前两年主要是海外持续超预期，海外案例数和ASP双升，而从去年下半年以来国内的案例数也快速增长，国内业务的盈利能力也好于预期。此外公司上半年还做了每股4.99港元的特别股息，主要是海外投入已经看到成果，不再需要保留大量现金，且当前经营现金流也已经很不错，公司敢于积极回报股东了。\n公司已经连续几个财报季证明自己了，医药资金还在里面玩偷鸡摸狗的操作，南下资金的持仓比例从最高23.5%一路减持到13.6%，内资越少的地方股价走的越强，天使今年YTD已经58%，医药资金继续狗就是了。",
+              "create_time": 1785763819,
+              "from_ai": false,
+              "highlight": {
+                "highlight_pos": [
+                  0
+                ],
+                "s1s_context_info": [
+                  "%7B%22mixerCommonContext%22%3A%22%7B%5C%22mixerrank_list%5C%22%3A%5B%7B%5C%22client_type%5C%22%3A2%2C%5C%22sub_type%5C%22%3A0%2C%5C%22rank_pos%5C%22%3A20%2C%5C%22docid%5C%22%3A%5C%226397495149397062540%5C%22%7D%5D%2C%5C%22scene%5C%22%3A205%7D%22%7D"
+                ],
+                "s1s_jsapi_name": [
+                  "openWXSearchHalfPage"
+                ],
+                "s1s_jsapi_paras": [
+                  "{\"scene\":205,\"isAutoShowUnitInHalfScreen\":1,\"hiddenSearchHeader\":0,\"parentType\":135,\"webviewHeightRatio\":0.699999989, \"kvItems\":[], \"sessionKvItems\":[] }"
+                ],
+                "s1s_stat_info": [
+                  "%7B%22bizuin%22%3A3923470773%2C%22appmsgid%22%3A2247486197%2C%22itemidx%22%3A1%2C%22comment_id%22%3A%224633318516262322182%22%2C%22content_id%22%3A%2211078587335070191812%22%2C%22reply_id%22%3A1%2C%22docid%22%3A%226397495149397062540%22%2C%22pos%22%3A0%2C%22request_type%22%3A1%2C%22request_id%22%3A%2216873786725248507871%22%2C%22query%22%3A%22%E6%97%B6%E4%BB%A3%E5%A4%A9%E4%BD%BF%22%2C%22search_id%22%3A%2216873786725248507871%22%7D"
+                ],
+                "word": [
+                  "时代天使"
+                ]
+              },
+              "identity_name": "gh_9a9c8e147c7e",
+              "identity_type": 1,
+              "is_deleted": 0,
+              "is_from": 2,
+              "is_from_friend": 0,
+              "is_reward": 0,
+              "logo_url": "https://wx.qlogo.cn/mmhead/Q3auHgzwzM45AZYW3xRiaOnSUEiaOn6AkrVeQPptZPQQkZ15Beb16x1A/64",
+              "multi_info": {
+                "emojis": [],
+                "pictures": [],
+                "voices": []
+              },
+              "nick_name": "龙谈价值2023",
+              "openid": "",
+              "reply_del_flag": 0,
+              "reply_dislike_status": 0,
+              "reply_id": 1,
+              "reply_is_elected": 1,
+              "reply_like_num": 6,
+              "reply_like_status": 0,
+              "rich_content": {
+                "rich_text": "时代天使案例数、收入、利润全面超预期，前两年主要是海外持续超预期，海外案例数和ASP双升，而从去年下半年以来国内的案例数也快速增长，国内业务的盈利能力也好于预期。此外公司上半年还做了每股4.99港元的特别股息，主要是海外投入已经看到成果，不再需要保留大量现金，且当前经营现金流也已经很不错，公司敢于积极回报股东了。\n公司已经连续几个财报季证明自己了，医药资金还在里面玩偷鸡摸狗的操作，南下资金的持仓比例从最高23.5%一路减持到13.6%，内资越少的地方股价走的越强，天使今年YTD已经58%，医药资金继续狗就是了。",
+                "subcontent_list": [
+                  {
+                    "plain_text": "时代天使案例数、收入、利润全面超预期，前两年主要是海外持续超预期，海外案例数和ASP双升，而从去年下半年以来国内的案例数也快速增长，国内业务的盈利能力也好于预期。此外公司上半年还做了每股4.99港元的特别股息，主要是海外投入已经看到成果，不再需要保留大量现金，且当前经营现金流也已经很不错，公司敢于积极回报股东了。\n公司已经连续几个财报季证明自己了，医药资金还在里面玩偷鸡摸狗的操作，南下资金的持仓比例从最高23.5%一路减持到13.6%，内资越少的地方股价走的越强，天使今年YTD已经58%，医药资金继续狗就是了。",
+                    "rich_text": "时代天使案例数、收入、利润全面超预期，前两年主要是海外持续超预期，海外案例数和ASP双升，而从去年下半年以来国内的案例数也快速增长，国内业务的盈利能力也好于预期。此外公司上半年还做了每股4.99港元的特别股息，主要是海外投入已经看到成果，不再需要保留大量现金，且当前经营现金流也已经很不错，公司敢于积极回报股东了。\n公司已经连续几个财报季证明自己了，医药资金还在里面玩偷鸡摸狗的操作，南下资金的持仓比例从最高23.5%一路减持到13.6%，内资越少的地方股价走的越强，天使今年YTD已经58%，医药资金继续狗就是了。",
+                    "tag_type": 0
+                  }
+                ]
+              }
+            }
+          ],
+          "reply_total_cnt": 1
+        },
+        "rich_content": {
+          "rich_text": "龙少，时代天使业绩点评下[呲牙]，谢谢",
+          "subcontent_list": [
+            {
+              "plain_text": "龙少，时代天使业绩点评下[呲牙]，谢谢",
+              "rich_text": "龙少，时代天使业绩点评下[呲牙]，谢谢",
+              "tag_type": 0
+            }
+          ]
+        }
+      }
+    },
+    {
+      "content_id": "1",
+      "parent_content_id": "11078587335070191812",
+      "nick_name": "龙谈价值2023",
+      "logo_url": "https://wx.qlogo.cn/mmhead/Q3auHgzwzM45AZYW3xRiaOnSUEiaOn6AkrVeQPptZPQQkZ15Beb16x1A/64",
+      "content": "时代天使案例数、收入、利润全面超预期，前两年主要是海外持续超预期，海外案例数和ASP双升，而从去年下半年以来国内的案例数也快速增长，国内业务的盈利能力也好于预期。此外公司上半年还做了每股4.99港元的特别股息，主要是海外投入已经看到成果，不再需要保留大量现金，且当前经营现金流也已经很不错，公司敢于积极回报股东了。\n公司已经连续几个财报季证明自己了，医药资金还在里面玩偷鸡摸狗的操作，南下资金的持仓比例从最高23.5%一路减持到13.6%，内资越少的地方股价走的越强，天使今年YTD已经58%，医药资金继续狗就是了。",
+      "create_time": 1785763819,
+      "like_num": 6,
+      "is_elected": true,
+      "is_author": true,
+      "raw": {
+        "author_like_status": 0,
+        "bizattr_servicetype": 1,
+        "can_share": true,
+        "content": "时代天使案例数、收入、利润全面超预期，前两年主要是海外持续超预期，海外案例数和ASP双升，而从去年下半年以来国内的案例数也快速增长，国内业务的盈利能力也好于预期。此外公司上半年还做了每股4.99港元的特别股息，主要是海外投入已经看到成果，不再需要保留大量现金，且当前经营现金流也已经很不错，公司敢于积极回报股东了。\n公司已经连续几个财报季证明自己了，医药资金还在里面玩偷鸡摸狗的操作，南下资金的持仓比例从最高23.5%一路减持到13.6%，内资越少的地方股价走的越强，天使今年YTD已经58%，医药资金继续狗就是了。",
+        "create_time": 1785763819,
+        "from_ai": false,
+        "highlight": {
+          "highlight_pos": [
+            0
+          ],
+          "s1s_context_info": [
+            "%7B%22mixerCommonContext%22%3A%22%7B%5C%22mixerrank_list%5C%22%3A%5B%7B%5C%22client_type%5C%22%3A2%2C%5C%22sub_type%5C%22%3A0%2C%5C%22rank_pos%5C%22%3A20%2C%5C%22docid%5C%22%3A%5C%226397495149397062540%5C%22%7D%5D%2C%5C%22scene%5C%22%3A205%7D%22%7D"
+          ],
+          "s1s_jsapi_name": [
+            "openWXSearchHalfPage"
+          ],
+          "s1s_jsapi_paras": [
+            "{\"scene\":205,\"isAutoShowUnitInHalfScreen\":1,\"hiddenSearchHeader\":0,\"parentType\":135,\"webviewHeightRatio\":0.699999989, \"kvItems\":[], \"sessionKvItems\":[] }"
+          ],
+          "s1s_stat_info": [
+            "%7B%22bizuin%22%3A3923470773%2C%22appmsgid%22%3A2247486197%2C%22itemidx%22%3A1%2C%22comment_id%22%3A%224633318516262322182%22%2C%22content_id%22%3A%2211078587335070191812%22%2C%22reply_id%22%3A1%2C%22docid%22%3A%226397495149397062540%22%2C%22pos%22%3A0%2C%22request_type%22%3A1%2C%22request_id%22%3A%2216873786725248507871%22%2C%22query%22%3A%22%E6%97%B6%E4%BB%A3%E5%A4%A9%E4%BD%BF%22%2C%22search_id%22%3A%2216873786725248507871%22%7D"
+          ],
+          "word": [
+            "时代天使"
+          ]
+        },
+        "identity_name": "gh_9a9c8e147c7e",
+        "identity_type": 1,
+        "is_deleted": 0,
+        "is_from": 2,
+        "is_from_friend": 0,
+        "is_reward": 0,
+        "logo_url": "https://wx.qlogo.cn/mmhead/Q3auHgzwzM45AZYW3xRiaOnSUEiaOn6AkrVeQPptZPQQkZ15Beb16x1A/64",
+        "multi_info": {
+          "emojis": [],
+          "pictures": [],
+          "voices": []
+        },
+        "nick_name": "龙谈价值2023",
+        "openid": "",
+        "reply_del_flag": 0,
+        "reply_dislike_status": 0,
+        "reply_id": 1,
+        "reply_is_elected": 1,
+        "reply_like_num": 6,
+        "reply_like_status": 0,
+        "rich_content": {
+          "rich_text": "时代天使案例数、收入、利润全面超预期，前两年主要是海外持续超预期，海外案例数和ASP双升，而从去年下半年以来国内的案例数也快速增长，国内业务的盈利能力也好于预期。此外公司上半年还做了每股4.99港元的特别股息，主要是海外投入已经看到成果，不再需要保留大量现金，且当前经营现金流也已经很不错，公司敢于积极回报股东了。\n公司已经连续几个财报季证明自己了，医药资金还在里面玩偷鸡摸狗的操作，南下资金的持仓比例从最高23.5%一路减持到13.6%，内资越少的地方股价走的越强，天使今年YTD已经58%，医药资金继续狗就是了。",
+          "subcontent_list": [
+            {
+              "plain_text": "时代天使案例数、收入、利润全面超预期，前两年主要是海外持续超预期，海外案例数和ASP双升，而从去年下半年以来国内的案例数也快速增长，国内业务的盈利能力也好于预期。此外公司上半年还做了每股4.99港元的特别股息，主要是海外投入已经看到成果，不再需要保留大量现金，且当前经营现金流也已经很不错，公司敢于积极回报股东了。\n公司已经连续几个财报季证明自己了，医药资金还在里面玩偷鸡摸狗的操作，南下资金的持仓比例从最高23.5%一路减持到13.6%，内资越少的地方股价走的越强，天使今年YTD已经58%，医药资金继续狗就是了。",
+              "rich_text": "时代天使案例数、收入、利润全面超预期，前两年主要是海外持续超预期，海外案例数和ASP双升，而从去年下半年以来国内的案例数也快速增长，国内业务的盈利能力也好于预期。此外公司上半年还做了每股4.99港元的特别股息，主要是海外投入已经看到成果，不再需要保留大量现金，且当前经营现金流也已经很不错，公司敢于积极回报股东了。\n公司已经连续几个财报季证明自己了，医药资金还在里面玩偷鸡摸狗的操作，南下资金的持仓比例从最高23.5%一路减持到13.6%，内资越少的地方股价走的越强，天使今年YTD已经58%，医药资金继续狗就是了。",
+              "tag_type": 0
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

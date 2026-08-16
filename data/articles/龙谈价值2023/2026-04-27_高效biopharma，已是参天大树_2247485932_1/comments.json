@@ -1,0 +1,974 @@
+{
+  "fetched_at": 1786893567,
+  "count": 13,
+  "meta": {
+    "url": "https://mp.weixin.qq.com/s?__biz=MzkyMzQ3MDc3Mw==&mid=2247485932&idx=1&sn=76a9f391f0da75f550e9c689bb92efe5",
+    "title": "高效biopharma，已是参天大树",
+    "elected_total": 6
+  },
+  "comments": [
+    {
+      "content_id": "6030766148151148640",
+      "parent_content_id": "",
+      "nick_name": "禁止的鱼",
+      "logo_url": "https://wx.qlogo.cn/mmopen/Q3auHgzwzM4W8vGyiabAL4U1a4HMwuiaibFZmNESEdxCb2Giaen7OJEAicyzHKW8IDTm6HjrqFjSfVzwc6ZIrzpADNBcdTt044flc3rkCG7w3Aict09TV5TjM04owd2nwrWUnncof5hxsgKJE/64",
+      "content": "龙哥，啥时候分析一下迈威不",
+      "create_time": 1777252450,
+      "like_num": 0,
+      "is_elected": true,
+      "is_author": false,
+      "raw": {
+        "author_like_status": 0,
+        "bizattr_servicetype": 0,
+        "can_share": true,
+        "content": "龙哥，啥时候分析一下迈威不",
+        "content_id": "6030766148151148640",
+        "create_time": 1777252450,
+        "dislike_status": 0,
+        "id": 5,
+        "identity_name": "otWnb6ZXhldjHhxwN1kn1Eeu7iWY",
+        "identity_type": 0,
+        "ip_wording": {
+          "city_id": "",
+          "city_name": "",
+          "country_id": "156",
+          "country_name": "中国",
+          "province_id": "",
+          "province_name": "湖南"
+        },
+        "is_can_delete": false,
+        "is_elected": 1,
+        "is_first_comment": false,
+        "is_from": 0,
+        "is_from_friend": 0,
+        "is_from_me": 0,
+        "is_reward": 0,
+        "is_top": 0,
+        "like_num": 0,
+        "like_status": 0,
+        "logo_url": "https://wx.qlogo.cn/mmopen/Q3auHgzwzM4W8vGyiabAL4U1a4HMwuiaibFZmNESEdxCb2Giaen7OJEAicyzHKW8IDTm6HjrqFjSfVzwc6ZIrzpADNBcdTt044flc3rkCG7w3Aict09TV5TjM04owd2nwrWUnncof5hxsgKJE/64",
+        "multi_info": {
+          "emojis": [],
+          "pictures": [],
+          "voices": []
+        },
+        "my_id": 96,
+        "need_show_publish_tips": false,
+        "nick_name": "禁止的鱼",
+        "openid": "otWnb6ZXhldjHhxwN1kn1Eeu7iWY",
+        "party_flag": 0,
+        "reply_new": {
+          "max_reply_id": 2,
+          "reply_list": [
+            {
+              "author_like_status": 0,
+              "bizattr_servicetype": 1,
+              "can_share": true,
+              "content": "迈威也是我看了好几年的公司了，说实在的还是烧钱烧了很多、又miss不少的，公司布局的靶点和技术平台非常多，能稍有看点的东西并不算很多，历史上我们也看到过不少这种一直追着风口跑、但效率和执行力又没那么好的公司，最后逐渐变得平庸的。\n当然从今明年来看，也是迈威比较关键的时间点，有机会也可以考虑聊聊。",
+              "create_time": 1777252774,
+              "from_ai": false,
+              "identity_name": "gh_9a9c8e147c7e",
+              "identity_type": 1,
+              "is_deleted": 0,
+              "is_from": 2,
+              "is_from_friend": 0,
+              "is_reward": 0,
+              "logo_url": "https://wx.qlogo.cn/mmhead/Q3auHgzwzM45AZYW3xRiaOnSUEiaOn6AkrVeQPptZPQQkZ15Beb16x1A/64",
+              "multi_info": {
+                "emojis": [],
+                "pictures": [],
+                "voices": []
+              },
+              "nick_name": "龙谈价值2023",
+              "openid": "",
+              "reply_del_flag": 0,
+              "reply_dislike_status": 0,
+              "reply_id": 1,
+              "reply_is_elected": 1,
+              "reply_like_num": 8,
+              "reply_like_status": 0,
+              "rich_content": {
+                "subcontent_list": []
+              }
+            }
+          ],
+          "reply_total_cnt": 1
+        },
+        "rich_content": {
+          "subcontent_list": []
+        }
+      }
+    },
+    {
+      "content_id": "1",
+      "parent_content_id": "6030766148151148640",
+      "nick_name": "龙谈价值2023",
+      "logo_url": "https://wx.qlogo.cn/mmhead/Q3auHgzwzM45AZYW3xRiaOnSUEiaOn6AkrVeQPptZPQQkZ15Beb16x1A/64",
+      "content": "迈威也是我看了好几年的公司了，说实在的还是烧钱烧了很多、又miss不少的，公司布局的靶点和技术平台非常多，能稍有看点的东西并不算很多，历史上我们也看到过不少这种一直追着风口跑、但效率和执行力又没那么好的公司，最后逐渐变得平庸的。\n当然从今明年来看，也是迈威比较关键的时间点，有机会也可以考虑聊聊。",
+      "create_time": 1777252774,
+      "like_num": 8,
+      "is_elected": true,
+      "is_author": true,
+      "raw": {
+        "author_like_status": 0,
+        "bizattr_servicetype": 1,
+        "can_share": true,
+        "content": "迈威也是我看了好几年的公司了，说实在的还是烧钱烧了很多、又miss不少的，公司布局的靶点和技术平台非常多，能稍有看点的东西并不算很多，历史上我们也看到过不少这种一直追着风口跑、但效率和执行力又没那么好的公司，最后逐渐变得平庸的。\n当然从今明年来看，也是迈威比较关键的时间点，有机会也可以考虑聊聊。",
+        "create_time": 1777252774,
+        "from_ai": false,
+        "identity_name": "gh_9a9c8e147c7e",
+        "identity_type": 1,
+        "is_deleted": 0,
+        "is_from": 2,
+        "is_from_friend": 0,
+        "is_reward": 0,
+        "logo_url": "https://wx.qlogo.cn/mmhead/Q3auHgzwzM45AZYW3xRiaOnSUEiaOn6AkrVeQPptZPQQkZ15Beb16x1A/64",
+        "multi_info": {
+          "emojis": [],
+          "pictures": [],
+          "voices": []
+        },
+        "nick_name": "龙谈价值2023",
+        "openid": "",
+        "reply_del_flag": 0,
+        "reply_dislike_status": 0,
+        "reply_id": 1,
+        "reply_is_elected": 1,
+        "reply_like_num": 8,
+        "reply_like_status": 0,
+        "rich_content": {
+          "subcontent_list": []
+        }
+      }
+    },
+    {
+      "content_id": "9118449404607463773",
+      "parent_content_id": "",
+      "nick_name": "HanNing",
+      "logo_url": "https://wx.qlogo.cn/mmopen/YHiby9xiabHxBWxdk89lQJyabABnw5ZZI4WAJQT3iciaVMVyuXtr0C1p0y4KQQqPeMpBjsbia2vGMJsQmzTvE0h78rRfKx8oVKX3Y6LZLFibOpGQwt7BBpCN5dBG42XBphzTn3/64",
+      "content": "龙哥龙哥，诺成施博士夫妇会参与日常实际管理吗？",
+      "create_time": 1777250323,
+      "like_num": 1,
+      "is_elected": true,
+      "is_author": false,
+      "raw": {
+        "author_like_status": 0,
+        "bizattr_servicetype": 0,
+        "can_share": true,
+        "content": "龙哥龙哥，诺成施博士夫妇会参与日常实际管理吗？",
+        "content_id": "9118449404607463773",
+        "create_time": 1777250323,
+        "dislike_status": 0,
+        "id": 1,
+        "identity_name": "otWnb6Zihtop8LiA4bVQZ-FVKv_Y",
+        "identity_type": 0,
+        "ip_wording": {
+          "city_id": "",
+          "city_name": "",
+          "country_id": "156",
+          "country_name": "中国",
+          "province_id": "",
+          "province_name": "江苏"
+        },
+        "is_can_delete": false,
+        "is_elected": 1,
+        "is_first_comment": true,
+        "is_from": 0,
+        "is_from_friend": 0,
+        "is_from_me": 0,
+        "is_reward": 0,
+        "is_top": 0,
+        "like_num": 1,
+        "like_status": 0,
+        "logo_url": "https://wx.qlogo.cn/mmopen/YHiby9xiabHxBWxdk89lQJyabABnw5ZZI4WAJQT3iciaVMVyuXtr0C1p0y4KQQqPeMpBjsbia2vGMJsQmzTvE0h78rRfKx8oVKX3Y6LZLFibOpGQwt7BBpCN5dBG42XBphzTn3/64",
+        "multi_info": {
+          "emojis": [],
+          "pictures": [],
+          "voices": []
+        },
+        "my_id": 349,
+        "need_show_publish_tips": false,
+        "nick_name": "HanNing",
+        "openid": "otWnb6Zihtop8LiA4bVQZ-FVKv_Y",
+        "party_flag": 0,
+        "reply_new": {
+          "max_reply_id": 2,
+          "reply_list": [
+            {
+              "author_like_status": 0,
+              "bizattr_servicetype": 1,
+              "can_share": true,
+              "content": "赵是管公司临床注册的，施应该是不咋参与的",
+              "create_time": 1777250627,
+              "from_ai": false,
+              "identity_name": "gh_9a9c8e147c7e",
+              "identity_type": 1,
+              "is_deleted": 0,
+              "is_from": 2,
+              "is_from_friend": 0,
+              "is_reward": 0,
+              "logo_url": "https://wx.qlogo.cn/mmhead/Q3auHgzwzM45AZYW3xRiaOnSUEiaOn6AkrVeQPptZPQQkZ15Beb16x1A/64",
+              "multi_info": {
+                "emojis": [],
+                "pictures": [],
+                "voices": []
+              },
+              "nick_name": "龙谈价值2023",
+              "openid": "",
+              "reply_del_flag": 0,
+              "reply_dislike_status": 0,
+              "reply_id": 1,
+              "reply_is_elected": 1,
+              "reply_like_num": 7,
+              "reply_like_status": 0,
+              "rich_content": {
+                "subcontent_list": []
+              }
+            }
+          ],
+          "reply_total_cnt": 1
+        },
+        "rich_content": {
+          "subcontent_list": []
+        }
+      }
+    },
+    {
+      "content_id": "1",
+      "parent_content_id": "9118449404607463773",
+      "nick_name": "龙谈价值2023",
+      "logo_url": "https://wx.qlogo.cn/mmhead/Q3auHgzwzM45AZYW3xRiaOnSUEiaOn6AkrVeQPptZPQQkZ15Beb16x1A/64",
+      "content": "赵是管公司临床注册的，施应该是不咋参与的",
+      "create_time": 1777250627,
+      "like_num": 7,
+      "is_elected": true,
+      "is_author": true,
+      "raw": {
+        "author_like_status": 0,
+        "bizattr_servicetype": 1,
+        "can_share": true,
+        "content": "赵是管公司临床注册的，施应该是不咋参与的",
+        "create_time": 1777250627,
+        "from_ai": false,
+        "identity_name": "gh_9a9c8e147c7e",
+        "identity_type": 1,
+        "is_deleted": 0,
+        "is_from": 2,
+        "is_from_friend": 0,
+        "is_reward": 0,
+        "logo_url": "https://wx.qlogo.cn/mmhead/Q3auHgzwzM45AZYW3xRiaOnSUEiaOn6AkrVeQPptZPQQkZ15Beb16x1A/64",
+        "multi_info": {
+          "emojis": [],
+          "pictures": [],
+          "voices": []
+        },
+        "nick_name": "龙谈价值2023",
+        "openid": "",
+        "reply_del_flag": 0,
+        "reply_dislike_status": 0,
+        "reply_id": 1,
+        "reply_is_elected": 1,
+        "reply_like_num": 7,
+        "reply_like_status": 0,
+        "rich_content": {
+          "subcontent_list": []
+        }
+      }
+    },
+    {
+      "content_id": "11157368975287912706",
+      "parent_content_id": "",
+      "nick_name": "求索者",
+      "logo_url": "https://wx.qlogo.cn/mmopen/M5ev2aeIIdklyGJS8TMHhVHZMeKB8ZibwGRgV89epIZtTCFJpa6iaicO6L6ibRkKicxicfnodialYZBJlHATp2q9ouqsRBxtRkebKkM/64",
+      "content": "海外临床为啥一直不推呢？",
+      "create_time": 1777255340,
+      "like_num": 0,
+      "is_elected": true,
+      "is_author": false,
+      "raw": {
+        "author_like_status": 0,
+        "bizattr_servicetype": 0,
+        "can_share": true,
+        "content": "海外临床为啥一直不推呢？",
+        "content_id": "11157368975287912706",
+        "create_time": 1777255340,
+        "dislike_status": 0,
+        "id": 6,
+        "identity_name": "otWnb6UZ5ijWei8-MJ7HaJSW8sXM",
+        "identity_type": 0,
+        "ip_wording": {
+          "city_id": "",
+          "city_name": "",
+          "country_id": "156",
+          "country_name": "中国",
+          "province_id": "",
+          "province_name": "北京"
+        },
+        "is_can_delete": false,
+        "is_elected": 1,
+        "is_first_comment": false,
+        "is_from": 0,
+        "is_from_friend": 0,
+        "is_from_me": 0,
+        "is_reward": 0,
+        "is_top": 0,
+        "like_num": 0,
+        "like_status": 0,
+        "logo_url": "https://wx.qlogo.cn/mmopen/M5ev2aeIIdklyGJS8TMHhVHZMeKB8ZibwGRgV89epIZtTCFJpa6iaicO6L6ibRkKicxicfnodialYZBJlHATp2q9ouqsRBxtRkebKkM/64",
+        "multi_info": {
+          "emojis": [],
+          "pictures": [],
+          "voices": []
+        },
+        "my_id": 2306,
+        "need_show_publish_tips": false,
+        "nick_name": "求索者",
+        "openid": "otWnb6UZ5ijWei8-MJ7HaJSW8sXM",
+        "party_flag": 0,
+        "reply_new": {
+          "max_reply_id": 4,
+          "reply_list": [
+            {
+              "author_like_status": 0,
+              "bizattr_servicetype": 1,
+              "can_share": true,
+              "content": "诺诚健华推的海外临床包括：\n①奥布替尼PPMS/SPMS的全球III期临床，奥布替尼R/R MCL、一线MCL的全球注册临床；\n②BCL2抑制剂的AML/MDS的I期临床；\n③TYK2/JAK1治疗结节性痒疹的全球II期临床。",
+              "create_time": 1777258577,
+              "from_ai": false,
+              "highlight": {
+                "highlight_pos": [
+                  0,
+                  99,
+                  65
+                ],
+                "s1s_context_info": [
+                  "%7B%22mixerCommonContext%22%3A%22%7B%5C%22mixerrank_list%5C%22%3A%5B%7B%5C%22client_type%5C%22%3A2%2C%5C%22sub_type%5C%22%3A0%2C%5C%22rank_pos%5C%22%3A20%2C%5C%22docid%5C%22%3A%5C%221292861436528283319%5C%22%7D%5D%2C%5C%22scene%5C%22%3A205%7D%22%7D",
+                  "%7B%22mixerCommonContext%22%3A%22%7B%5C%22mixerrank_list%5C%22%3A%5B%7B%5C%22client_type%5C%22%3A2%2C%5C%22sub_type%5C%22%3A0%2C%5C%22rank_pos%5C%22%3A20%2C%5C%22docid%5C%22%3A%5C%221292861436528283319%5C%22%7D%5D%2C%5C%22scene%5C%22%3A205%7D%22%7D",
+                  "%7B%22mixerCommonContext%22%3A%22%7B%5C%22mixerrank_list%5C%22%3A%5B%7B%5C%22client_type%5C%22%3A2%2C%5C%22sub_type%5C%22%3A0%2C%5C%22rank_pos%5C%22%3A20%2C%5C%22docid%5C%22%3A%5C%221292861436528283319%5C%22%7D%5D%2C%5C%22scene%5C%22%3A205%7D%22%7D"
+                ],
+                "s1s_jsapi_name": [
+                  "openWXSearchHalfPage",
+                  "openWXSearchHalfPage",
+                  "openWXSearchHalfPage"
+                ],
+                "s1s_jsapi_paras": [
+                  "{\"scene\":205,\"isAutoShowUnitInHalfScreen\":1,\"hiddenSearchHeader\":0,\"parentType\":135,\"webviewHeightRatio\":0.699999989, \"kvItems\":[], \"sessionKvItems\":[] }",
+                  "{\"scene\":205,\"isAutoShowUnitInHalfScreen\":1,\"hiddenSearchHeader\":0,\"parentType\":135,\"webviewHeightRatio\":0.699999989, \"kvItems\":[], \"sessionKvItems\":[] }",
+                  "{\"scene\":205,\"isAutoShowUnitInHalfScreen\":1,\"hiddenSearchHeader\":0,\"parentType\":135,\"webviewHeightRatio\":0.699999989, \"kvItems\":[], \"sessionKvItems\":[] }"
+                ],
+                "s1s_stat_info": [
+                  "%7B%22bizuin%22%3A3923470773%2C%22appmsgid%22%3A2247485932%2C%22itemidx%22%3A1%2C%22comment_id%22%3A%224489989340923838464%22%2C%22content_id%22%3A%2211157368975287912706%22%2C%22reply_id%22%3A1%2C%22docid%22%3A%221292861436528283319%22%2C%22pos%22%3A0%2C%22request_type%22%3A1%2C%22request_id%22%3A%227959604566535912805%22%2C%22query%22%3A%22%E8%AF%BA%E8%AF%9A%E5%81%A5%E5%8D%8E%22%2C%22search_id%22%3A%227959604566535912805%22%7D",
+                  "%7B%22bizuin%22%3A3923470773%2C%22appmsgid%22%3A2247485932%2C%22itemidx%22%3A1%2C%22comment_id%22%3A%224489989340923838464%22%2C%22content_id%22%3A%2211157368975287912706%22%2C%22reply_id%22%3A1%2C%22docid%22%3A%221292861436528283319%22%2C%22pos%22%3A99%2C%22request_type%22%3A1%2C%22request_id%22%3A%227959604566535912805%22%2C%22query%22%3A%22%E7%BB%93%E8%8A%82%E6%80%A7%E7%97%92%E7%96%B9%22%2C%22search_id%22%3A%227959604566535912805%22%7D",
+                  "%7B%22bizuin%22%3A3923470773%2C%22appmsgid%22%3A2247485932%2C%22itemidx%22%3A1%2C%22comment_id%22%3A%224489989340923838464%22%2C%22content_id%22%3A%2211157368975287912706%22%2C%22reply_id%22%3A1%2C%22docid%22%3A%221292861436528283319%22%2C%22pos%22%3A65%2C%22request_type%22%3A1%2C%22request_id%22%3A%227959604566535912805%22%2C%22query%22%3A%22BCL2%E6%8A%91%E5%88%B6%E5%89%82%22%2C%22search_id%22%3A%227959604566535912805%22%7D"
+                ],
+                "word": [
+                  "诺诚健华",
+                  "结节性痒疹",
+                  "BCL2抑制剂"
+                ]
+              },
+              "identity_name": "gh_9a9c8e147c7e",
+              "identity_type": 1,
+              "is_deleted": 0,
+              "is_from": 2,
+              "is_from_friend": 0,
+              "is_reward": 0,
+              "logo_url": "https://wx.qlogo.cn/mmhead/Q3auHgzwzM45AZYW3xRiaOnSUEiaOn6AkrVeQPptZPQQkZ15Beb16x1A/64",
+              "multi_info": {
+                "emojis": [],
+                "pictures": [],
+                "voices": []
+              },
+              "nick_name": "龙谈价值2023",
+              "openid": "",
+              "reply_del_flag": 0,
+              "reply_dislike_status": 0,
+              "reply_id": 1,
+              "reply_is_elected": 1,
+              "reply_like_num": 6,
+              "reply_like_status": 0,
+              "rich_content": {
+                "subcontent_list": []
+              }
+            }
+          ],
+          "reply_total_cnt": 1
+        },
+        "rich_content": {
+          "subcontent_list": []
+        }
+      }
+    },
+    {
+      "content_id": "1",
+      "parent_content_id": "11157368975287912706",
+      "nick_name": "龙谈价值2023",
+      "logo_url": "https://wx.qlogo.cn/mmhead/Q3auHgzwzM45AZYW3xRiaOnSUEiaOn6AkrVeQPptZPQQkZ15Beb16x1A/64",
+      "content": "诺诚健华推的海外临床包括：\n①奥布替尼PPMS/SPMS的全球III期临床，奥布替尼R/R MCL、一线MCL的全球注册临床；\n②BCL2抑制剂的AML/MDS的I期临床；\n③TYK2/JAK1治疗结节性痒疹的全球II期临床。",
+      "create_time": 1777258577,
+      "like_num": 6,
+      "is_elected": true,
+      "is_author": true,
+      "raw": {
+        "author_like_status": 0,
+        "bizattr_servicetype": 1,
+        "can_share": true,
+        "content": "诺诚健华推的海外临床包括：\n①奥布替尼PPMS/SPMS的全球III期临床，奥布替尼R/R MCL、一线MCL的全球注册临床；\n②BCL2抑制剂的AML/MDS的I期临床；\n③TYK2/JAK1治疗结节性痒疹的全球II期临床。",
+        "create_time": 1777258577,
+        "from_ai": false,
+        "highlight": {
+          "highlight_pos": [
+            0,
+            99,
+            65
+          ],
+          "s1s_context_info": [
+            "%7B%22mixerCommonContext%22%3A%22%7B%5C%22mixerrank_list%5C%22%3A%5B%7B%5C%22client_type%5C%22%3A2%2C%5C%22sub_type%5C%22%3A0%2C%5C%22rank_pos%5C%22%3A20%2C%5C%22docid%5C%22%3A%5C%221292861436528283319%5C%22%7D%5D%2C%5C%22scene%5C%22%3A205%7D%22%7D",
+            "%7B%22mixerCommonContext%22%3A%22%7B%5C%22mixerrank_list%5C%22%3A%5B%7B%5C%22client_type%5C%22%3A2%2C%5C%22sub_type%5C%22%3A0%2C%5C%22rank_pos%5C%22%3A20%2C%5C%22docid%5C%22%3A%5C%221292861436528283319%5C%22%7D%5D%2C%5C%22scene%5C%22%3A205%7D%22%7D",
+            "%7B%22mixerCommonContext%22%3A%22%7B%5C%22mixerrank_list%5C%22%3A%5B%7B%5C%22client_type%5C%22%3A2%2C%5C%22sub_type%5C%22%3A0%2C%5C%22rank_pos%5C%22%3A20%2C%5C%22docid%5C%22%3A%5C%221292861436528283319%5C%22%7D%5D%2C%5C%22scene%5C%22%3A205%7D%22%7D"
+          ],
+          "s1s_jsapi_name": [
+            "openWXSearchHalfPage",
+            "openWXSearchHalfPage",
+            "openWXSearchHalfPage"
+          ],
+          "s1s_jsapi_paras": [
+            "{\"scene\":205,\"isAutoShowUnitInHalfScreen\":1,\"hiddenSearchHeader\":0,\"parentType\":135,\"webviewHeightRatio\":0.699999989, \"kvItems\":[], \"sessionKvItems\":[] }",
+            "{\"scene\":205,\"isAutoShowUnitInHalfScreen\":1,\"hiddenSearchHeader\":0,\"parentType\":135,\"webviewHeightRatio\":0.699999989, \"kvItems\":[], \"sessionKvItems\":[] }",
+            "{\"scene\":205,\"isAutoShowUnitInHalfScreen\":1,\"hiddenSearchHeader\":0,\"parentType\":135,\"webviewHeightRatio\":0.699999989, \"kvItems\":[], \"sessionKvItems\":[] }"
+          ],
+          "s1s_stat_info": [
+            "%7B%22bizuin%22%3A3923470773%2C%22appmsgid%22%3A2247485932%2C%22itemidx%22%3A1%2C%22comment_id%22%3A%224489989340923838464%22%2C%22content_id%22%3A%2211157368975287912706%22%2C%22reply_id%22%3A1%2C%22docid%22%3A%221292861436528283319%22%2C%22pos%22%3A0%2C%22request_type%22%3A1%2C%22request_id%22%3A%227959604566535912805%22%2C%22query%22%3A%22%E8%AF%BA%E8%AF%9A%E5%81%A5%E5%8D%8E%22%2C%22search_id%22%3A%227959604566535912805%22%7D",
+            "%7B%22bizuin%22%3A3923470773%2C%22appmsgid%22%3A2247485932%2C%22itemidx%22%3A1%2C%22comment_id%22%3A%224489989340923838464%22%2C%22content_id%22%3A%2211157368975287912706%22%2C%22reply_id%22%3A1%2C%22docid%22%3A%221292861436528283319%22%2C%22pos%22%3A99%2C%22request_type%22%3A1%2C%22request_id%22%3A%227959604566535912805%22%2C%22query%22%3A%22%E7%BB%93%E8%8A%82%E6%80%A7%E7%97%92%E7%96%B9%22%2C%22search_id%22%3A%227959604566535912805%22%7D",
+            "%7B%22bizuin%22%3A3923470773%2C%22appmsgid%22%3A2247485932%2C%22itemidx%22%3A1%2C%22comment_id%22%3A%224489989340923838464%22%2C%22content_id%22%3A%2211157368975287912706%22%2C%22reply_id%22%3A1%2C%22docid%22%3A%221292861436528283319%22%2C%22pos%22%3A65%2C%22request_type%22%3A1%2C%22request_id%22%3A%227959604566535912805%22%2C%22query%22%3A%22BCL2%E6%8A%91%E5%88%B6%E5%89%82%22%2C%22search_id%22%3A%227959604566535912805%22%7D"
+          ],
+          "word": [
+            "诺诚健华",
+            "结节性痒疹",
+            "BCL2抑制剂"
+          ]
+        },
+        "identity_name": "gh_9a9c8e147c7e",
+        "identity_type": 1,
+        "is_deleted": 0,
+        "is_from": 2,
+        "is_from_friend": 0,
+        "is_reward": 0,
+        "logo_url": "https://wx.qlogo.cn/mmhead/Q3auHgzwzM45AZYW3xRiaOnSUEiaOn6AkrVeQPptZPQQkZ15Beb16x1A/64",
+        "multi_info": {
+          "emojis": [],
+          "pictures": [],
+          "voices": []
+        },
+        "nick_name": "龙谈价值2023",
+        "openid": "",
+        "reply_del_flag": 0,
+        "reply_dislike_status": 0,
+        "reply_id": 1,
+        "reply_is_elected": 1,
+        "reply_like_num": 6,
+        "reply_like_status": 0,
+        "rich_content": {
+          "subcontent_list": []
+        }
+      }
+    },
+    {
+      "content_id": "3141212305744724394",
+      "parent_content_id": "",
+      "nick_name": "廖书豪",
+      "logo_url": "https://wx.qlogo.cn/mmopen/M5ev2aeIIdlXia6icAogH9NRgFkZX6BNuQoJIUqwIKB72ujhh80Z3vj5qRo91Eiba8XQBqDXY6w018F2Wy2m1a01cn313kUqQvI/64",
+      "content": "最近创新药/CRO都回调了点，石油价格高位美联储的点阵图显示降息预期大缩水不利于板块，虽然懂王加息美债会炸但最近风险真大，药太难了[捂脸]",
+      "create_time": 1777251846,
+      "like_num": 0,
+      "is_elected": true,
+      "is_author": false,
+      "raw": {
+        "author_like_status": 0,
+        "bizattr_servicetype": 0,
+        "can_share": true,
+        "content": "最近创新药/CRO都回调了点，石油价格高位美联储的点阵图显示降息预期大缩水不利于板块，虽然懂王加息美债会炸但最近风险真大，药太难了[捂脸]",
+        "content_id": "3141212305744724394",
+        "create_time": 1777251846,
+        "dislike_status": 0,
+        "id": 3,
+        "identity_name": "otWnb6UA8yVBJtbYWLvlWL_x_0Bc",
+        "identity_type": 0,
+        "ip_wording": {
+          "city_id": "",
+          "city_name": "",
+          "country_id": "156",
+          "country_name": "中国",
+          "province_id": "",
+          "province_name": "四川"
+        },
+        "is_can_delete": false,
+        "is_elected": 1,
+        "is_first_comment": false,
+        "is_from": 0,
+        "is_from_friend": 0,
+        "is_from_me": 0,
+        "is_reward": 0,
+        "is_top": 0,
+        "like_num": 0,
+        "like_status": 0,
+        "logo_url": "https://wx.qlogo.cn/mmopen/M5ev2aeIIdlXia6icAogH9NRgFkZX6BNuQoJIUqwIKB72ujhh80Z3vj5qRo91Eiba8XQBqDXY6w018F2Wy2m1a01cn313kUqQvI/64",
+        "multi_info": {
+          "emojis": [],
+          "pictures": [],
+          "voices": []
+        },
+        "my_id": 426,
+        "need_show_publish_tips": false,
+        "nick_name": "廖书豪",
+        "openid": "otWnb6UA8yVBJtbYWLvlWL_x_0Bc",
+        "party_flag": 0,
+        "reply_new": {
+          "max_reply_id": 8,
+          "reply_list": [
+            {
+              "author_like_status": 0,
+              "bizattr_servicetype": 1,
+              "can_share": true,
+              "content": "创新药上周回调主要是IO双抗的回调，短期过度博弈康方在ASCO的数据披露，预期高且混乱，并且还会有人担心康方每次出数据股价都会大起大落，反映在今年ASCO上就是波动会提前被放大。",
+              "create_time": 1777252135,
+              "from_ai": false,
+              "identity_name": "gh_9a9c8e147c7e",
+              "identity_type": 1,
+              "is_deleted": 0,
+              "is_from": 2,
+              "is_from_friend": 0,
+              "is_reward": 0,
+              "logo_url": "https://wx.qlogo.cn/mmhead/Q3auHgzwzM45AZYW3xRiaOnSUEiaOn6AkrVeQPptZPQQkZ15Beb16x1A/64",
+              "multi_info": {
+                "emojis": [],
+                "pictures": [],
+                "voices": []
+              },
+              "nick_name": "龙谈价值2023",
+              "openid": "",
+              "reply_del_flag": 0,
+              "reply_dislike_status": 0,
+              "reply_id": 6,
+              "reply_is_elected": 1,
+              "reply_like_num": 6,
+              "reply_like_status": 0,
+              "rich_content": {
+                "subcontent_list": []
+              }
+            },
+            {
+              "author_like_status": 0,
+              "bizattr_servicetype": 0,
+              "can_share": true,
+              "content": "龙哥除了特定时期蹲狗预期博弈，我个人判断感觉吃宏观因子影响也不少，虽然没量化，但高油价第二天基本走低，利率扰动太大",
+              "create_time": 1777252492,
+              "from_ai": false,
+              "identity_name": "otWnb6UA8yVBJtbYWLvlWL_x_0Bc",
+              "identity_type": 0,
+              "ip_wording": {
+                "city_id": "",
+                "city_name": "",
+                "country_id": "156",
+                "country_name": "中国",
+                "province_id": "",
+                "province_name": "四川"
+              },
+              "is_deleted": 0,
+              "is_from": 3,
+              "is_from_friend": 0,
+              "is_reward": 0,
+              "logo_url": "https://wx.qlogo.cn/mmopen/M5ev2aeIIdlXia6icAogH9NRgFkZX6BNuQoJIUqwIKB72ujhh80Z3vj5qRo91Eiba8XQBqDXY6w018F2Wy2m1a01cn313kUqQvI/64",
+              "multi_info": {
+                "emojis": [],
+                "pictures": [],
+                "voices": []
+              },
+              "need_show_publish_tips": false,
+              "nick_name": "廖书豪",
+              "openid": "otWnb6UA8yVBJtbYWLvlWL_x_0Bc",
+              "reply_del_flag": 0,
+              "reply_dislike_status": 0,
+              "reply_id": 7,
+              "reply_is_elected": 1,
+              "reply_like_num": 0,
+              "reply_like_status": 0,
+              "rich_content": {
+                "subcontent_list": []
+              },
+              "to_nick_name": "龙谈价值2023",
+              "to_reply_id": 6
+            }
+          ],
+          "reply_total_cnt": 2
+        },
+        "rich_content": {
+          "subcontent_list": []
+        }
+      }
+    },
+    {
+      "content_id": "6",
+      "parent_content_id": "3141212305744724394",
+      "nick_name": "龙谈价值2023",
+      "logo_url": "https://wx.qlogo.cn/mmhead/Q3auHgzwzM45AZYW3xRiaOnSUEiaOn6AkrVeQPptZPQQkZ15Beb16x1A/64",
+      "content": "创新药上周回调主要是IO双抗的回调，短期过度博弈康方在ASCO的数据披露，预期高且混乱，并且还会有人担心康方每次出数据股价都会大起大落，反映在今年ASCO上就是波动会提前被放大。",
+      "create_time": 1777252135,
+      "like_num": 6,
+      "is_elected": true,
+      "is_author": true,
+      "raw": {
+        "author_like_status": 0,
+        "bizattr_servicetype": 1,
+        "can_share": true,
+        "content": "创新药上周回调主要是IO双抗的回调，短期过度博弈康方在ASCO的数据披露，预期高且混乱，并且还会有人担心康方每次出数据股价都会大起大落，反映在今年ASCO上就是波动会提前被放大。",
+        "create_time": 1777252135,
+        "from_ai": false,
+        "identity_name": "gh_9a9c8e147c7e",
+        "identity_type": 1,
+        "is_deleted": 0,
+        "is_from": 2,
+        "is_from_friend": 0,
+        "is_reward": 0,
+        "logo_url": "https://wx.qlogo.cn/mmhead/Q3auHgzwzM45AZYW3xRiaOnSUEiaOn6AkrVeQPptZPQQkZ15Beb16x1A/64",
+        "multi_info": {
+          "emojis": [],
+          "pictures": [],
+          "voices": []
+        },
+        "nick_name": "龙谈价值2023",
+        "openid": "",
+        "reply_del_flag": 0,
+        "reply_dislike_status": 0,
+        "reply_id": 6,
+        "reply_is_elected": 1,
+        "reply_like_num": 6,
+        "reply_like_status": 0,
+        "rich_content": {
+          "subcontent_list": []
+        }
+      }
+    },
+    {
+      "content_id": "7",
+      "parent_content_id": "3141212305744724394",
+      "nick_name": "廖书豪",
+      "logo_url": "https://wx.qlogo.cn/mmopen/M5ev2aeIIdlXia6icAogH9NRgFkZX6BNuQoJIUqwIKB72ujhh80Z3vj5qRo91Eiba8XQBqDXY6w018F2Wy2m1a01cn313kUqQvI/64",
+      "content": "龙哥除了特定时期蹲狗预期博弈，我个人判断感觉吃宏观因子影响也不少，虽然没量化，但高油价第二天基本走低，利率扰动太大",
+      "create_time": 1777252492,
+      "like_num": 0,
+      "is_elected": true,
+      "is_author": true,
+      "raw": {
+        "author_like_status": 0,
+        "bizattr_servicetype": 0,
+        "can_share": true,
+        "content": "龙哥除了特定时期蹲狗预期博弈，我个人判断感觉吃宏观因子影响也不少，虽然没量化，但高油价第二天基本走低，利率扰动太大",
+        "create_time": 1777252492,
+        "from_ai": false,
+        "identity_name": "otWnb6UA8yVBJtbYWLvlWL_x_0Bc",
+        "identity_type": 0,
+        "ip_wording": {
+          "city_id": "",
+          "city_name": "",
+          "country_id": "156",
+          "country_name": "中国",
+          "province_id": "",
+          "province_name": "四川"
+        },
+        "is_deleted": 0,
+        "is_from": 3,
+        "is_from_friend": 0,
+        "is_reward": 0,
+        "logo_url": "https://wx.qlogo.cn/mmopen/M5ev2aeIIdlXia6icAogH9NRgFkZX6BNuQoJIUqwIKB72ujhh80Z3vj5qRo91Eiba8XQBqDXY6w018F2Wy2m1a01cn313kUqQvI/64",
+        "multi_info": {
+          "emojis": [],
+          "pictures": [],
+          "voices": []
+        },
+        "need_show_publish_tips": false,
+        "nick_name": "廖书豪",
+        "openid": "otWnb6UA8yVBJtbYWLvlWL_x_0Bc",
+        "reply_del_flag": 0,
+        "reply_dislike_status": 0,
+        "reply_id": 7,
+        "reply_is_elected": 1,
+        "reply_like_num": 0,
+        "reply_like_status": 0,
+        "rich_content": {
+          "subcontent_list": []
+        },
+        "to_nick_name": "龙谈价值2023",
+        "to_reply_id": 6
+      }
+    },
+    {
+      "content_id": "2925178620441788441",
+      "parent_content_id": "",
+      "nick_name": "微风",
+      "logo_url": "https://wx.qlogo.cn/mmopen/AbruuZ3ILCk1pvfw1KmKSialhumnJLOfe7PpQTz71QOKNYoXR0ht6cKKagEiaZ2Q4ibvYPyBm51NA4puMmqibmeYJg/64",
+      "content": "诺诚健华是长期持有的好标的吗？",
+      "create_time": 1777252264,
+      "like_num": 0,
+      "is_elected": true,
+      "is_author": false,
+      "raw": {
+        "author_like_status": 0,
+        "bizattr_servicetype": 0,
+        "can_share": true,
+        "content": "诺诚健华是长期持有的好标的吗？",
+        "content_id": "2925178620441788441",
+        "create_time": 1777252264,
+        "dislike_status": 0,
+        "id": 4,
+        "identity_name": "otWnb6XnjqQM0F4DRflSxqjq8Z7I",
+        "identity_type": 0,
+        "ip_wording": {
+          "city_id": "",
+          "city_name": "",
+          "country_id": "156",
+          "country_name": "中国",
+          "province_id": "",
+          "province_name": "浙江"
+        },
+        "is_can_delete": false,
+        "is_elected": 1,
+        "is_first_comment": false,
+        "is_from": 0,
+        "is_from_friend": 0,
+        "is_from_me": 0,
+        "is_reward": 0,
+        "is_top": 0,
+        "like_num": 0,
+        "like_status": 0,
+        "logo_url": "https://wx.qlogo.cn/mmopen/AbruuZ3ILCk1pvfw1KmKSialhumnJLOfe7PpQTz71QOKNYoXR0ht6cKKagEiaZ2Q4ibvYPyBm51NA4puMmqibmeYJg/64",
+        "multi_info": {
+          "emojis": [],
+          "pictures": [],
+          "voices": []
+        },
+        "my_id": 25,
+        "need_show_publish_tips": false,
+        "nick_name": "微风",
+        "openid": "otWnb6XnjqQM0F4DRflSxqjq8Z7I",
+        "party_flag": 0,
+        "reply_new": {
+          "max_reply_id": 3,
+          "reply_list": [
+            {
+              "author_like_status": 0,
+              "bizattr_servicetype": 1,
+              "can_share": true,
+              "content": "创新药公司都要保持跟踪，行业变化快速且巨大，但执行力强、效率高的公司也有机会实现复利增长，诺诚就是其中一家",
+              "create_time": 1777268704,
+              "from_ai": false,
+              "identity_name": "gh_9a9c8e147c7e",
+              "identity_type": 1,
+              "is_deleted": 0,
+              "is_from": 2,
+              "is_from_friend": 0,
+              "is_reward": 0,
+              "logo_url": "https://wx.qlogo.cn/mmhead/Q3auHgzwzM45AZYW3xRiaOnSUEiaOn6AkrVeQPptZPQQkZ15Beb16x1A/64",
+              "multi_info": {
+                "emojis": [],
+                "pictures": [],
+                "voices": []
+              },
+              "nick_name": "龙谈价值2023",
+              "openid": "",
+              "reply_del_flag": 0,
+              "reply_dislike_status": 0,
+              "reply_id": 2,
+              "reply_is_elected": 1,
+              "reply_like_num": 5,
+              "reply_like_status": 0,
+              "rich_content": {
+                "subcontent_list": []
+              }
+            }
+          ],
+          "reply_total_cnt": 1
+        },
+        "rich_content": {
+          "subcontent_list": []
+        }
+      }
+    },
+    {
+      "content_id": "2",
+      "parent_content_id": "2925178620441788441",
+      "nick_name": "龙谈价值2023",
+      "logo_url": "https://wx.qlogo.cn/mmhead/Q3auHgzwzM45AZYW3xRiaOnSUEiaOn6AkrVeQPptZPQQkZ15Beb16x1A/64",
+      "content": "创新药公司都要保持跟踪，行业变化快速且巨大，但执行力强、效率高的公司也有机会实现复利增长，诺诚就是其中一家",
+      "create_time": 1777268704,
+      "like_num": 5,
+      "is_elected": true,
+      "is_author": true,
+      "raw": {
+        "author_like_status": 0,
+        "bizattr_servicetype": 1,
+        "can_share": true,
+        "content": "创新药公司都要保持跟踪，行业变化快速且巨大，但执行力强、效率高的公司也有机会实现复利增长，诺诚就是其中一家",
+        "create_time": 1777268704,
+        "from_ai": false,
+        "identity_name": "gh_9a9c8e147c7e",
+        "identity_type": 1,
+        "is_deleted": 0,
+        "is_from": 2,
+        "is_from_friend": 0,
+        "is_reward": 0,
+        "logo_url": "https://wx.qlogo.cn/mmhead/Q3auHgzwzM45AZYW3xRiaOnSUEiaOn6AkrVeQPptZPQQkZ15Beb16x1A/64",
+        "multi_info": {
+          "emojis": [],
+          "pictures": [],
+          "voices": []
+        },
+        "nick_name": "龙谈价值2023",
+        "openid": "",
+        "reply_del_flag": 0,
+        "reply_dislike_status": 0,
+        "reply_id": 2,
+        "reply_is_elected": 1,
+        "reply_like_num": 5,
+        "reply_like_status": 0,
+        "rich_content": {
+          "subcontent_list": []
+        }
+      }
+    },
+    {
+      "content_id": "7898875320441242552",
+      "parent_content_id": "",
+      "nick_name": "caoguoan",
+      "logo_url": "https://wx.qlogo.cn/mmopen/M5ev2aeIIdkziaicNfkm6OR5k5BQdjYeyRq3XbiakmYKJhMOOg4PVKXDqBEtFGH7jMccXCQs7ccdONDD93wWv0ZApia38lQOFcqM/64",
+      "content": "油价高位震荡，降息预期减弱，对于创新药来说不友好吧",
+      "create_time": 1777261096,
+      "like_num": 0,
+      "is_elected": true,
+      "is_author": false,
+      "raw": {
+        "author_like_status": 0,
+        "bizattr_servicetype": 0,
+        "can_share": true,
+        "content": "油价高位震荡，降息预期减弱，对于创新药来说不友好吧",
+        "content_id": "7898875320441242552",
+        "create_time": 1777261096,
+        "dislike_status": 0,
+        "id": 9,
+        "identity_name": "otWnb6V7lkAB7qaS9W_iUD1UUqY8",
+        "identity_type": 0,
+        "ip_wording": {
+          "city_id": "",
+          "city_name": "",
+          "country_id": "156",
+          "country_name": "中国",
+          "province_id": "",
+          "province_name": "湖南"
+        },
+        "is_can_delete": false,
+        "is_elected": 1,
+        "is_first_comment": false,
+        "is_from": 0,
+        "is_from_friend": 0,
+        "is_from_me": 0,
+        "is_reward": 0,
+        "is_top": 0,
+        "like_num": 0,
+        "like_status": 0,
+        "logo_url": "https://wx.qlogo.cn/mmopen/M5ev2aeIIdkziaicNfkm6OR5k5BQdjYeyRq3XbiakmYKJhMOOg4PVKXDqBEtFGH7jMccXCQs7ccdONDD93wWv0ZApia38lQOFcqM/64",
+        "multi_info": {
+          "emojis": [],
+          "pictures": [],
+          "voices": []
+        },
+        "my_id": 952,
+        "need_show_publish_tips": false,
+        "nick_name": "caoguoan",
+        "openid": "otWnb6V7lkAB7qaS9W_iUD1UUqY8",
+        "party_flag": 0,
+        "reply_new": {
+          "max_reply_id": 2,
+          "reply_list": [
+            {
+              "author_like_status": 0,
+              "bizattr_servicetype": 1,
+              "can_share": true,
+              "content": "宏观因素固然重要，产业逻辑也非常关键，在海外一级市场融资低迷、加息预期升温的情况下，XBI得益于几个大的并购和大药读数，也走的很强。",
+              "create_time": 1777268811,
+              "from_ai": false,
+              "identity_name": "gh_9a9c8e147c7e",
+              "identity_type": 1,
+              "is_deleted": 0,
+              "is_from": 2,
+              "is_from_friend": 0,
+              "is_reward": 0,
+              "logo_url": "https://wx.qlogo.cn/mmhead/Q3auHgzwzM45AZYW3xRiaOnSUEiaOn6AkrVeQPptZPQQkZ15Beb16x1A/64",
+              "multi_info": {
+                "emojis": [],
+                "pictures": [],
+                "voices": []
+              },
+              "nick_name": "龙谈价值2023",
+              "openid": "",
+              "reply_del_flag": 0,
+              "reply_dislike_status": 0,
+              "reply_id": 1,
+              "reply_is_elected": 1,
+              "reply_like_num": 3,
+              "reply_like_status": 0,
+              "rich_content": {
+                "subcontent_list": []
+              }
+            }
+          ],
+          "reply_total_cnt": 1
+        },
+        "rich_content": {
+          "subcontent_list": []
+        }
+      }
+    },
+    {
+      "content_id": "1",
+      "parent_content_id": "7898875320441242552",
+      "nick_name": "龙谈价值2023",
+      "logo_url": "https://wx.qlogo.cn/mmhead/Q3auHgzwzM45AZYW3xRiaOnSUEiaOn6AkrVeQPptZPQQkZ15Beb16x1A/64",
+      "content": "宏观因素固然重要，产业逻辑也非常关键，在海外一级市场融资低迷、加息预期升温的情况下，XBI得益于几个大的并购和大药读数，也走的很强。",
+      "create_time": 1777268811,
+      "like_num": 3,
+      "is_elected": true,
+      "is_author": true,
+      "raw": {
+        "author_like_status": 0,
+        "bizattr_servicetype": 1,
+        "can_share": true,
+        "content": "宏观因素固然重要，产业逻辑也非常关键，在海外一级市场融资低迷、加息预期升温的情况下，XBI得益于几个大的并购和大药读数，也走的很强。",
+        "create_time": 1777268811,
+        "from_ai": false,
+        "identity_name": "gh_9a9c8e147c7e",
+        "identity_type": 1,
+        "is_deleted": 0,
+        "is_from": 2,
+        "is_from_friend": 0,
+        "is_reward": 0,
+        "logo_url": "https://wx.qlogo.cn/mmhead/Q3auHgzwzM45AZYW3xRiaOnSUEiaOn6AkrVeQPptZPQQkZ15Beb16x1A/64",
+        "multi_info": {
+          "emojis": [],
+          "pictures": [],
+          "voices": []
+        },
+        "nick_name": "龙谈价值2023",
+        "openid": "",
+        "reply_del_flag": 0,
+        "reply_dislike_status": 0,
+        "reply_id": 1,
+        "reply_is_elected": 1,
+        "reply_like_num": 3,
+        "reply_like_status": 0,
+        "rich_content": {
+          "subcontent_list": []
+        }
+      }
+    }
+  ]
+}

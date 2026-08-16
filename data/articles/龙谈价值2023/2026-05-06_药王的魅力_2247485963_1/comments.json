@@ -1,0 +1,1250 @@
+{
+  "fetched_at": 1786893558,
+  "count": 16,
+  "meta": {
+    "url": "https://mp.weixin.qq.com/s?__biz=MzkyMzQ3MDc3Mw==&mid=2247485963&idx=1&sn=0e4bd47c04d86e7fe33093b1202a2b29",
+    "title": "药王的魅力",
+    "elected_total": 8
+  },
+  "comments": [
+    {
+      "content_id": "7369856961573027918",
+      "parent_content_id": "",
+      "nick_name": "喻力",
+      "logo_url": "https://wx.qlogo.cn/mmopen/Oo0icutbiaKybbAohWqcRe5tGoY1Qf93eV1apTkVpiaq5IhagXTI8tcQeBdeDBwriaSYDwaf9d7dNDt83eNsqxIePauW1jAollnj/64",
+      "content": "估计还是个股行情，带不动创新药板块，高开低走？",
+      "create_time": 1778081946,
+      "like_num": 2,
+      "is_elected": true,
+      "is_author": false,
+      "raw": {
+        "author_like_status": 0,
+        "bizattr_servicetype": 0,
+        "can_share": true,
+        "content": "估计还是个股行情，带不动创新药板块，高开低走？",
+        "content_id": "7369856961573027918",
+        "create_time": 1778081946,
+        "dislike_status": 0,
+        "id": 1,
+        "identity_name": "otWnb6QaK86vZ4YoMvQl2fjGk23I",
+        "identity_type": 0,
+        "ip_wording": {
+          "city_id": "",
+          "city_name": "",
+          "country_id": "156",
+          "country_name": "中国",
+          "province_id": "",
+          "province_name": "四川"
+        },
+        "is_can_delete": false,
+        "is_elected": 1,
+        "is_first_comment": true,
+        "is_from": 0,
+        "is_from_friend": 0,
+        "is_from_me": 0,
+        "is_reward": 0,
+        "is_top": 0,
+        "like_num": 2,
+        "like_status": 0,
+        "logo_url": "https://wx.qlogo.cn/mmopen/Oo0icutbiaKybbAohWqcRe5tGoY1Qf93eV1apTkVpiaq5IhagXTI8tcQeBdeDBwriaSYDwaf9d7dNDt83eNsqxIePauW1jAollnj/64",
+        "multi_info": {
+          "emojis": [],
+          "pictures": [],
+          "voices": []
+        },
+        "my_id": 78,
+        "need_show_publish_tips": false,
+        "nick_name": "喻力",
+        "openid": "otWnb6QaK86vZ4YoMvQl2fjGk23I",
+        "party_flag": 0,
+        "reply_new": {
+          "max_reply_id": 4,
+          "reply_list": [
+            {
+              "author_like_status": 0,
+              "bizattr_servicetype": 1,
+              "can_share": true,
+              "content": "创新药本身就是个股间差异极大，为啥老想一个公司带行业呢，去年那样鸡犬升天的行情，最后下来一地鸡毛，有意思嘛。美股百济今晚还是稳定的，AH百济今天白天应该有提前反映。",
+              "create_time": 1778082132,
+              "from_ai": false,
+              "highlight": {
+                "highlight_pos": [
+                  0
+                ],
+                "s1s_context_info": [
+                  "%7B%22mixerCommonContext%22%3A%22%7B%5C%22mixerrank_list%5C%22%3A%5B%7B%5C%22client_type%5C%22%3A2%2C%5C%22sub_type%5C%22%3A0%2C%5C%22rank_pos%5C%22%3A20%2C%5C%22docid%5C%22%3A%5C%2211479023415385485663%5C%22%7D%5D%2C%5C%22scene%5C%22%3A205%7D%22%7D"
+                ],
+                "s1s_jsapi_name": [
+                  "openWXSearchHalfPage"
+                ],
+                "s1s_jsapi_paras": [
+                  "{\"scene\":205,\"isAutoShowUnitInHalfScreen\":1,\"hiddenSearchHeader\":0,\"parentType\":135,\"webviewHeightRatio\":0.699999989, \"kvItems\":[], \"sessionKvItems\":[] }"
+                ],
+                "s1s_stat_info": [
+                  "%7B%22bizuin%22%3A3923470773%2C%22appmsgid%22%3A2247485963%2C%22itemidx%22%3A1%2C%22comment_id%22%3A%224504503311408185348%22%2C%22content_id%22%3A%227369856961573027918%22%2C%22reply_id%22%3A1%2C%22docid%22%3A%2211479023415385485663%22%2C%22pos%22%3A0%2C%22request_type%22%3A1%2C%22request_id%22%3A%228747324831077690965%22%2C%22query%22%3A%22%E5%88%9B%E6%96%B0%E8%8D%AF%22%2C%22search_id%22%3A%228747324831077690965%22%7D"
+                ],
+                "word": [
+                  "创新药"
+                ]
+              },
+              "identity_name": "gh_9a9c8e147c7e",
+              "identity_type": 1,
+              "is_deleted": 0,
+              "is_from": 2,
+              "is_from_friend": 0,
+              "is_reward": 0,
+              "logo_url": "https://wx.qlogo.cn/mmhead/Q3auHgzwzM45AZYW3xRiaOnSUEiaOn6AkrVeQPptZPQQkZ15Beb16x1A/64",
+              "multi_info": {
+                "emojis": [],
+                "pictures": [],
+                "voices": []
+              },
+              "nick_name": "龙谈价值2023",
+              "openid": "",
+              "reply_del_flag": 0,
+              "reply_dislike_status": 0,
+              "reply_id": 1,
+              "reply_is_elected": 1,
+              "reply_like_num": 18,
+              "reply_like_status": 0,
+              "rich_content": {
+                "subcontent_list": []
+              }
+            }
+          ],
+          "reply_total_cnt": 1
+        },
+        "rich_content": {
+          "subcontent_list": []
+        }
+      }
+    },
+    {
+      "content_id": "1",
+      "parent_content_id": "7369856961573027918",
+      "nick_name": "龙谈价值2023",
+      "logo_url": "https://wx.qlogo.cn/mmhead/Q3auHgzwzM45AZYW3xRiaOnSUEiaOn6AkrVeQPptZPQQkZ15Beb16x1A/64",
+      "content": "创新药本身就是个股间差异极大，为啥老想一个公司带行业呢，去年那样鸡犬升天的行情，最后下来一地鸡毛，有意思嘛。美股百济今晚还是稳定的，AH百济今天白天应该有提前反映。",
+      "create_time": 1778082132,
+      "like_num": 18,
+      "is_elected": true,
+      "is_author": true,
+      "raw": {
+        "author_like_status": 0,
+        "bizattr_servicetype": 1,
+        "can_share": true,
+        "content": "创新药本身就是个股间差异极大，为啥老想一个公司带行业呢，去年那样鸡犬升天的行情，最后下来一地鸡毛，有意思嘛。美股百济今晚还是稳定的，AH百济今天白天应该有提前反映。",
+        "create_time": 1778082132,
+        "from_ai": false,
+        "highlight": {
+          "highlight_pos": [
+            0
+          ],
+          "s1s_context_info": [
+            "%7B%22mixerCommonContext%22%3A%22%7B%5C%22mixerrank_list%5C%22%3A%5B%7B%5C%22client_type%5C%22%3A2%2C%5C%22sub_type%5C%22%3A0%2C%5C%22rank_pos%5C%22%3A20%2C%5C%22docid%5C%22%3A%5C%2211479023415385485663%5C%22%7D%5D%2C%5C%22scene%5C%22%3A205%7D%22%7D"
+          ],
+          "s1s_jsapi_name": [
+            "openWXSearchHalfPage"
+          ],
+          "s1s_jsapi_paras": [
+            "{\"scene\":205,\"isAutoShowUnitInHalfScreen\":1,\"hiddenSearchHeader\":0,\"parentType\":135,\"webviewHeightRatio\":0.699999989, \"kvItems\":[], \"sessionKvItems\":[] }"
+          ],
+          "s1s_stat_info": [
+            "%7B%22bizuin%22%3A3923470773%2C%22appmsgid%22%3A2247485963%2C%22itemidx%22%3A1%2C%22comment_id%22%3A%224504503311408185348%22%2C%22content_id%22%3A%227369856961573027918%22%2C%22reply_id%22%3A1%2C%22docid%22%3A%2211479023415385485663%22%2C%22pos%22%3A0%2C%22request_type%22%3A1%2C%22request_id%22%3A%228747324831077690965%22%2C%22query%22%3A%22%E5%88%9B%E6%96%B0%E8%8D%AF%22%2C%22search_id%22%3A%228747324831077690965%22%7D"
+          ],
+          "word": [
+            "创新药"
+          ]
+        },
+        "identity_name": "gh_9a9c8e147c7e",
+        "identity_type": 1,
+        "is_deleted": 0,
+        "is_from": 2,
+        "is_from_friend": 0,
+        "is_reward": 0,
+        "logo_url": "https://wx.qlogo.cn/mmhead/Q3auHgzwzM45AZYW3xRiaOnSUEiaOn6AkrVeQPptZPQQkZ15Beb16x1A/64",
+        "multi_info": {
+          "emojis": [],
+          "pictures": [],
+          "voices": []
+        },
+        "nick_name": "龙谈价值2023",
+        "openid": "",
+        "reply_del_flag": 0,
+        "reply_dislike_status": 0,
+        "reply_id": 1,
+        "reply_is_elected": 1,
+        "reply_like_num": 18,
+        "reply_like_status": 0,
+        "rich_content": {
+          "subcontent_list": []
+        }
+      }
+    },
+    {
+      "content_id": "3141212305744724399",
+      "parent_content_id": "",
+      "nick_name": "廖书豪",
+      "logo_url": "https://wx.qlogo.cn/mmopen/M5ev2aeIIdlXia6icAogH9NRgFkZX6BNuQoJIUqwIKB72ujhh80Z3vj5qRo91Eiba8XQBqDXY6w018F2Wy2m1a01cn313kUqQvI/64",
+      "content": "比预约一季报提前了一周，然后又是提前拉完晚上就出业绩，明天继续博弈，医药这个行业投资性价比太低真遭不住了",
+      "create_time": 1778082649,
+      "like_num": 2,
+      "is_elected": true,
+      "is_author": false,
+      "raw": {
+        "author_like_status": 0,
+        "bizattr_servicetype": 0,
+        "can_share": true,
+        "content": "比预约一季报提前了一周，然后又是提前拉完晚上就出业绩，明天继续博弈，医药这个行业投资性价比太低真遭不住了",
+        "content_id": "3141212305744724399",
+        "create_time": 1778082649,
+        "dislike_status": 0,
+        "id": 2,
+        "identity_name": "otWnb6UA8yVBJtbYWLvlWL_x_0Bc",
+        "identity_type": 0,
+        "ip_wording": {
+          "city_id": "",
+          "city_name": "",
+          "country_id": "156",
+          "country_name": "中国",
+          "province_id": "",
+          "province_name": "四川"
+        },
+        "is_can_delete": false,
+        "is_elected": 1,
+        "is_first_comment": false,
+        "is_from": 0,
+        "is_from_friend": 0,
+        "is_from_me": 0,
+        "is_reward": 0,
+        "is_top": 0,
+        "like_num": 2,
+        "like_status": 0,
+        "logo_url": "https://wx.qlogo.cn/mmopen/M5ev2aeIIdlXia6icAogH9NRgFkZX6BNuQoJIUqwIKB72ujhh80Z3vj5qRo91Eiba8XQBqDXY6w018F2Wy2m1a01cn313kUqQvI/64",
+        "multi_info": {
+          "emojis": [],
+          "pictures": [],
+          "voices": []
+        },
+        "my_id": 431,
+        "need_show_publish_tips": false,
+        "nick_name": "廖书豪",
+        "openid": "otWnb6UA8yVBJtbYWLvlWL_x_0Bc",
+        "party_flag": 0,
+        "reply_new": {
+          "max_reply_id": 4,
+          "reply_list": [
+            {
+              "author_like_status": 0,
+              "bizattr_servicetype": 1,
+              "can_share": true,
+              "content": "没有提前，A股完整一季报还是预定的时间，今天发布的是美股的一季度业绩。",
+              "create_time": 1778082773,
+              "from_ai": false,
+              "identity_name": "gh_9a9c8e147c7e",
+              "identity_type": 1,
+              "is_deleted": 0,
+              "is_from": 2,
+              "is_from_friend": 0,
+              "is_reward": 0,
+              "logo_url": "https://wx.qlogo.cn/mmhead/Q3auHgzwzM45AZYW3xRiaOnSUEiaOn6AkrVeQPptZPQQkZ15Beb16x1A/64",
+              "multi_info": {
+                "emojis": [],
+                "pictures": [],
+                "voices": []
+              },
+              "nick_name": "龙谈价值2023",
+              "openid": "",
+              "reply_del_flag": 0,
+              "reply_dislike_status": 0,
+              "reply_id": 1,
+              "reply_is_elected": 1,
+              "reply_like_num": 8,
+              "reply_like_status": 0,
+              "rich_content": {
+                "subcontent_list": []
+              }
+            },
+            {
+              "author_like_status": 0,
+              "bizattr_servicetype": 1,
+              "can_share": true,
+              "content": "是的，血液瘤一季度是全年低基数，看去年q1环比也是4%的下降",
+              "create_time": 1778084332,
+              "from_ai": false,
+              "identity_name": "gh_9a9c8e147c7e",
+              "identity_type": 1,
+              "is_deleted": 0,
+              "is_from": 2,
+              "is_from_friend": 0,
+              "is_reward": 0,
+              "logo_url": "https://wx.qlogo.cn/mmhead/Q3auHgzwzM45AZYW3xRiaOnSUEiaOn6AkrVeQPptZPQQkZ15Beb16x1A/64",
+              "multi_info": {
+                "emojis": [],
+                "pictures": [],
+                "voices": []
+              },
+              "nick_name": "龙谈价值2023",
+              "openid": "",
+              "reply_del_flag": 0,
+              "reply_dislike_status": 0,
+              "reply_id": 3,
+              "reply_is_elected": 1,
+              "reply_like_num": 6,
+              "reply_like_status": 0,
+              "rich_content": {
+                "subcontent_list": []
+              },
+              "to_nick_name": "lh-6kg",
+              "to_reply_id": 2
+            }
+          ],
+          "reply_total_cnt": 2
+        },
+        "rich_content": {
+          "subcontent_list": []
+        }
+      }
+    },
+    {
+      "content_id": "1",
+      "parent_content_id": "3141212305744724399",
+      "nick_name": "龙谈价值2023",
+      "logo_url": "https://wx.qlogo.cn/mmhead/Q3auHgzwzM45AZYW3xRiaOnSUEiaOn6AkrVeQPptZPQQkZ15Beb16x1A/64",
+      "content": "没有提前，A股完整一季报还是预定的时间，今天发布的是美股的一季度业绩。",
+      "create_time": 1778082773,
+      "like_num": 8,
+      "is_elected": true,
+      "is_author": true,
+      "raw": {
+        "author_like_status": 0,
+        "bizattr_servicetype": 1,
+        "can_share": true,
+        "content": "没有提前，A股完整一季报还是预定的时间，今天发布的是美股的一季度业绩。",
+        "create_time": 1778082773,
+        "from_ai": false,
+        "identity_name": "gh_9a9c8e147c7e",
+        "identity_type": 1,
+        "is_deleted": 0,
+        "is_from": 2,
+        "is_from_friend": 0,
+        "is_reward": 0,
+        "logo_url": "https://wx.qlogo.cn/mmhead/Q3auHgzwzM45AZYW3xRiaOnSUEiaOn6AkrVeQPptZPQQkZ15Beb16x1A/64",
+        "multi_info": {
+          "emojis": [],
+          "pictures": [],
+          "voices": []
+        },
+        "nick_name": "龙谈价值2023",
+        "openid": "",
+        "reply_del_flag": 0,
+        "reply_dislike_status": 0,
+        "reply_id": 1,
+        "reply_is_elected": 1,
+        "reply_like_num": 8,
+        "reply_like_status": 0,
+        "rich_content": {
+          "subcontent_list": []
+        }
+      }
+    },
+    {
+      "content_id": "3",
+      "parent_content_id": "3141212305744724399",
+      "nick_name": "龙谈价值2023",
+      "logo_url": "https://wx.qlogo.cn/mmhead/Q3auHgzwzM45AZYW3xRiaOnSUEiaOn6AkrVeQPptZPQQkZ15Beb16x1A/64",
+      "content": "是的，血液瘤一季度是全年低基数，看去年q1环比也是4%的下降",
+      "create_time": 1778084332,
+      "like_num": 6,
+      "is_elected": true,
+      "is_author": true,
+      "raw": {
+        "author_like_status": 0,
+        "bizattr_servicetype": 1,
+        "can_share": true,
+        "content": "是的，血液瘤一季度是全年低基数，看去年q1环比也是4%的下降",
+        "create_time": 1778084332,
+        "from_ai": false,
+        "identity_name": "gh_9a9c8e147c7e",
+        "identity_type": 1,
+        "is_deleted": 0,
+        "is_from": 2,
+        "is_from_friend": 0,
+        "is_reward": 0,
+        "logo_url": "https://wx.qlogo.cn/mmhead/Q3auHgzwzM45AZYW3xRiaOnSUEiaOn6AkrVeQPptZPQQkZ15Beb16x1A/64",
+        "multi_info": {
+          "emojis": [],
+          "pictures": [],
+          "voices": []
+        },
+        "nick_name": "龙谈价值2023",
+        "openid": "",
+        "reply_del_flag": 0,
+        "reply_dislike_status": 0,
+        "reply_id": 3,
+        "reply_is_elected": 1,
+        "reply_like_num": 6,
+        "reply_like_status": 0,
+        "rich_content": {
+          "subcontent_list": []
+        },
+        "to_nick_name": "lh-6kg",
+        "to_reply_id": 2
+      }
+    },
+    {
+      "content_id": "6544219343675195440",
+      "parent_content_id": "",
+      "nick_name": "杨词银",
+      "logo_url": "https://wx.qlogo.cn/mmopen/AbruuZ3ILClnCdxltTAYqogDPREFte0Siaz697kLnicPSpCjGpehAY4NsPowbClI6Ulib20Eyr1A4BoUtAl4k7hnZPib50s7PIpL6uRapSotZow19nSEYh3xjq1J0QV4RTGic/64",
+      "content": "龙哥，能分析下泰格的一季报吗？",
+      "create_time": 1778116916,
+      "like_num": 0,
+      "is_elected": true,
+      "is_author": false,
+      "raw": {
+        "author_like_status": 0,
+        "bizattr_servicetype": 0,
+        "can_share": true,
+        "content": "龙哥，能分析下泰格的一季报吗？",
+        "content_id": "6544219343675195440",
+        "create_time": 1778116916,
+        "dislike_status": 0,
+        "id": 10,
+        "identity_name": "otWnb6RCQVmdjYYhch0REo0Zt3no",
+        "identity_type": 0,
+        "ip_wording": {
+          "city_id": "",
+          "city_name": "",
+          "country_id": "156",
+          "country_name": "中国",
+          "province_id": "",
+          "province_name": "吉林"
+        },
+        "is_can_delete": false,
+        "is_elected": 1,
+        "is_first_comment": false,
+        "is_from": 0,
+        "is_from_friend": 0,
+        "is_from_me": 0,
+        "is_reward": 0,
+        "is_top": 0,
+        "like_num": 0,
+        "like_status": 0,
+        "logo_url": "https://wx.qlogo.cn/mmopen/AbruuZ3ILClnCdxltTAYqogDPREFte0Siaz697kLnicPSpCjGpehAY4NsPowbClI6Ulib20Eyr1A4BoUtAl4k7hnZPib50s7PIpL6uRapSotZow19nSEYh3xjq1J0QV4RTGic/64",
+        "multi_info": {
+          "emojis": [],
+          "pictures": [],
+          "voices": []
+        },
+        "my_id": 48,
+        "need_show_publish_tips": false,
+        "nick_name": "杨词银",
+        "openid": "otWnb6RCQVmdjYYhch0REo0Zt3no",
+        "party_flag": 0,
+        "reply_new": {
+          "max_reply_id": 3,
+          "reply_list": [
+            {
+              "author_like_status": 0,
+              "bizattr_servicetype": 1,
+              "can_share": true,
+              "content": "泰格医药的一季报出来后股价大跌，市场反应的比较负面，应该还是市场对行业修复的预期比较高，尤其是药明系和凯莱英这些在前面有不错的业绩表现顶着，更显得泰格的一季报一般。那从具体业绩和订单来说，收入双位数是正常水平，符合订单趋势和公司业绩指引，公司到现在还没完全消化完周期低点时候的低价订单，从25年报交流到26一季报交流公司也都在强调业绩的显著改善会出现在Q3Q4，包括昭衍在内的临床前CRO实际上也是这样的口径，所以毛利率和扣非利润端都要看下半年，归母口径的话由于有投资收益，需要单独看投资收益部分，泰格今年还是会有不少投资项目兑现收益的。\n所以总体来说泰格医药在内的临床CRO的业绩修复只是时间问题，只是时间节奏上各家头部CXO公司确实不同步，和其业务结构有较大关系。",
+              "create_time": 1778117985,
+              "from_ai": false,
+              "highlight": {
+                "highlight_pos": [
+                  0,
+                  51,
+                  191
+                ],
+                "s1s_context_info": [
+                  "%7B%22mixerCommonContext%22%3A%22%7B%5C%22mixerrank_list%5C%22%3A%5B%7B%5C%22client_type%5C%22%3A2%2C%5C%22sub_type%5C%22%3A0%2C%5C%22rank_pos%5C%22%3A20%2C%5C%22docid%5C%22%3A%5C%2211479023415385485663%5C%22%7D%5D%2C%5C%22scene%5C%22%3A205%7D%22%7D",
+                  "%7B%22mixerCommonContext%22%3A%22%7B%5C%22mixerrank_list%5C%22%3A%5B%7B%5C%22client_type%5C%22%3A2%2C%5C%22sub_type%5C%22%3A0%2C%5C%22rank_pos%5C%22%3A20%2C%5C%22docid%5C%22%3A%5C%2211479023415385485663%5C%22%7D%5D%2C%5C%22scene%5C%22%3A205%7D%22%7D",
+                  "%7B%22mixerCommonContext%22%3A%22%7B%5C%22mixerrank_list%5C%22%3A%5B%7B%5C%22client_type%5C%22%3A2%2C%5C%22sub_type%5C%22%3A0%2C%5C%22rank_pos%5C%22%3A20%2C%5C%22docid%5C%22%3A%5C%2211479023415385485663%5C%22%7D%5D%2C%5C%22scene%5C%22%3A205%7D%22%7D"
+                ],
+                "s1s_jsapi_name": [
+                  "openWXSearchHalfPage",
+                  "openWXSearchHalfPage",
+                  "openWXSearchHalfPage"
+                ],
+                "s1s_jsapi_paras": [
+                  "{\"scene\":205,\"isAutoShowUnitInHalfScreen\":1,\"hiddenSearchHeader\":0,\"parentType\":135,\"webviewHeightRatio\":0.699999989, \"kvItems\":[], \"sessionKvItems\":[] }",
+                  "{\"scene\":205,\"isAutoShowUnitInHalfScreen\":1,\"hiddenSearchHeader\":0,\"parentType\":135,\"webviewHeightRatio\":0.699999989, \"kvItems\":[], \"sessionKvItems\":[] }",
+                  "{\"scene\":205,\"isAutoShowUnitInHalfScreen\":1,\"hiddenSearchHeader\":0,\"parentType\":135,\"webviewHeightRatio\":0.699999989, \"kvItems\":[], \"sessionKvItems\":[] }"
+                ],
+                "s1s_stat_info": [
+                  "%7B%22bizuin%22%3A3923470773%2C%22appmsgid%22%3A2247485963%2C%22itemidx%22%3A1%2C%22comment_id%22%3A%224504503311408185348%22%2C%22content_id%22%3A%226544219343675195440%22%2C%22reply_id%22%3A1%2C%22docid%22%3A%2211479023415385485663%22%2C%22pos%22%3A0%2C%22request_type%22%3A1%2C%22request_id%22%3A%228747324831077690965%22%2C%22query%22%3A%22%E6%B3%B0%E6%A0%BC%E5%8C%BB%E8%8D%AF%22%2C%22search_id%22%3A%228747324831077690965%22%7D",
+                  "%7B%22bizuin%22%3A3923470773%2C%22appmsgid%22%3A2247485963%2C%22itemidx%22%3A1%2C%22comment_id%22%3A%224504503311408185348%22%2C%22content_id%22%3A%226544219343675195440%22%2C%22reply_id%22%3A1%2C%22docid%22%3A%2211479023415385485663%22%2C%22pos%22%3A51%2C%22request_type%22%3A1%2C%22request_id%22%3A%228747324831077690965%22%2C%22query%22%3A%22%E5%87%AF%E8%8E%B1%E8%8B%B1%22%2C%22search_id%22%3A%228747324831077690965%22%7D",
+                  "%7B%22bizuin%22%3A3923470773%2C%22appmsgid%22%3A2247485963%2C%22itemidx%22%3A1%2C%22comment_id%22%3A%224504503311408185348%22%2C%22content_id%22%3A%226544219343675195440%22%2C%22reply_id%22%3A1%2C%22docid%22%3A%2211479023415385485663%22%2C%22pos%22%3A191%2C%22request_type%22%3A1%2C%22request_id%22%3A%228747324831077690965%22%2C%22query%22%3A%22CRO%22%2C%22search_id%22%3A%228747324831077690965%22%7D"
+                ],
+                "word": [
+                  "泰格医药",
+                  "凯莱英",
+                  "CRO"
+                ]
+              },
+              "identity_name": "gh_9a9c8e147c7e",
+              "identity_type": 1,
+              "is_deleted": 0,
+              "is_from": 2,
+              "is_from_friend": 0,
+              "is_reward": 0,
+              "logo_url": "https://wx.qlogo.cn/mmhead/Q3auHgzwzM45AZYW3xRiaOnSUEiaOn6AkrVeQPptZPQQkZ15Beb16x1A/64",
+              "multi_info": {
+                "emojis": [],
+                "pictures": [],
+                "voices": []
+              },
+              "nick_name": "龙谈价值2023",
+              "openid": "",
+              "reply_del_flag": 0,
+              "reply_dislike_status": 0,
+              "reply_id": 1,
+              "reply_is_elected": 1,
+              "reply_like_num": 6,
+              "reply_like_status": 0,
+              "rich_content": {
+                "subcontent_list": []
+              }
+            }
+          ],
+          "reply_total_cnt": 1
+        },
+        "rich_content": {
+          "subcontent_list": []
+        }
+      }
+    },
+    {
+      "content_id": "1",
+      "parent_content_id": "6544219343675195440",
+      "nick_name": "龙谈价值2023",
+      "logo_url": "https://wx.qlogo.cn/mmhead/Q3auHgzwzM45AZYW3xRiaOnSUEiaOn6AkrVeQPptZPQQkZ15Beb16x1A/64",
+      "content": "泰格医药的一季报出来后股价大跌，市场反应的比较负面，应该还是市场对行业修复的预期比较高，尤其是药明系和凯莱英这些在前面有不错的业绩表现顶着，更显得泰格的一季报一般。那从具体业绩和订单来说，收入双位数是正常水平，符合订单趋势和公司业绩指引，公司到现在还没完全消化完周期低点时候的低价订单，从25年报交流到26一季报交流公司也都在强调业绩的显著改善会出现在Q3Q4，包括昭衍在内的临床前CRO实际上也是这样的口径，所以毛利率和扣非利润端都要看下半年，归母口径的话由于有投资收益，需要单独看投资收益部分，泰格今年还是会有不少投资项目兑现收益的。\n所以总体来说泰格医药在内的临床CRO的业绩修复只是时间问题，只是时间节奏上各家头部CXO公司确实不同步，和其业务结构有较大关系。",
+      "create_time": 1778117985,
+      "like_num": 6,
+      "is_elected": true,
+      "is_author": true,
+      "raw": {
+        "author_like_status": 0,
+        "bizattr_servicetype": 1,
+        "can_share": true,
+        "content": "泰格医药的一季报出来后股价大跌，市场反应的比较负面，应该还是市场对行业修复的预期比较高，尤其是药明系和凯莱英这些在前面有不错的业绩表现顶着，更显得泰格的一季报一般。那从具体业绩和订单来说，收入双位数是正常水平，符合订单趋势和公司业绩指引，公司到现在还没完全消化完周期低点时候的低价订单，从25年报交流到26一季报交流公司也都在强调业绩的显著改善会出现在Q3Q4，包括昭衍在内的临床前CRO实际上也是这样的口径，所以毛利率和扣非利润端都要看下半年，归母口径的话由于有投资收益，需要单独看投资收益部分，泰格今年还是会有不少投资项目兑现收益的。\n所以总体来说泰格医药在内的临床CRO的业绩修复只是时间问题，只是时间节奏上各家头部CXO公司确实不同步，和其业务结构有较大关系。",
+        "create_time": 1778117985,
+        "from_ai": false,
+        "highlight": {
+          "highlight_pos": [
+            0,
+            51,
+            191
+          ],
+          "s1s_context_info": [
+            "%7B%22mixerCommonContext%22%3A%22%7B%5C%22mixerrank_list%5C%22%3A%5B%7B%5C%22client_type%5C%22%3A2%2C%5C%22sub_type%5C%22%3A0%2C%5C%22rank_pos%5C%22%3A20%2C%5C%22docid%5C%22%3A%5C%2211479023415385485663%5C%22%7D%5D%2C%5C%22scene%5C%22%3A205%7D%22%7D",
+            "%7B%22mixerCommonContext%22%3A%22%7B%5C%22mixerrank_list%5C%22%3A%5B%7B%5C%22client_type%5C%22%3A2%2C%5C%22sub_type%5C%22%3A0%2C%5C%22rank_pos%5C%22%3A20%2C%5C%22docid%5C%22%3A%5C%2211479023415385485663%5C%22%7D%5D%2C%5C%22scene%5C%22%3A205%7D%22%7D",
+            "%7B%22mixerCommonContext%22%3A%22%7B%5C%22mixerrank_list%5C%22%3A%5B%7B%5C%22client_type%5C%22%3A2%2C%5C%22sub_type%5C%22%3A0%2C%5C%22rank_pos%5C%22%3A20%2C%5C%22docid%5C%22%3A%5C%2211479023415385485663%5C%22%7D%5D%2C%5C%22scene%5C%22%3A205%7D%22%7D"
+          ],
+          "s1s_jsapi_name": [
+            "openWXSearchHalfPage",
+            "openWXSearchHalfPage",
+            "openWXSearchHalfPage"
+          ],
+          "s1s_jsapi_paras": [
+            "{\"scene\":205,\"isAutoShowUnitInHalfScreen\":1,\"hiddenSearchHeader\":0,\"parentType\":135,\"webviewHeightRatio\":0.699999989, \"kvItems\":[], \"sessionKvItems\":[] }",
+            "{\"scene\":205,\"isAutoShowUnitInHalfScreen\":1,\"hiddenSearchHeader\":0,\"parentType\":135,\"webviewHeightRatio\":0.699999989, \"kvItems\":[], \"sessionKvItems\":[] }",
+            "{\"scene\":205,\"isAutoShowUnitInHalfScreen\":1,\"hiddenSearchHeader\":0,\"parentType\":135,\"webviewHeightRatio\":0.699999989, \"kvItems\":[], \"sessionKvItems\":[] }"
+          ],
+          "s1s_stat_info": [
+            "%7B%22bizuin%22%3A3923470773%2C%22appmsgid%22%3A2247485963%2C%22itemidx%22%3A1%2C%22comment_id%22%3A%224504503311408185348%22%2C%22content_id%22%3A%226544219343675195440%22%2C%22reply_id%22%3A1%2C%22docid%22%3A%2211479023415385485663%22%2C%22pos%22%3A0%2C%22request_type%22%3A1%2C%22request_id%22%3A%228747324831077690965%22%2C%22query%22%3A%22%E6%B3%B0%E6%A0%BC%E5%8C%BB%E8%8D%AF%22%2C%22search_id%22%3A%228747324831077690965%22%7D",
+            "%7B%22bizuin%22%3A3923470773%2C%22appmsgid%22%3A2247485963%2C%22itemidx%22%3A1%2C%22comment_id%22%3A%224504503311408185348%22%2C%22content_id%22%3A%226544219343675195440%22%2C%22reply_id%22%3A1%2C%22docid%22%3A%2211479023415385485663%22%2C%22pos%22%3A51%2C%22request_type%22%3A1%2C%22request_id%22%3A%228747324831077690965%22%2C%22query%22%3A%22%E5%87%AF%E8%8E%B1%E8%8B%B1%22%2C%22search_id%22%3A%228747324831077690965%22%7D",
+            "%7B%22bizuin%22%3A3923470773%2C%22appmsgid%22%3A2247485963%2C%22itemidx%22%3A1%2C%22comment_id%22%3A%224504503311408185348%22%2C%22content_id%22%3A%226544219343675195440%22%2C%22reply_id%22%3A1%2C%22docid%22%3A%2211479023415385485663%22%2C%22pos%22%3A191%2C%22request_type%22%3A1%2C%22request_id%22%3A%228747324831077690965%22%2C%22query%22%3A%22CRO%22%2C%22search_id%22%3A%228747324831077690965%22%7D"
+          ],
+          "word": [
+            "泰格医药",
+            "凯莱英",
+            "CRO"
+          ]
+        },
+        "identity_name": "gh_9a9c8e147c7e",
+        "identity_type": 1,
+        "is_deleted": 0,
+        "is_from": 2,
+        "is_from_friend": 0,
+        "is_reward": 0,
+        "logo_url": "https://wx.qlogo.cn/mmhead/Q3auHgzwzM45AZYW3xRiaOnSUEiaOn6AkrVeQPptZPQQkZ15Beb16x1A/64",
+        "multi_info": {
+          "emojis": [],
+          "pictures": [],
+          "voices": []
+        },
+        "nick_name": "龙谈价值2023",
+        "openid": "",
+        "reply_del_flag": 0,
+        "reply_dislike_status": 0,
+        "reply_id": 1,
+        "reply_is_elected": 1,
+        "reply_like_num": 6,
+        "reply_like_status": 0,
+        "rich_content": {
+          "subcontent_list": []
+        }
+      }
+    },
+    {
+      "content_id": "6562445458302566541",
+      "parent_content_id": "",
+      "nick_name": "杨志高",
+      "logo_url": "https://wx.qlogo.cn/mmopen/AbruuZ3ILClEOfrgP4ygLqXlFrZdkiby2VUlH3uclbPHzOibyODcqjrTsLstabfg3YGnnquMtgvZC2eIEMCNQNlVe6wfSW2L9X/64",
+      "content": "除了泽布替尼和替雷利珠单抗，百济的其他管线有什么进展吗？什么时候有像修美乐，替尔泊肽这样的药王，百济的股价才能一飞冲天",
+      "create_time": 1778108094,
+      "like_num": 0,
+      "is_elected": true,
+      "is_author": false,
+      "raw": {
+        "author_like_status": 0,
+        "bizattr_servicetype": 0,
+        "can_share": true,
+        "content": "除了泽布替尼和替雷利珠单抗，百济的其他管线有什么进展吗？什么时候有像修美乐，替尔泊肽这样的药王，百济的股价才能一飞冲天",
+        "content_id": "6562445458302566541",
+        "create_time": 1778108094,
+        "dislike_status": 0,
+        "highlight": {
+          "highlight_pos": [
+            34
+          ],
+          "s1s_context_info": [
+            "%7B%22mixerCommonContext%22%3A%22%7B%5C%22mixerrank_list%5C%22%3A%5B%7B%5C%22client_type%5C%22%3A2%2C%5C%22sub_type%5C%22%3A0%2C%5C%22rank_pos%5C%22%3A20%2C%5C%22docid%5C%22%3A%5C%2211479023415385485663%5C%22%7D%5D%2C%5C%22scene%5C%22%3A205%7D%22%7D"
+          ],
+          "s1s_jsapi_name": [
+            "openWXSearchHalfPage"
+          ],
+          "s1s_jsapi_paras": [
+            "{\"scene\":205,\"isAutoShowUnitInHalfScreen\":1,\"hiddenSearchHeader\":0,\"parentType\":135,\"webviewHeightRatio\":0.699999989, \"kvItems\":[], \"sessionKvItems\":[] }"
+          ],
+          "s1s_stat_info": [
+            "%7B%22bizuin%22%3A3923470773%2C%22appmsgid%22%3A2247485963%2C%22itemidx%22%3A1%2C%22comment_id%22%3A%224504503311408185348%22%2C%22content_id%22%3A%226562445458302566541%22%2C%22reply_id%22%3A0%2C%22docid%22%3A%2211479023415385485663%22%2C%22pos%22%3A34%2C%22request_type%22%3A1%2C%22request_id%22%3A%228747324831077690965%22%2C%22query%22%3A%22%E4%BF%AE%E7%BE%8E%E4%B9%90%22%2C%22search_id%22%3A%228747324831077690965%22%7D"
+          ],
+          "word": [
+            "修美乐"
+          ]
+        },
+        "id": 7,
+        "identity_name": "otWnb6YnkVJSWeVkCTaRUvcMS-3A",
+        "identity_type": 0,
+        "ip_wording": {
+          "city_id": "",
+          "city_name": "",
+          "country_id": "156",
+          "country_name": "中国",
+          "province_id": "",
+          "province_name": "湖北"
+        },
+        "is_can_delete": false,
+        "is_elected": 1,
+        "is_first_comment": false,
+        "is_from": 0,
+        "is_from_friend": 0,
+        "is_from_me": 0,
+        "is_reward": 0,
+        "is_top": 0,
+        "like_num": 0,
+        "like_status": 0,
+        "logo_url": "https://wx.qlogo.cn/mmopen/AbruuZ3ILClEOfrgP4ygLqXlFrZdkiby2VUlH3uclbPHzOibyODcqjrTsLstabfg3YGnnquMtgvZC2eIEMCNQNlVe6wfSW2L9X/64",
+        "multi_info": {
+          "emojis": [],
+          "pictures": [],
+          "voices": []
+        },
+        "my_id": 141,
+        "need_show_publish_tips": false,
+        "nick_name": "杨志高",
+        "openid": "otWnb6YnkVJSWeVkCTaRUvcMS-3A",
+        "party_flag": 0,
+        "reply_new": {
+          "max_reply_id": 2,
+          "reply_list": [
+            {
+              "author_like_status": 0,
+              "bizattr_servicetype": 1,
+              "can_share": true,
+              "content": "谁都知道修美乐和替尔泊肽这样的药能成就千亿美金以上市值的药企，但在全球创新药历史上也就四五个这样的品种，对药企来说可遇而不可求",
+              "create_time": 1778112394,
+              "from_ai": false,
+              "identity_name": "gh_9a9c8e147c7e",
+              "identity_type": 1,
+              "is_deleted": 0,
+              "is_from": 2,
+              "is_from_friend": 0,
+              "is_reward": 0,
+              "logo_url": "https://wx.qlogo.cn/mmhead/Q3auHgzwzM45AZYW3xRiaOnSUEiaOn6AkrVeQPptZPQQkZ15Beb16x1A/64",
+              "multi_info": {
+                "emojis": [],
+                "pictures": [],
+                "voices": []
+              },
+              "nick_name": "龙谈价值2023",
+              "openid": "",
+              "reply_del_flag": 0,
+              "reply_dislike_status": 0,
+              "reply_id": 1,
+              "reply_is_elected": 1,
+              "reply_like_num": 6,
+              "reply_like_status": 0,
+              "rich_content": {
+                "subcontent_list": []
+              }
+            }
+          ],
+          "reply_total_cnt": 1
+        },
+        "rich_content": {
+          "subcontent_list": []
+        }
+      }
+    },
+    {
+      "content_id": "1",
+      "parent_content_id": "6562445458302566541",
+      "nick_name": "龙谈价值2023",
+      "logo_url": "https://wx.qlogo.cn/mmhead/Q3auHgzwzM45AZYW3xRiaOnSUEiaOn6AkrVeQPptZPQQkZ15Beb16x1A/64",
+      "content": "谁都知道修美乐和替尔泊肽这样的药能成就千亿美金以上市值的药企，但在全球创新药历史上也就四五个这样的品种，对药企来说可遇而不可求",
+      "create_time": 1778112394,
+      "like_num": 6,
+      "is_elected": true,
+      "is_author": true,
+      "raw": {
+        "author_like_status": 0,
+        "bizattr_servicetype": 1,
+        "can_share": true,
+        "content": "谁都知道修美乐和替尔泊肽这样的药能成就千亿美金以上市值的药企，但在全球创新药历史上也就四五个这样的品种，对药企来说可遇而不可求",
+        "create_time": 1778112394,
+        "from_ai": false,
+        "identity_name": "gh_9a9c8e147c7e",
+        "identity_type": 1,
+        "is_deleted": 0,
+        "is_from": 2,
+        "is_from_friend": 0,
+        "is_reward": 0,
+        "logo_url": "https://wx.qlogo.cn/mmhead/Q3auHgzwzM45AZYW3xRiaOnSUEiaOn6AkrVeQPptZPQQkZ15Beb16x1A/64",
+        "multi_info": {
+          "emojis": [],
+          "pictures": [],
+          "voices": []
+        },
+        "nick_name": "龙谈价值2023",
+        "openid": "",
+        "reply_del_flag": 0,
+        "reply_dislike_status": 0,
+        "reply_id": 1,
+        "reply_is_elected": 1,
+        "reply_like_num": 6,
+        "reply_like_status": 0,
+        "rich_content": {
+          "subcontent_list": []
+        }
+      }
+    },
+    {
+      "content_id": "7166215669963292737",
+      "parent_content_id": "",
+      "nick_name": "'AAA雪碧爱可乐",
+      "logo_url": "https://wx.qlogo.cn/mmopen/ajNVdqHZLLBYC49tCm0XNpJe2uWoPAebVVloib8JSC2icBndYoqrp4p88wpwblbctaFCKVIalHnibA4ucdylHpkf1iabuYnuuqDE96b28wEQfwRn8jA6NibJ4Ua5eQf9SPrXf/64",
+      "content": "谈谈恒瑞",
+      "create_time": 1778111820,
+      "like_num": 1,
+      "is_elected": true,
+      "is_author": false,
+      "raw": {
+        "author_like_status": 0,
+        "bizattr_servicetype": 0,
+        "can_share": true,
+        "content": "谈谈恒瑞",
+        "content_id": "7166215669963292737",
+        "create_time": 1778111820,
+        "dislike_status": 0,
+        "id": 8,
+        "identity_name": "otWnb6WoK3J76_q2RD-otgEAIKCs",
+        "identity_type": 0,
+        "ip_wording": {
+          "city_id": "",
+          "city_name": "",
+          "country_id": "156",
+          "country_name": "中国",
+          "province_id": "",
+          "province_name": "河南"
+        },
+        "is_can_delete": false,
+        "is_elected": 1,
+        "is_first_comment": false,
+        "is_from": 0,
+        "is_from_friend": 0,
+        "is_from_me": 0,
+        "is_reward": 0,
+        "is_top": 0,
+        "like_num": 1,
+        "like_status": 0,
+        "logo_url": "https://wx.qlogo.cn/mmopen/ajNVdqHZLLBYC49tCm0XNpJe2uWoPAebVVloib8JSC2icBndYoqrp4p88wpwblbctaFCKVIalHnibA4ucdylHpkf1iabuYnuuqDE96b28wEQfwRn8jA6NibJ4Ua5eQf9SPrXf/64",
+        "multi_info": {
+          "emojis": [],
+          "pictures": [],
+          "voices": []
+        },
+        "my_id": 65,
+        "need_show_publish_tips": false,
+        "nick_name": "'AAA雪碧爱可乐",
+        "openid": "otWnb6WoK3J76_q2RD-otgEAIKCs",
+        "party_flag": 0,
+        "reply_new": {
+          "max_reply_id": 3,
+          "reply_list": [
+            {
+              "author_like_status": 0,
+              "bizattr_servicetype": 1,
+              "can_share": true,
+              "content": "往前翻历史文章",
+              "create_time": 1778111973,
+              "from_ai": false,
+              "identity_name": "gh_9a9c8e147c7e",
+              "identity_type": 1,
+              "is_deleted": 0,
+              "is_from": 2,
+              "is_from_friend": 0,
+              "is_reward": 0,
+              "logo_url": "https://wx.qlogo.cn/mmhead/Q3auHgzwzM45AZYW3xRiaOnSUEiaOn6AkrVeQPptZPQQkZ15Beb16x1A/64",
+              "multi_info": {
+                "emojis": [],
+                "pictures": [],
+                "voices": []
+              },
+              "nick_name": "龙谈价值2023",
+              "openid": "",
+              "reply_del_flag": 0,
+              "reply_dislike_status": 0,
+              "reply_id": 1,
+              "reply_is_elected": 1,
+              "reply_like_num": 5,
+              "reply_like_status": 0,
+              "rich_content": {
+                "subcontent_list": []
+              }
+            }
+          ],
+          "reply_total_cnt": 1
+        },
+        "rich_content": {
+          "subcontent_list": []
+        }
+      }
+    },
+    {
+      "content_id": "1",
+      "parent_content_id": "7166215669963292737",
+      "nick_name": "龙谈价值2023",
+      "logo_url": "https://wx.qlogo.cn/mmhead/Q3auHgzwzM45AZYW3xRiaOnSUEiaOn6AkrVeQPptZPQQkZ15Beb16x1A/64",
+      "content": "往前翻历史文章",
+      "create_time": 1778111973,
+      "like_num": 5,
+      "is_elected": true,
+      "is_author": true,
+      "raw": {
+        "author_like_status": 0,
+        "bizattr_servicetype": 1,
+        "can_share": true,
+        "content": "往前翻历史文章",
+        "create_time": 1778111973,
+        "from_ai": false,
+        "identity_name": "gh_9a9c8e147c7e",
+        "identity_type": 1,
+        "is_deleted": 0,
+        "is_from": 2,
+        "is_from_friend": 0,
+        "is_reward": 0,
+        "logo_url": "https://wx.qlogo.cn/mmhead/Q3auHgzwzM45AZYW3xRiaOnSUEiaOn6AkrVeQPptZPQQkZ15Beb16x1A/64",
+        "multi_info": {
+          "emojis": [],
+          "pictures": [],
+          "voices": []
+        },
+        "nick_name": "龙谈价值2023",
+        "openid": "",
+        "reply_del_flag": 0,
+        "reply_dislike_status": 0,
+        "reply_id": 1,
+        "reply_is_elected": 1,
+        "reply_like_num": 5,
+        "reply_like_status": 0,
+        "rich_content": {
+          "subcontent_list": []
+        }
+      }
+    },
+    {
+      "content_id": "5652867351759028271",
+      "parent_content_id": "",
+      "nick_name": "吴哲-Ethan",
+      "logo_url": "https://wx.qlogo.cn/mmopen/ajNVdqHZLLBY4ERE6j940r0EusbfWC318MISxibAVGibvmJtdeFGk2H6yDU84G71xMfDZfxzeUaEuQvlkWCIqF0xBvaSIdnibZjLE3Bic9MMnHzWWpIhGn3PuZ4CO48kicFqt/64",
+      "content": "谈谈复兴医药[呲牙]",
+      "create_time": 1778113844,
+      "like_num": 0,
+      "is_elected": true,
+      "is_author": false,
+      "raw": {
+        "author_like_status": 0,
+        "bizattr_servicetype": 0,
+        "can_share": true,
+        "content": "谈谈复兴医药[呲牙]",
+        "content_id": "5652867351759028271",
+        "create_time": 1778113844,
+        "dislike_status": 0,
+        "id": 9,
+        "identity_name": "otWnb6UCETyrKqX73qsqr-wT6KOw",
+        "identity_type": 0,
+        "ip_wording": {
+          "city_id": "",
+          "city_name": "",
+          "country_id": "156",
+          "country_name": "中国",
+          "province_id": "",
+          "province_name": "广东"
+        },
+        "is_can_delete": false,
+        "is_elected": 1,
+        "is_first_comment": false,
+        "is_from": 0,
+        "is_from_friend": 0,
+        "is_from_me": 0,
+        "is_reward": 0,
+        "is_top": 0,
+        "like_num": 0,
+        "like_status": 0,
+        "logo_url": "https://wx.qlogo.cn/mmopen/ajNVdqHZLLBY4ERE6j940r0EusbfWC318MISxibAVGibvmJtdeFGk2H6yDU84G71xMfDZfxzeUaEuQvlkWCIqF0xBvaSIdnibZjLE3Bic9MMnHzWWpIhGn3PuZ4CO48kicFqt/64",
+        "multi_info": {
+          "emojis": [],
+          "pictures": [],
+          "voices": []
+        },
+        "my_id": 47,
+        "need_show_publish_tips": false,
+        "nick_name": "吴哲-Ethan",
+        "openid": "otWnb6UCETyrKqX73qsqr-wT6KOw",
+        "party_flag": 0,
+        "reply_new": {
+          "max_reply_id": 2,
+          "reply_list": [
+            {
+              "author_like_status": 0,
+              "bizattr_servicetype": 1,
+              "can_share": true,
+              "content": "可以参见3月9日的文章。复星医药的创新药管线高度依赖核心子公司复宏汉霖，既然如此就不如直接关注复宏汉霖。",
+              "create_time": 1778118116,
+              "from_ai": false,
+              "highlight": {
+                "highlight_pos": [
+                  12
+                ],
+                "s1s_context_info": [
+                  "%7B%22mixerCommonContext%22%3A%22%7B%5C%22mixerrank_list%5C%22%3A%5B%7B%5C%22client_type%5C%22%3A2%2C%5C%22sub_type%5C%22%3A0%2C%5C%22rank_pos%5C%22%3A20%2C%5C%22docid%5C%22%3A%5C%2211479023415385485663%5C%22%7D%5D%2C%5C%22scene%5C%22%3A205%7D%22%7D"
+                ],
+                "s1s_jsapi_name": [
+                  "openWXSearchHalfPage"
+                ],
+                "s1s_jsapi_paras": [
+                  "{\"scene\":205,\"isAutoShowUnitInHalfScreen\":1,\"hiddenSearchHeader\":0,\"parentType\":135,\"webviewHeightRatio\":0.699999989, \"kvItems\":[], \"sessionKvItems\":[] }"
+                ],
+                "s1s_stat_info": [
+                  "%7B%22bizuin%22%3A3923470773%2C%22appmsgid%22%3A2247485963%2C%22itemidx%22%3A1%2C%22comment_id%22%3A%224504503311408185348%22%2C%22content_id%22%3A%225652867351759028271%22%2C%22reply_id%22%3A1%2C%22docid%22%3A%2211479023415385485663%22%2C%22pos%22%3A12%2C%22request_type%22%3A1%2C%22request_id%22%3A%228747324831077690965%22%2C%22query%22%3A%22%E5%A4%8D%E6%98%9F%E5%8C%BB%E8%8D%AF%22%2C%22search_id%22%3A%228747324831077690965%22%7D"
+                ],
+                "word": [
+                  "复星医药"
+                ]
+              },
+              "identity_name": "gh_9a9c8e147c7e",
+              "identity_type": 1,
+              "is_deleted": 0,
+              "is_from": 2,
+              "is_from_friend": 0,
+              "is_reward": 0,
+              "logo_url": "https://wx.qlogo.cn/mmhead/Q3auHgzwzM45AZYW3xRiaOnSUEiaOn6AkrVeQPptZPQQkZ15Beb16x1A/64",
+              "multi_info": {
+                "emojis": [],
+                "pictures": [],
+                "voices": []
+              },
+              "nick_name": "龙谈价值2023",
+              "openid": "",
+              "reply_del_flag": 0,
+              "reply_dislike_status": 0,
+              "reply_id": 1,
+              "reply_is_elected": 1,
+              "reply_like_num": 4,
+              "reply_like_status": 0,
+              "rich_content": {
+                "subcontent_list": []
+              }
+            }
+          ],
+          "reply_total_cnt": 1
+        },
+        "rich_content": {
+          "subcontent_list": []
+        }
+      }
+    },
+    {
+      "content_id": "1",
+      "parent_content_id": "5652867351759028271",
+      "nick_name": "龙谈价值2023",
+      "logo_url": "https://wx.qlogo.cn/mmhead/Q3auHgzwzM45AZYW3xRiaOnSUEiaOn6AkrVeQPptZPQQkZ15Beb16x1A/64",
+      "content": "可以参见3月9日的文章。复星医药的创新药管线高度依赖核心子公司复宏汉霖，既然如此就不如直接关注复宏汉霖。",
+      "create_time": 1778118116,
+      "like_num": 4,
+      "is_elected": true,
+      "is_author": true,
+      "raw": {
+        "author_like_status": 0,
+        "bizattr_servicetype": 1,
+        "can_share": true,
+        "content": "可以参见3月9日的文章。复星医药的创新药管线高度依赖核心子公司复宏汉霖，既然如此就不如直接关注复宏汉霖。",
+        "create_time": 1778118116,
+        "from_ai": false,
+        "highlight": {
+          "highlight_pos": [
+            12
+          ],
+          "s1s_context_info": [
+            "%7B%22mixerCommonContext%22%3A%22%7B%5C%22mixerrank_list%5C%22%3A%5B%7B%5C%22client_type%5C%22%3A2%2C%5C%22sub_type%5C%22%3A0%2C%5C%22rank_pos%5C%22%3A20%2C%5C%22docid%5C%22%3A%5C%2211479023415385485663%5C%22%7D%5D%2C%5C%22scene%5C%22%3A205%7D%22%7D"
+          ],
+          "s1s_jsapi_name": [
+            "openWXSearchHalfPage"
+          ],
+          "s1s_jsapi_paras": [
+            "{\"scene\":205,\"isAutoShowUnitInHalfScreen\":1,\"hiddenSearchHeader\":0,\"parentType\":135,\"webviewHeightRatio\":0.699999989, \"kvItems\":[], \"sessionKvItems\":[] }"
+          ],
+          "s1s_stat_info": [
+            "%7B%22bizuin%22%3A3923470773%2C%22appmsgid%22%3A2247485963%2C%22itemidx%22%3A1%2C%22comment_id%22%3A%224504503311408185348%22%2C%22content_id%22%3A%225652867351759028271%22%2C%22reply_id%22%3A1%2C%22docid%22%3A%2211479023415385485663%22%2C%22pos%22%3A12%2C%22request_type%22%3A1%2C%22request_id%22%3A%228747324831077690965%22%2C%22query%22%3A%22%E5%A4%8D%E6%98%9F%E5%8C%BB%E8%8D%AF%22%2C%22search_id%22%3A%228747324831077690965%22%7D"
+          ],
+          "word": [
+            "复星医药"
+          ]
+        },
+        "identity_name": "gh_9a9c8e147c7e",
+        "identity_type": 1,
+        "is_deleted": 0,
+        "is_from": 2,
+        "is_from_friend": 0,
+        "is_reward": 0,
+        "logo_url": "https://wx.qlogo.cn/mmhead/Q3auHgzwzM45AZYW3xRiaOnSUEiaOn6AkrVeQPptZPQQkZ15Beb16x1A/64",
+        "multi_info": {
+          "emojis": [],
+          "pictures": [],
+          "voices": []
+        },
+        "nick_name": "龙谈价值2023",
+        "openid": "",
+        "reply_del_flag": 0,
+        "reply_dislike_status": 0,
+        "reply_id": 1,
+        "reply_is_elected": 1,
+        "reply_like_num": 4,
+        "reply_like_status": 0,
+        "rich_content": {
+          "subcontent_list": []
+        }
+      }
+    },
+    {
+      "content_id": "8571246158502954979",
+      "parent_content_id": "",
+      "nick_name": "zh-wh",
+      "logo_url": "https://wx.qlogo.cn/mmopen/AbruuZ3ILClfXWKfj351Q2TLXsribwr6tv6x8uDJ4rcvbYZ01hqeV3fJGTovGCWS3dF9lJvVN2icXup4sicqvmoYFOHvqf0FIltSbKhpIRQTeMUcl8AYHu0SwqicCT92Cg63/64",
+      "content": "不是应该在5月前公布一季报吗？为什么推迟了一周左右",
+      "create_time": 1778088151,
+      "like_num": 0,
+      "is_elected": true,
+      "is_author": false,
+      "raw": {
+        "author_like_status": 0,
+        "bizattr_servicetype": 0,
+        "can_share": true,
+        "content": "不是应该在5月前公布一季报吗？为什么推迟了一周左右",
+        "content_id": "8571246158502954979",
+        "create_time": 1778088151,
+        "dislike_status": 0,
+        "id": 4,
+        "identity_name": "otWnb6UyACINHc9lU_Zo157iSATo",
+        "identity_type": 0,
+        "ip_wording": {
+          "city_id": "",
+          "city_name": "",
+          "country_id": "156",
+          "country_name": "中国",
+          "province_id": "",
+          "province_name": "浙江"
+        },
+        "is_can_delete": false,
+        "is_elected": 1,
+        "is_first_comment": false,
+        "is_from": 0,
+        "is_from_friend": 0,
+        "is_from_me": 0,
+        "is_reward": 0,
+        "is_top": 0,
+        "like_num": 0,
+        "like_status": 0,
+        "logo_url": "https://wx.qlogo.cn/mmopen/AbruuZ3ILClfXWKfj351Q2TLXsribwr6tv6x8uDJ4rcvbYZ01hqeV3fJGTovGCWS3dF9lJvVN2icXup4sicqvmoYFOHvqf0FIltSbKhpIRQTeMUcl8AYHu0SwqicCT92Cg63/64",
+        "multi_info": {
+          "emojis": [],
+          "pictures": [],
+          "voices": []
+        },
+        "my_id": 2019,
+        "need_show_publish_tips": false,
+        "nick_name": "zh-wh",
+        "openid": "otWnb6UyACINHc9lU_Zo157iSATo",
+        "party_flag": 0,
+        "reply_new": {
+          "max_reply_id": 5,
+          "reply_list": [
+            {
+              "author_like_status": 0,
+              "bizattr_servicetype": 1,
+              "can_share": true,
+              "content": "百济神州是A股、港股、美股三地上市的企业，在上科创板的时候有豁免，可以和美股一样在45天内发布季报，而不用像绝大部分A股公司一样在30天内发布季报。",
+              "create_time": 1778118289,
+              "from_ai": false,
+              "identity_name": "gh_9a9c8e147c7e",
+              "identity_type": 1,
+              "is_deleted": 0,
+              "is_from": 2,
+              "is_from_friend": 0,
+              "is_reward": 0,
+              "logo_url": "https://wx.qlogo.cn/mmhead/Q3auHgzwzM45AZYW3xRiaOnSUEiaOn6AkrVeQPptZPQQkZ15Beb16x1A/64",
+              "multi_info": {
+                "emojis": [],
+                "pictures": [],
+                "voices": []
+              },
+              "nick_name": "龙谈价值2023",
+              "openid": "",
+              "reply_del_flag": 0,
+              "reply_dislike_status": 0,
+              "reply_id": 4,
+              "reply_is_elected": 1,
+              "reply_like_num": 4,
+              "reply_like_status": 0,
+              "rich_content": {
+                "subcontent_list": []
+              }
+            }
+          ],
+          "reply_total_cnt": 1
+        },
+        "rich_content": {
+          "subcontent_list": []
+        }
+      }
+    },
+    {
+      "content_id": "4",
+      "parent_content_id": "8571246158502954979",
+      "nick_name": "龙谈价值2023",
+      "logo_url": "https://wx.qlogo.cn/mmhead/Q3auHgzwzM45AZYW3xRiaOnSUEiaOn6AkrVeQPptZPQQkZ15Beb16x1A/64",
+      "content": "百济神州是A股、港股、美股三地上市的企业，在上科创板的时候有豁免，可以和美股一样在45天内发布季报，而不用像绝大部分A股公司一样在30天内发布季报。",
+      "create_time": 1778118289,
+      "like_num": 4,
+      "is_elected": true,
+      "is_author": true,
+      "raw": {
+        "author_like_status": 0,
+        "bizattr_servicetype": 1,
+        "can_share": true,
+        "content": "百济神州是A股、港股、美股三地上市的企业，在上科创板的时候有豁免，可以和美股一样在45天内发布季报，而不用像绝大部分A股公司一样在30天内发布季报。",
+        "create_time": 1778118289,
+        "from_ai": false,
+        "identity_name": "gh_9a9c8e147c7e",
+        "identity_type": 1,
+        "is_deleted": 0,
+        "is_from": 2,
+        "is_from_friend": 0,
+        "is_reward": 0,
+        "logo_url": "https://wx.qlogo.cn/mmhead/Q3auHgzwzM45AZYW3xRiaOnSUEiaOn6AkrVeQPptZPQQkZ15Beb16x1A/64",
+        "multi_info": {
+          "emojis": [],
+          "pictures": [],
+          "voices": []
+        },
+        "nick_name": "龙谈价值2023",
+        "openid": "",
+        "reply_del_flag": 0,
+        "reply_dislike_status": 0,
+        "reply_id": 4,
+        "reply_is_elected": 1,
+        "reply_like_num": 4,
+        "reply_like_status": 0,
+        "rich_content": {
+          "subcontent_list": []
+        }
+      }
+    },
+    {
+      "content_id": "8513259899528937680",
+      "parent_content_id": "",
+      "nick_name": "大海",
+      "logo_url": "https://wx.qlogo.cn/mmopen/CHOb57kicR3yOdS8J6NlVr62E9POpyeTSAgfJ45jHO0vDhoTjv4hyd0icwQ1yfdY0WK1AawhNLSvciaiamq018saAt8iatlAUdZFXibMTm7cx5Rs9hkpe7hSVRyJt5icZ0dXyTF/64",
+      "content": "感谢龙哥，终于等到你的第一时间解读，这个季报不枉我的等待[玫瑰]",
+      "create_time": 1778082727,
+      "like_num": 2,
+      "is_elected": true,
+      "is_author": false,
+      "raw": {
+        "author_like_status": 0,
+        "bizattr_servicetype": 0,
+        "can_share": true,
+        "content": "感谢龙哥，终于等到你的第一时间解读，这个季报不枉我的等待[玫瑰]",
+        "content_id": "8513259899528937680",
+        "create_time": 1778082727,
+        "dislike_status": 0,
+        "id": 3,
+        "identity_name": "otWnb6UjftVFkDEttdXVjm43bTyE",
+        "identity_type": 0,
+        "ip_wording": {
+          "city_id": "",
+          "city_name": "",
+          "country_id": "156",
+          "country_name": "中国",
+          "province_id": "",
+          "province_name": "浙江"
+        },
+        "is_can_delete": false,
+        "is_elected": 1,
+        "is_first_comment": false,
+        "is_from": 0,
+        "is_from_friend": 0,
+        "is_from_me": 0,
+        "is_reward": 0,
+        "is_top": 0,
+        "like_num": 2,
+        "like_status": 0,
+        "logo_url": "https://wx.qlogo.cn/mmopen/CHOb57kicR3yOdS8J6NlVr62E9POpyeTSAgfJ45jHO0vDhoTjv4hyd0icwQ1yfdY0WK1AawhNLSvciaiamq018saAt8iatlAUdZFXibMTm7cx5Rs9hkpe7hSVRyJt5icZ0dXyTF/64",
+        "multi_info": {
+          "emojis": [],
+          "pictures": [],
+          "voices": []
+        },
+        "my_id": 208,
+        "need_show_publish_tips": false,
+        "nick_name": "大海",
+        "openid": "otWnb6UjftVFkDEttdXVjm43bTyE",
+        "party_flag": 0,
+        "reply_new": {
+          "max_reply_id": 1,
+          "reply_list": [],
+          "reply_total_cnt": 0
+        },
+        "rich_content": {
+          "subcontent_list": []
+        }
+      }
+    }
+  ]
+}
